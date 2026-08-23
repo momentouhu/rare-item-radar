@@ -3,16 +3,14 @@
     "title": "レアもの速報",
     "tagline": "トレカ再販・予約開始・在庫復活を自動で見張るレーダー",
     "xHandle": "",
-    "baseUrl": ""
+    "baseUrl": "https://momentouhu.github.io/rare-item-radar/"
   },
-
   "budget": {
     "_comment": "X APIは2026年2月から従量課金。URL付き投稿は1件$0.20と高額なので上限を必ず設ける。0にすると一切APIを叩かない（手動運用モード）。",
     "maxLinkPostsPerDay": 0,
     "maxPlainPostsPerDay": 0,
     "monthlyUsdCap": 5
   },
-
   "detect": {
     "_comment": "何をイベントとして拾うか",
     "newItem": true,
@@ -20,55 +18,105 @@
     "priceDropPercent": 15,
     "maxEventsPerRun": 40
   },
-
   "watches": [
     {
       "id": "pokemon",
       "label": "ポケモンカード",
       "emoji": "⚡",
-      "keywords": ["ポケモンカード BOX 予約", "ポケモンカードゲーム 強化拡張パック BOX", "ポケカ シュリンク付き BOX"],
-      "sources": ["rakuten_ichiba", "rakuten_books", "yahoo_shopping"],
+      "keywords": [
+        "ポケモンカード BOX 予約",
+        "ポケモンカードゲーム 強化拡張パック BOX",
+        "ポケカ シュリンク付き BOX"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "rakuten_books",
+        "yahoo_shopping"
+      ],
       "filters": {
         "minPrice": 2000,
         "maxPrice": 80000,
-        "excludeWords": ["オリパ", "カスタム", "代行", "抽選代行", "自作", "ダミー", "空箱", "スリーブのみ"]
+        "excludeWords": [
+          "オリパ",
+          "カスタム",
+          "代行",
+          "抽選代行",
+          "自作",
+          "ダミー",
+          "空箱",
+          "スリーブのみ"
+        ]
       }
     },
     {
       "id": "onepiece",
       "label": "ワンピースカード",
       "emoji": "🏴‍☠️",
-      "keywords": ["ワンピースカードゲーム BOX 予約", "ワンピースカード ブースターパック BOX"],
-      "sources": ["rakuten_ichiba", "rakuten_books", "yahoo_shopping"],
+      "keywords": [
+        "ワンピースカードゲーム BOX 予約",
+        "ワンピースカード ブースターパック BOX"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "rakuten_books",
+        "yahoo_shopping"
+      ],
       "filters": {
         "minPrice": 2000,
         "maxPrice": 80000,
-        "excludeWords": ["オリパ", "カスタム", "代行", "自作", "空箱"]
+        "excludeWords": [
+          "オリパ",
+          "カスタム",
+          "代行",
+          "自作",
+          "空箱"
+        ]
       }
     },
     {
       "id": "mtg",
       "label": "マジック：ザ・ギャザリング",
       "emoji": "🧙",
-      "keywords": ["マジック ザ ギャザリング BOX 予約", "MTG プレイブースター BOX"],
-      "sources": ["rakuten_ichiba", "rakuten_books"],
+      "keywords": [
+        "マジック ザ ギャザリング BOX 予約",
+        "MTG プレイブースター BOX"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "rakuten_books"
+      ],
       "filters": {
         "minPrice": 3000,
         "maxPrice": 150000,
-        "excludeWords": ["オリパ", "シングル", "1枚", "代行"]
+        "excludeWords": [
+          "オリパ",
+          "シングル",
+          "1枚",
+          "代行"
+        ]
       }
     },
     {
       "id": "chinhin",
       "label": "珍商品・変わり種",
       "emoji": "🛸",
-      "keywords": ["変わり種 雑貨 面白", "珍しい ガジェット 便利", "ネタ プレゼント 面白 雑貨"],
-      "sources": ["rakuten_ichiba"],
+      "keywords": [
+        "変わり種 雑貨 面白",
+        "珍しい ガジェット 便利",
+        "ネタ プレゼント 面白 雑貨"
+      ],
+      "sources": [
+        "rakuten_ichiba"
+      ],
       "filters": {
         "minPrice": 500,
         "maxPrice": 30000,
         "minReviewCount": 3,
-        "excludeWords": ["中古", "訳あり", "ジャンク"]
+        "excludeWords": [
+          "中古",
+          "訳あり",
+          "ジャンク"
+        ]
       }
     }
   ]

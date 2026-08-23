@@ -1,5 +1,7 @@
 # rare-item-radar
 
+**サイト: https://momentouhu.github.io/rare-item-radar/**
+
 トレカの再販・予約開始・在庫復活や、変わり種の商品を自動で見張って、
 **サイト** と **X の投稿文** を生成するレーダー。
 
