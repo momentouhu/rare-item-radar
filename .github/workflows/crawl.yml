@@ -1,0 +1,76 @@
+name: crawl
+
+on:
+  schedule:
+    # 30分ごと（UTC基準。GitHubの都合で数分ずれることがあります）
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+    inputs:
+      notify:
+        description: '各SNSへ配信する（Threads/Bluesky/Discordは無料）'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - 'config/**'
+      - 'src/**'
+      - '.github/workflows/crawl.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 商品を収集して差分を検知
+        env:
+          RAKUTEN_APP_ID: ${{ secrets.RAKUTEN_APP_ID }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          VC_SID: ${{ secrets.VC_SID }}
+          SURUGAYA_ENABLE: ${{ vars.SURUGAYA_ENABLE }}
+          SURUGAYA_AFFILIATE_ID: ${{ secrets.SURUGAYA_AFFILIATE_ID }}
+        run: npm run crawl
+
+      - name: 各SNSへ配信（Threads/Bluesky/Discordは無料・Xだけ予算制御）
+        if: github.event_name == 'schedule' || inputs.notify
+        env:
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: npm run notify
+        continue-on-error: true
+
+      - name: サイトを生成
+        run: npm run build
+
+      - name: 変更をコミット
+        run: |
+          git config user.name  'radar-bot'
+          git config user.email 'radar-bot@users.noreply.github.com'
+          git add data docs
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "chore: 自動更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
