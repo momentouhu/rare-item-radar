@@ -35,7 +35,15 @@ jobs:
         with:
           node-version: 22
 
-      - name: 商品を収集して差分を検知
+      # Worker を使う場合は Actions 側でAPIを叩かない（楽天の日次上限を二重消費するため）
+      - name: Worker からイベントを取り込む
+        if: vars.WORKER_EVENTS_URL != ''
+        env:
+          WORKER_EVENTS_URL: ${{ vars.WORKER_EVENTS_URL }}
+        run: npm run pull
+
+      - name: 商品を収集して差分を検知（Worker未使用時のみ）
+        if: vars.WORKER_EVENTS_URL == ''
         env:
           RAKUTEN_APP_ID: ${{ secrets.RAKUTEN_APP_ID }}
           RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
@@ -45,8 +53,8 @@ jobs:
           SURUGAYA_AFFILIATE_ID: ${{ secrets.SURUGAYA_AFFILIATE_ID }}
         run: npm run crawl
 
-      - name: 各SNSへ配信（Threads/Bluesky/Discordは無料・Xだけ予算制御）
-        if: github.event_name == 'schedule' || inputs.notify
+      - name: 各SNSへ配信（Worker未使用時のみ。Workerがある場合はWorkerが配信する）
+        if: vars.WORKER_EVENTS_URL == '' && (github.event_name == 'schedule' || inputs.notify)
         env:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}

@@ -105,7 +105,7 @@ fs.writeFileSync(
 
 // ---- 投稿キューページ（スマホからコピペ投稿する用） ----
 const pending = queue.items.filter((q) => !q.posted?.x);
-const CHANNEL_NAMES = { threads: 'Threads', bluesky: 'Bluesky', discord: 'Discord', x: 'X' };
+const CHANNEL_NAMES = { threads: 'Threads', bluesky: 'Bluesky', discord: 'Discord', x: 'X', worker: '自動配信済' };
 const sentTo = (q) => {
   const done = Object.keys(q.posted || {}).map((k) => CHANNEL_NAMES[k] || k);
   return done.length ? `<span>配信済: ${esc(done.join(', '))}</span>` : '';

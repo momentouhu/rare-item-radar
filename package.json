@@ -8,7 +8,11 @@
     "crawl": "node src/run.js",
     "build": "node src/build.js",
     "notify": "node src/notify.js",
-    "dev": "node src/run.js && node src/build.js && node -e \"console.log('open docs/index.html')\""
+    "dev": "node src/run.js && node src/build.js && node -e \"console.log('open docs/index.html')\"",
+    "budget": "node src/budget.js",
+    "pull": "node src/pull.js"
   },
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": ">=20"
+  }
 }

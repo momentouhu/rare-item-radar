@@ -145,6 +145,89 @@ Cloudflare KV などを足す必要がある。さらに iOS は「ホーム画�
 
 ---
 
+## リアルタイム化（Cloudflare Worker）
+
+GitHub Actions の cron は最短5分だが **実際は10〜20分遅延する**ため、在庫復活の速報には遅い。
+1分間隔で回すために Cloudflare Worker を同梱している（`worker/`）。**無料枠のみで動く。**
+
+### 一番の制約は楽天API側
+
+| 制約 | 数字 |
+|---|---|
+| 楽天API（無料版） | **1日5,000リクエスト**・1秒1リクエスト |
+| Cloudflare Workers cron | 最短1分・無料枠 100,000リクエスト/日 |
+| Cloudflare D1（無料） | 5GB・500万読み書き/月 |
+
+1日5,000 ÷ 1,440分 = **毎分叩けるのは実質3クエリまで**。
+全部を毎分監視することはできないので、監視対象を階層に分ける。
+
+| 階層 | 間隔 | 用途 |
+|---|---|---|
+| `realtime` | **1分** | 激戦枠。楽天クエリ2本まで |
+| `fast` | 10分 | 主力ジャンル |
+| `normal` | 60分 | 広く浅く |
+
+`pollOffset` で監視ごとに実行する分をずらし、1分あたりの負荷を平らにしている。
+
+```bash
+npm run budget   # 消費見込みを検算する（上限超過なら異常終了）
+```
+
+現在の設定は **1日4,680リクエスト**（上限5,000、余裕320）。キーワードを足すときは必ずこれを回すこと。
+
+### 実際の遅延
+
+| 経路 | 検知 | 配信 | 合計 |
+|---|---|---|---|
+| Cloudflare Worker → Discord | 〜60秒 | 1〜3秒 | **〜1分** |
+| Cloudflare Worker → Threads/Bluesky | 〜60秒 | 数秒＋タイムライン次第 | 〜1分＋α |
+| GitHub Actions → 手動X投稿 | 10〜20分 | 手動 | 10分〜 |
+
+**Discord Webhook が最速**。スマホのロック画面にプッシュ通知が直接鳴るので、
+SNSのタイムラインを見に行く必要がない。速報の主力はこれ。
+
+### それでも勝てない相手がいる
+
+転売業者のbotは専用サーバーで秒単位のポーリング、ショップ個別の在庫エンドポイント監視、
+カート投入の自動化まで揃えている。**本当に瞬殺される商品は1分でも間に合わない。**
+
+勝負になるのは、
+- **予約開始**（数時間〜数日は在庫が残る）
+- **再販**（数十分残ることが多い）
+- **値下げ**（急がない）
+
+速度そのものより「予約開始の事前告知」「発売日カレンダー」「まだ買える在庫の網羅」に価値を寄せるほうが筋がいい。
+
+### デプロイ手順
+
+```bash
+cd worker
+npx wrangler d1 create radar          # 出力された database_id を wrangler.toml に貼る
+npx wrangler d1 execute radar --file=schema.sql --remote
+npx wrangler secret put RAKUTEN_APP_ID
+npx wrangler secret put RAKUTEN_AFFILIATE_ID
+npx wrangler secret put DISCORD_WEBHOOK_URL
+npx wrangler deploy
+```
+
+**スマホから運用したい場合**は、Cloudflareダッシュボードの **Workers & Pages → Create → Connect to Git** でこのリポジトリを繋ぎ、
+**Root directory を `worker`** に設定する。以降は push するだけで自動デプロイされる。
+D1の作成とSecretsの登録はダッシュボードからでもできる。
+
+デプロイしたら、リポジトリの **Settings → Secrets and variables → Actions → Variables** に
+`WORKER_EVENTS_URL`（例: `https://rare-item-radar.<subdomain>.workers.dev`）を登録する。
+これが設定されると Actions 側は商品APIを叩かず、Worker が検知したイベントを取り込むだけになる
+（楽天の日次上限を二重に消費しないため）。
+
+### 動作確認
+
+```
+GET /health        監視中の件数・最終クロール時刻・階層の割り当て
+GET /events.json   直近のイベント（Actionsがサイト生成に使う）
+```
+
+---
+
 ## 監視対象を変える
 
 `config/watch.json` の `watches` を編集するだけ。スマホのGitHubアプリからでも直接編集できる。

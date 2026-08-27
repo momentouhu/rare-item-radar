@@ -20,18 +20,16 @@
   },
   "watches": [
     {
-      "id": "pokemon",
-      "label": "ポケモンカード",
+      "id": "pokemon-hot",
+      "label": "ポケカ 激戦枠",
       "emoji": "⚡",
+      "pollTier": "realtime",
       "keywords": [
-        "ポケモンカード BOX 予約",
-        "ポケモンカードゲーム 強化拡張パック BOX",
-        "ポケカ シュリンク付き BOX"
+        "ポケモンカード BOX 予約"
       ],
       "sources": [
         "rakuten_ichiba",
-        "rakuten_books",
-        "yahoo_shopping"
+        "rakuten_books"
       ],
       "filters": {
         "minPrice": 2000,
@@ -49,6 +47,35 @@
       }
     },
     {
+      "id": "pokemon",
+      "label": "ポケモンカード（広め）",
+      "emoji": "⚡",
+      "keywords": [
+        "ポケモンカードゲーム 強化拡張パック BOX",
+        "ポケカ シュリンク付き BOX"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "rakuten_books"
+      ],
+      "filters": {
+        "minPrice": 2000,
+        "maxPrice": 80000,
+        "excludeWords": [
+          "オリパ",
+          "カスタム",
+          "代行",
+          "抽選代行",
+          "自作",
+          "ダミー",
+          "空箱",
+          "スリーブのみ"
+        ]
+      },
+      "pollTier": "fast",
+      "pollOffset": 3
+    },
+    {
       "id": "onepiece",
       "label": "ワンピースカード",
       "emoji": "🏴‍☠️",
@@ -58,8 +85,7 @@
       ],
       "sources": [
         "rakuten_ichiba",
-        "rakuten_books",
-        "yahoo_shopping"
+        "rakuten_books"
       ],
       "filters": {
         "minPrice": 2000,
@@ -71,7 +97,9 @@
           "自作",
           "空箱"
         ]
-      }
+      },
+      "pollTier": "fast",
+      "pollOffset": 5
     },
     {
       "id": "mtg",
@@ -94,7 +122,9 @@
           "1枚",
           "代行"
         ]
-      }
+      },
+      "pollTier": "fast",
+      "pollOffset": 8
     },
     {
       "id": "chinhin",
@@ -117,7 +147,27 @@
           "訳あり",
           "ジャンク"
         ]
+      },
+      "pollTier": "normal",
+      "pollOffset": 11
+    }
+  ],
+  "poll": {
+    "_comment": "楽天APIは無料版で1日5,000リクエストが上限。毎分叩けるのは実質3クエリまでなので優先度で階層化する。pollOffset で監視ごとに実行分をずらし、1分あたりの負荷を平すこと。npm run budget で検算できる。",
+    "rakutenDailyQuota": 5000,
+    "tiers": {
+      "realtime": {
+        "everyMinutes": 1,
+        "offset": 0
+      },
+      "fast": {
+        "everyMinutes": 10,
+        "offset": 3
+      },
+      "normal": {
+        "everyMinutes": 60,
+        "offset": 7
       }
     }
-  ]
+  }
 }
