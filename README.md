@@ -147,7 +147,9 @@ Cloudflare KV などを足す必要がある。さらに iOS は「ホーム画�
 
 ## リアルタイム化（Cloudflare Worker）
 
-GitHub Actions の cron は最短5分だが **実際は10〜20分遅延する**ため、在庫復活の速報には遅い。
+GitHub Actions の cron は最短5分だが、実際には大幅に遅延する。
+**このリポジトリの実測値: 30分設定に対して平均125分・最大223分**（19回分の計測）。
+在庫復活の速報にはまったく使えない。
 1分間隔で回すために Cloudflare Worker を同梱している（`worker/`）。**無料枠のみで動く。**
 
 ### 一番の制約は楽天API側
@@ -181,7 +183,7 @@ npm run budget   # 消費見込みを検算する（上限超過なら異常終�
 |---|---|---|---|
 | Cloudflare Worker → Discord | 〜60秒 | 1〜3秒 | **〜1分** |
 | Cloudflare Worker → Threads/Bluesky | 〜60秒 | 数秒＋タイムライン次第 | 〜1分＋α |
-| GitHub Actions → 手動X投稿 | 10〜20分 | 手動 | 10分〜 |
+| GitHub Actions → 手動X投稿 | **実測 平均125分** | 手動 | 2時間〜 |
 
 **Discord Webhook が最速**。スマホのロック画面にプッシュ通知が直接鳴るので、
 SNSのタイムラインを見に行く必要がない。速報の主力はこれ。
