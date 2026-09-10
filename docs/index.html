@@ -26,6 +26,8 @@ nav a[aria-current=page]{background:var(--accent);color:#fff;border-color:var(--
 .title a:hover{text-decoration:underline}
 .meta{font-size:.8rem;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 .price{color:var(--accent);font-weight:700}
+.warn{background:#fff7ed;border:1px solid #fdba74;color:#9a3412;border-radius:10px;padding:10px 12px;font-size:.8rem;margin-bottom:16px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .warn{background:#2a1a0f;border-color:#7c2d12;color:#fdba74}}
 .empty{text-align:center;color:var(--muted);padding:48px 16px;border:1px dashed var(--line);border-radius:var(--radius)}
 footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);font-size:.76rem;color:var(--muted)}
 footer a{color:var(--muted)}
@@ -47,6 +49,7 @@ button:active{opacity:.7}
     <a href="./rss.xml">RSS</a>
   </nav>
 </header>
+
 <p class="empty">まだ検知イベントがありません。<br>クロールが2回以上走ると差分が出ます。</p>
 <footer>
   <p>当サイトのリンクの一部はアフィリエイトリンクを含みます。価格・在庫は取得時点のもので、変動する場合があります。</p>

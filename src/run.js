@@ -3,6 +3,7 @@ import { SOURCES } from './sources/index.js';
 import { readJson, writeJson, pruneSeen } from './lib/store.js';
 import { detectEvents, applyFilters, dedupe } from './lib/detect.js';
 import { composePost } from './lib/compose.js';
+import { recordHealth, unhealthySources, WARN_AFTER } from './lib/health.js';
 
 const config = JSON.parse(fs.readFileSync('config/watch.json', 'utf8'));
 
@@ -24,6 +25,8 @@ if (activeSources.length === 0) {
 console.log(`■ 有効なソース: ${activeSources.map((s) => s.label).join(', ')}`);
 
 const allEvents = [];
+// ソースごとの取得件数とエラーを実行全体で合算する（監視ごとに記録すると最後の監視で上書きされてしまう）
+const healthAcc = {};
 
 for (const watch of config.watches) {
   const collected = [];
@@ -36,16 +39,23 @@ for (const watch of config.watches) {
     }
     if (!source.enabled()) continue;
 
+    let hits = 0;
+    let lastError = null;
     for (const keyword of watch.keywords) {
       try {
         const results = await source.search(keyword, watch.filters);
         collected.push(...results);
+        hits += results.length;
         console.log(`  ${source.label} / "${keyword}" → ${results.length}件`);
       } catch (err) {
         // 1ソースの失敗で全体を落とさない
+        lastError = err.message;
         console.warn(`  ! ${source.label} / "${keyword}" 失敗: ${err.message}`);
       }
     }
+    const acc = (healthAcc[sourceId] ??= { count: 0, error: null });
+    acc.count += hits;
+    if (lastError) acc.error = lastError;
   }
 
   const cleaned = dedupe(applyFilters(collected, watch.filters));
@@ -99,9 +109,18 @@ queue.items = [...byId.values()]
   .sort((a, b) => new Date(b.detectedAt) - new Date(a.detectedAt))
   .slice(0, 100);
 
+for (const [sourceId, acc] of Object.entries(healthAcc)) {
+  const h = recordHealth(sourceId, acc);
+  if (h.consecutiveEmpty >= WARN_AFTER) {
+    console.warn(`⚠ ${SOURCES[sourceId].label} は ${h.consecutiveEmpty}回連続で0件。サイト側の改修でセレクタが壊れた可能性があります → npm run probe ${sourceId} "<キーワード>"`);
+  }
+}
+
 writeJson('seen.json', pruneSeen(seen));
 writeJson('feed.json', feed);
 writeJson('queue.json', queue);
 
 console.log(`\n■ 完了: 新規イベント ${capped.length}件 / 監視中アイテム ${Object.keys(seen).length}件`);
+const sick = unhealthySources(Object.fromEntries(Object.values(SOURCES).map((s) => [s.id, s.label])));
+if (sick.length) console.warn(`■ 要確認のソース: ${sick.map((s) => `${s.label}(${s.lastError ? 'エラー' : `${s.consecutiveEmpty}回連続0件`})`).join(', ')}`);
 console.log(`  未投稿キュー: ${queue.items.filter((q) => !q.posted || Object.keys(q.posted).length === 0).length}件`);

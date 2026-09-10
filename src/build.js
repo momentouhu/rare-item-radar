@@ -1,9 +1,13 @@
 import fs from 'node:fs';
 import { readJson } from './lib/store.js';
+import { unhealthySources } from './lib/health.js';
 
 const config = JSON.parse(fs.readFileSync('config/watch.json', 'utf8'));
 const feed = readJson('feed.json', { updatedAt: null, events: [] });
 const queue = readJson('queue.json', { items: [] });
+
+const SOURCE_LABELS = { rakuten_ichiba: '楽天市場', rakuten_books: '楽天ブックス', yahoo_shopping: 'Yahoo!ショッピング', surugaya: '駿河屋', sevennet: 'セブンネット', tower: 'タワレコ', hobbysearch: 'ホビーサーチ' };
+const sick = unhealthySources(SOURCE_LABELS);
 
 const esc = (s = '') =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -37,6 +41,8 @@ nav a[aria-current=page]{background:var(--accent);color:#fff;border-color:var(--
 .title a:hover{text-decoration:underline}
 .meta{font-size:.8rem;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 .price{color:var(--accent);font-weight:700}
+.warn{background:#fff7ed;border:1px solid #fdba74;color:#9a3412;border-radius:10px;padding:10px 12px;font-size:.8rem;margin-bottom:16px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .warn{background:#2a1a0f;border-color:#7c2d12;color:#fdba74}}
 .empty{text-align:center;color:var(--muted);padding:48px 16px;border:1px dashed var(--line);border-radius:var(--radius)}
 footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);font-size:.76rem;color:var(--muted)}
 footer a{color:var(--muted)}
@@ -67,6 +73,7 @@ function page(title, body, current) {
     <a href="./rss.xml">RSS</a>
   </nav>
 </header>
+${sick.length ? `<div class="warn">⚠ 取得できていないショップ: ${esc(sick.map((s) => `${s.label}（${s.lastError ? 'エラー: ' + s.lastError.slice(0, 40) : s.consecutiveEmpty + '回連続0件'}）`).join(' / '))}</div>` : ''}
 ${body}
 <footer>
   <p>当サイトのリンクの一部はアフィリエイトリンクを含みます。価格・在庫は取得時点のもので、変動する場合があります。</p>

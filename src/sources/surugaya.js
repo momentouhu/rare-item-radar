@@ -1,84 +1,66 @@
-import { sleep } from '../lib/http.js';
+import { fetchHtml, stripTags, parsePrice, scraperEnabled } from '../lib/html.js';
 
 /**
- * 駿河屋には公式APIが存在しないため、検索ページのHTMLを読む実装。
- *
- * 既定では無効。使う場合は SURUGAYA_ENABLE=1 を設定するが、その前に
- * 駿河屋の利用規約・robots.txt を必ず確認すること。
- * アクセス間隔は 3秒/リクエスト に固定してある（下げないこと）。
+ * 駿河屋 — 公式APIなし。検索結果ページを読む。
+ * robots.txt が User-agent:* に Crawl-delay: 30 を宣言しているので、1リクエスト30秒を厳守。
+ * アフィリエイトは自社プログラムあり（https://affiliate.suruga-ya.jp/）。
  */
-const SEARCH = 'https://www.suruga-ya.jp/search';
-
-function decodeEntities(s) {
-  return s
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(Number(d)));
-}
-
-function absolute(href) {
-  if (!href) return '';
-  if (href.startsWith('http')) return href;
-  return `https://www.suruga-ya.jp${href.startsWith('/') ? '' : '/'}${href}`;
-}
-
-/** アフィリエイトIDがあれば駿河屋のリンク形式に載せ替える */
-function withAffiliate(url) {
-  const aid = process.env.SURUGAYA_AFFILIATE_ID;
-  if (!aid) return url;
-  return `${url}${url.includes('?') ? '&' : '?'}aid=${encodeURIComponent(aid)}`;
-}
+const MIN_INTERVAL = 30_000;
 
 export const surugaya = {
   id: 'surugaya',
   label: '駿河屋',
-  enabled: () => process.env.SURUGAYA_ENABLE === '1',
+  enabled: () => scraperEnabled('surugaya'),
 
   async search(keyword, filters = {}) {
-    await sleep(3000);
-    const url = `${SEARCH}?category=&search_word=${encodeURIComponent(keyword)}&searchbox=1`;
-    const res = await fetch(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; rare-item-radar/1.0)',
-        'Accept-Language': 'ja,en;q=0.8',
-      },
-    });
-    if (!res.ok) return [];
-    const html = await res.text();
+    const url = `https://www.suruga-ya.jp/search?category=&search_word=${encodeURIComponent(keyword)}&searchbox=1`;
+    let html;
+    try {
+      html = await fetchHtml(url, { minIntervalMs: MIN_INTERVAL });
+    } catch (err) {
+      if (String(err.message).includes('HTTP 404')) return []; // ヒット0件は404で返ってくる
+      throw err;
+    }
 
     const items = [];
-    // 検索結果1件分の塊を切り出してから各フィールドを拾う
-    const blocks = html.split(/<div class="item_box"/i).slice(1);
-    for (const block of blocks) {
-      const linkMatch = block.match(/href="(\/product\/detail\/[^"]+)"/i);
-      const titleMatch = block.match(/<p class="title">\s*<a[^>]*>([\s\S]*?)<\/a>/i);
-      const priceMatch = block.match(/([0-9][0-9,]*)\s*円/);
-      const imgMatch = block.match(/<img[^>]+src="([^"]+)"/i);
-      if (!linkMatch || !titleMatch) continue;
+    for (const raw of html.split('class="itemTitle"').slice(1)) {
+      const block = raw.slice(0, 4000);
+      const link = block.match(/href="(\/product\/detail\/(\d+)[^"]*)"/);
+      const title = block.match(/<h3 class="product-name">([\s\S]*?)<\/h3>/);
+      const priceBox = block.match(/<p class="priceBox">([\s\S]*?)<\/p>/);
+      if (!link || !title) continue;
 
-      const title = decodeEntities(titleMatch[1].replace(/<[^>]+>/g, '').trim());
-      const price = priceMatch ? Number(priceMatch[1].replace(/,/g, '')) : 0;
+      const id = link[2];
+      const priceText = priceBox?.[1] ?? '';
+      const inStock = !/品切/.test(priceText);
+      const price = parsePrice(priceText);
       if (filters.minPrice && price && price < filters.minPrice) continue;
       if (filters.maxPrice && price && price > filters.maxPrice) continue;
 
-      const rawUrl = absolute(linkMatch[1]);
+      // 画像は photo.php?shinaban=<商品ID> の固定形式なのでIDから組み立てる
+      const rawUrl = `https://www.suruga-ya.jp/product/detail/${id}`;
+
       items.push({
-        id: `surugaya:${linkMatch[1]}`,
+        id: `surugaya:${id}`,
         source: 'surugaya',
         sourceLabel: '駿河屋',
-        title,
+        title: stripTags(title[1]),
         url: withAffiliate(rawUrl),
         rawUrl,
-        image: imgMatch ? absolute(imgMatch[1]) : '',
+        image: `https://www.suruga-ya.jp/database/photo.php?shinaban=${id}&size=m`,
         price,
-        inStock: !/品切|在庫なし|売切/.test(block),
+        inStock,
         shop: '駿河屋',
-        reviewCount: 0,
-        reviewAverage: 0,
+        reviewCount: null, // このサイトはレビュー情報を持たない
+        reviewAverage: null,
       });
     }
     return items;
   },
 };
+
+/** 駿河屋アフィリエイトのリンク形式は管理画面のリンク生成ツールで確認し、必要ならここを合わせる */
+function withAffiliate(url) {
+  const aid = process.env.SURUGAYA_AFFILIATE_ID;
+  return aid ? `${url}?aid=${encodeURIComponent(aid)}` : url;
+}

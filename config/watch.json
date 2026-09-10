@@ -56,7 +56,9 @@
       ],
       "sources": [
         "rakuten_ichiba",
-        "rakuten_books"
+        "rakuten_books",
+        "sevennet",
+        "surugaya"
       ],
       "filters": {
         "minPrice": 2000,
@@ -85,7 +87,9 @@
       ],
       "sources": [
         "rakuten_ichiba",
-        "rakuten_books"
+        "rakuten_books",
+        "sevennet",
+        "surugaya"
       ],
       "filters": {
         "minPrice": 2000,
@@ -111,7 +115,8 @@
       ],
       "sources": [
         "rakuten_ichiba",
-        "rakuten_books"
+        "rakuten_books",
+        "surugaya"
       ],
       "filters": {
         "minPrice": 3000,
@@ -136,7 +141,8 @@
         "ネタ プレゼント 面白 雑貨"
       ],
       "sources": [
-        "rakuten_ichiba"
+        "rakuten_ichiba",
+        "sevennet"
       ],
       "filters": {
         "minPrice": 500,
@@ -150,6 +156,223 @@
       },
       "pollTier": "normal",
       "pollOffset": 11
+    },
+    {
+      "id": "figure",
+      "label": "フィギュア・ホビー",
+      "emoji": "🎎",
+      "pollTier": "normal",
+      "pollOffset": 23,
+      "keywords": [
+        "ポケモン フィギュア",
+        "ワンピース フィギュア"
+      ],
+      "sources": [
+        "hobbysearch",
+        "surugaya",
+        "rakuten_ichiba"
+      ],
+      "filters": {
+        "minPrice": 3000,
+        "maxPrice": 100000,
+        "excludeWords": [
+          "中古",
+          "ジャンク",
+          "開封済"
+        ]
+      }
+    },
+    {
+      "id": "unionarena",
+      "label": "ユニオンアリーナ",
+      "emoji": "🃏",
+      "pollTier": "normal",
+      "pollOffset": 31,
+      "keywords": [
+        "ユニオンアリーナ ブースターパック BOX"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "sevennet",
+        "surugaya"
+      ],
+      "filters": {
+        "minPrice": 2000,
+        "maxPrice": 80000,
+        "excludeWords": [
+          "オリパ",
+          "カスタム",
+          "代行",
+          "自作",
+          "空箱",
+          "シングル",
+          "1枚",
+          "スリーブのみ"
+        ]
+      }
+    },
+    {
+      "id": "gundam-cg",
+      "label": "ガンダムカードゲーム",
+      "emoji": "🤖",
+      "pollTier": "normal",
+      "pollOffset": 37,
+      "keywords": [
+        "ガンダムカードゲーム BOX"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "sevennet",
+        "surugaya"
+      ],
+      "filters": {
+        "minPrice": 2000,
+        "maxPrice": 80000,
+        "excludeWords": [
+          "オリパ",
+          "カスタム",
+          "代行",
+          "自作",
+          "空箱",
+          "シングル",
+          "1枚",
+          "スリーブのみ"
+        ]
+      }
+    },
+    {
+      "id": "dragonball-fw",
+      "label": "ドラゴンボール フュージョンワールド",
+      "emoji": "🐉",
+      "pollTier": "normal",
+      "pollOffset": 41,
+      "keywords": [
+        "フュージョンワールド ブースターパック BOX"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "sevennet",
+        "surugaya"
+      ],
+      "filters": {
+        "minPrice": 2000,
+        "maxPrice": 80000,
+        "excludeWords": [
+          "オリパ",
+          "カスタム",
+          "代行",
+          "自作",
+          "空箱",
+          "シングル",
+          "1枚",
+          "スリーブのみ"
+        ]
+      }
+    },
+    {
+      "id": "yugioh",
+      "label": "遊戯王",
+      "emoji": "👁",
+      "pollTier": "normal",
+      "pollOffset": 43,
+      "keywords": [
+        "遊戯王OCG BOX"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "surugaya"
+      ],
+      "filters": {
+        "minPrice": 2000,
+        "maxPrice": 80000,
+        "excludeWords": [
+          "オリパ",
+          "カスタム",
+          "代行",
+          "自作",
+          "空箱",
+          "シングル",
+          "1枚",
+          "スリーブのみ"
+        ]
+      }
+    },
+    {
+      "id": "game-hw",
+      "label": "ゲーム機・限定版",
+      "emoji": "🎮",
+      "pollTier": "normal",
+      "pollOffset": 47,
+      "keywords": [
+        "Nintendo Switch 2 本体"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "rakuten_books",
+        "sevennet"
+      ],
+      "filters": {
+        "minPrice": 20000,
+        "maxPrice": 120000,
+        "excludeWords": [
+          "中古",
+          "ケース",
+          "保護",
+          "フィルム",
+          "カバー",
+          "スタンド",
+          "ソフトのみ",
+          "ダウンロード"
+        ]
+      }
+    },
+    {
+      "id": "gunpla",
+      "label": "ガンプラ・一番くじ",
+      "emoji": "🔧",
+      "pollTier": "normal",
+      "pollOffset": 53,
+      "keywords": [
+        "ガンプラ プレミアムバンダイ 限定",
+        "一番くじ ラストワン"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "surugaya",
+        "hobbysearch"
+      ],
+      "filters": {
+        "minPrice": 3000,
+        "maxPrice": 100000,
+        "excludeWords": [
+          "中古",
+          "ジャンク",
+          "組立済",
+          "塗装済",
+          "パーツのみ"
+        ]
+      }
+    },
+    {
+      "id": "tower-goods",
+      "label": "限定盤・グッズ",
+      "emoji": "💿",
+      "pollTier": "normal",
+      "pollOffset": 59,
+      "keywords": [
+        "ポケモン",
+        "初回限定盤"
+      ],
+      "sources": [
+        "tower"
+      ],
+      "filters": {
+        "minPrice": 2000,
+        "maxPrice": 50000,
+        "excludeWords": [
+          "中古"
+        ]
+      }
     }
   ],
   "poll": {
@@ -169,5 +392,14 @@
         "offset": 7
       }
     }
+  },
+  "scrapers": {
+    "_comment": "公式APIが無いショップ。robots.txt の Crawl-delay と利用規約に従い、間隔を守って取得する（駿河屋は30秒）。GitHub Actions でのみ動き、Worker では動かない。止めたいものはこの配列から外す。",
+    "enabled": [
+      "surugaya",
+      "sevennet",
+      "tower",
+      "hobbysearch"
+    ]
   }
 }

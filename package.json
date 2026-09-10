@@ -10,7 +10,8 @@
     "notify": "node src/notify.js",
     "dev": "node src/run.js && node src/build.js && node -e \"console.log('open docs/index.html')\"",
     "budget": "node src/budget.js",
-    "pull": "node src/pull.js"
+    "pull": "node src/pull.js",
+    "probe": "node src/probe.js"
   },
   "engines": {
     "node": ">=20"

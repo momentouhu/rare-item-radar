@@ -61,7 +61,8 @@ export function applyFilters(items, filters = {}) {
     if (exclude.some((w) => t.includes(w))) return false;
     if (filters.minPrice && it.price && it.price < filters.minPrice) return false;
     if (filters.maxPrice && it.price && it.price > filters.maxPrice) return false;
-    if (filters.minReviewCount && it.reviewCount < filters.minReviewCount) return false;
+    // reviewCount が null のソース（スクレイパ）はレビュー条件の対象外
+    if (filters.minReviewCount && it.reviewCount != null && it.reviewCount < filters.minReviewCount) return false;
     return true;
   });
 }
