@@ -41,7 +41,7 @@ button:active{opacity:.7}
 <header>
   <h1>レアもの速報</h1>
   <p class="tagline">トレカ再販・予約開始・在庫復活を自動で見張るレーダー</p>
-  <p class="updated">最終更新: 9/10 22:29</p>
+  <p class="updated">最終更新: 9/10 23:56</p>
   <nav>
     <a href="./">速報</a>
     <a href="./queue.html" aria-current="page">投稿キュー</a>
@@ -54,7 +54,24 @@ button:active{opacity:.7}
 <p style="font-size:.85rem;color:var(--muted);margin:0 0 16px">
 「Xで開く」を押すと本文が入った状態で投稿画面が開きます。X APIを使わないのでコストは0円です。
 </p>
-<p class="empty">未投稿のキューはありません。</p>
+<article class="card" style="flex-direction:column">
+  <div style="display:flex;gap:12px;width:100%">
+    <img src="https://cdn.tower.jp/80/m/18/8060218.jpg" alt="" loading="lazy">
+    <div class="card-body">
+      <span class="badge">🆕 新着・予約開始</span>
+      <p class="title">ポケモン空想科学読本 4巻セット (4巻セット)</p>
+      <div class="meta"><span class="price">¥2,904</span><span>タワレコ</span></div>
+    </div>
+  </div>
+  <pre class="post" id="p0">🆕【新着・予約開始】限定盤・グッズ
+ポケモン空想科学読本 4巻セット (4巻セット)
+¥2,904／タワレコ
+https://tower.jp/item/8060218</pre>
+  <div class="btns">
+    <button type="button" data-copy="p0">コピー</button>
+    <a class="btn btn-primary" href="https://twitter.com/intent/tweet?text=%F0%9F%86%95%E3%80%90%E6%96%B0%E7%9D%80%E3%83%BB%E4%BA%88%E7%B4%84%E9%96%8B%E5%A7%8B%E3%80%91%E9%99%90%E5%AE%9A%E7%9B%A4%E3%83%BB%E3%82%B0%E3%83%83%E3%82%BA%0A%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E7%A9%BA%E6%83%B3%E7%A7%91%E5%AD%A6%E8%AA%AD%E6%9C%AC%204%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%20(4%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88)%0A%C2%A52%2C904%EF%BC%8F%E3%82%BF%E3%83%AF%E3%83%AC%E3%82%B3%0Ahttps%3A%2F%2Ftower.jp%2Fitem%2F8060218" target="_blank" rel="noopener">Xで開く</a>
+  </div>
+</article>
 <script>
 document.addEventListener('click', async (e) => {
   const btn = e.target.closest('[data-copy]');

@@ -1,3 +1,19 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "tower:8060218:new",
+      "detectedAt": "2026-09-10T23:56:11.420Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ポケモン空想科学読本 4巻セット (4巻セット)",
+      "url": "https://tower.jp/item/8060218",
+      "image": "https://cdn.tower.jp/80/m/18/8060218.jpg",
+      "price": 2904,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン空想科学読本 4巻セット (4巻セット)\n¥2,904／タワレコ\nhttps://tower.jp/item/8060218",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン空想科学読本 4巻セット (4巻セット)\n¥2,904／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    }
+  ]
 }
