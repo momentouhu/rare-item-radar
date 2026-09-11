@@ -28,7 +28,7 @@ export const SOURCES = {
     label: '楽天市場',
     isRakuten: true,
     enabled: (env) => Boolean(env.RAKUTEN_APP_ID),
-    async search(keyword, filters, env) {
+    async search(keyword, filters, env, opts = {}) {
       await rakutenGate();
       const p = new URLSearchParams({
         applicationId: env.RAKUTEN_APP_ID,
@@ -43,6 +43,7 @@ export const SOURCES = {
       if (env.RAKUTEN_AFFILIATE_ID) p.set('affiliateId', env.RAKUTEN_AFFILIATE_ID);
       if (filters?.minPrice) p.set('minPrice', String(filters.minPrice));
       if (filters?.maxPrice) p.set('maxPrice', String(filters.maxPrice));
+      if (opts.shopCode) p.set('shopCode', opts.shopCode); // 例: あみあみ楽天市場店 = "amiami"
 
       const json = await getJson(`${ICHIBA}?${p}`);
       return unwrap(json.Items).map((it) => ({
@@ -95,7 +96,7 @@ export const SOURCES = {
     label: 'Yahoo!ショッピング',
     isRakuten: false,
     enabled: (env) => Boolean(env.YAHOO_CLIENT_ID),
-    async search(keyword, filters, env) {
+    async search(keyword, filters, env, opts = {}) {
       const p = new URLSearchParams({
         appid: env.YAHOO_CLIENT_ID,
         query: keyword,
@@ -105,6 +106,7 @@ export const SOURCES = {
       });
       if (filters?.minPrice) p.set('price_from', String(filters.minPrice));
       if (filters?.maxPrice) p.set('price_to', String(filters.maxPrice));
+      if (opts.sellerId) p.set('seller_id', opts.sellerId); // 例: あみあみ Yahoo!店 = "amiami"
       if (env.VC_SID) {
         p.set('affiliate_type', 'vc');
         p.set('affiliate_id', env.VC_SID);

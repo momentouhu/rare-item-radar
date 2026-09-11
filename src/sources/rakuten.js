@@ -20,7 +20,7 @@ export const rakuten_ichiba = {
   label: '楽天市場',
   enabled: () => Boolean(process.env.RAKUTEN_APP_ID),
 
-  async search(keyword, filters = {}) {
+  async search(keyword, filters = {}, opts = {}) {
     const params = new URLSearchParams({
       applicationId: requireAppId(),
       keyword,
@@ -32,6 +32,8 @@ export const rakuten_ichiba = {
     if (process.env.RAKUTEN_AFFILIATE_ID) params.set('affiliateId', process.env.RAKUTEN_AFFILIATE_ID);
     if (filters.minPrice) params.set('minPrice', String(filters.minPrice));
     if (filters.maxPrice) params.set('maxPrice', String(filters.maxPrice));
+    // 特定店舗に絞る（例: あみあみ楽天市場店 = "amiami"）。本店がbot遮断している店でも公式APIで在庫が追える
+    if (opts.shopCode) params.set('shopCode', opts.shopCode);
 
     const json = await getJson(`${ICHIBA}?${params}`);
     return unwrap(json.Items).map((it) => ({

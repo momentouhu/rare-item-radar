@@ -264,7 +264,7 @@ GET /events.json   直近のイベント（Actionsがサイト生成に使う）
 |---|---|---|---|---|---|
 | 楽天市場 / 楽天ブックス | **公式API** | 1秒1req・**日5,000** | — | 楽天アフィリエイト 2〜4% | Worker でリアルタイム可 |
 | Yahoo!ショッピング | **公式API** | — | — | バリューコマース | Worker でリアルタイム可 |
-| **駿河屋** | HTML | **30秒**（robots.txt の Crawl-delay） | `*` は Allow / AIクローラは拒否 | 自社プログラムあり | 中古価格帯を取得。画像は `photo.php?shinaban=ID` |
+| **駿河屋** | HTML | **30秒**（robots.txt の Crawl-delay） | `*` は Allow / AIクローラは拒否 | 自社プログラムあり | 中古価格帯を取得。画像は `photo.php?shinaban=ID`。**⚠ GitHub Actions のIP（Azure）からは `403`**。自宅回線からは通る。有効のままでも403を検知した時点でその回はスキップするので害はないが、実質取れていない |
 | **セブンネット** | HTML（`data-gtm-criteo-view` のJSON） | 10秒 | 制限なし | バリューコマースのみ **1.1%** | カートボタン `disabled` で在庫判定。一番きれいに取れる |
 | **タワレコ** | HTML | 10秒 | `/search/item/` は許可 | バリューコマース | 1ページ約800KBと重い |
 | **ホビーサーチ** | HTML | 10秒 | 制限なし | 要確認 | フィギュア・プラモ。予約品/販売中/残りN が取れる |
@@ -279,7 +279,7 @@ GET /events.json   直近のイベント（Actionsがサイト生成に使う）
 | ショップ | 状況 | 対応案 |
 |---|---|---|
 | **イオンネットスーパー** | Magento + reCAPTCHA。店舗選択とログインが前提で匿名検索ができない | 現実的な手段なし |
-| **あみあみ** | `403` で bot 遮断 | 非公式JSON APIがあるが同じく遮断される。見送り |
+| **あみあみ（本店）** | Cloudflare WAF が **TLS/HTTP指紋で非ブラウザを即403**（IPは無関係） | **楽天市場店 / Yahoo!店を公式APIで店舗指定して追う**（下記）。本店の迂回はやらない |
 | **ポケモンセンターオンライン** | 検索結果が JS 描画（HTMLに商品が無い）。そもそも抽選販売 | Cloudflare Browser Rendering（有料寄り）でなら可 |
 | **トイザらス** | 完全SPA（HTML 5KB のみ） | 同上 |
 | **ヨドバシ / ビックカメラ** | TCPレベルで遮断（応答なし） | 手段なし。ヨドバシはアフィリエイト自体もない |
@@ -290,6 +290,47 @@ GET /events.json   直近のイベント（Actionsがサイト生成に使う）
 | **GEO オンライン** | 検索結果が JS 描画（HTML 26KB） | Browser Rendering なら可 |
 | **HMV&BOOKS** | Shift_JIS かつ検索結果が JS 描画（HTMLに商品4件のみ） | 要調査 |
 | ホビーステーション / フルアヘッド | 接続不可（URL要確認） | 未確認 |
+
+### あみあみはどう取るか（通知botの仕組みと、この repo の方針）
+
+あみあみの在庫通知botは実在するが、やっていることは **Cloudflareのbot遮断の迂回** で、このrepoには入れない。調べた事実は以下。
+
+**本店の構造（2026-09-11 実機検証）**
+- サイトはSPAで、裏で `https://api.amiami.com/api/v1.0/items?s_keywords=…&lang=ja` を叩いている（日本語版も同じホスト）
+- アプリ側の鍵はヘッダ `X-User-Key: amiami_dev`（フロントエンドのJSに埋まっている固定値で、公知）
+- レスポンスは在庫botに理想的: `instock_flg` / `stock_flg` / `preorderitem` / `resale_flg` / `order_closed_flg` / `releasedate` / `jancode`
+- **Cloudflare WAF が TLS/HTTP2 の指紋で「ブラウザ以外」を即403にする**（"Sorry, you have been blocked"）。同じMac・同じIPでも curl と Node の fetch は403、本物のブラウザは通る → IP ではなく指紋
+
+**だからbotはこうしている**
+1. ヘッドレスブラウザ（Playwright / Puppeteer）で本物のChromeのTLSで通し、ページ内から上のAPIを叩く
+2. TLS指紋を偽装するHTTPクライアント（Python `curl_cffi`、Go `tls-client`、`curl-impersonate`）でChromeのJA3/JA4を真似る。転売bot界隈の定番
+3. 監視はキーワード検索ではなく、狙った商品の `gcode` を `/api/v1.0/item?gcode=…` で個別に叩き `instock_flg` の 0→1 を見る
+
+**この repo でやらない理由**
+- 「APIが無い」のではなく「botを能動的に拒否している」サイトの遮断を迂回する行為で、規約違反の線が明確
+- Cloudflare のルール変更で黙って死ぬ（イタチごっこ）。GitHub Actions の Azure IP はさらに別ルールで弾かれる可能性が高い
+- アフィリエイト収益が目的のプロジェクトで、ショップからBANされるのは最悪の結果
+
+**正規ルート: あみあみは楽天とYahooに出店している**
+
+`config/watch.json` の監視に `sourceOptions` を書くと、公式APIを**店舗指定**で叩ける。Workerでもそのまま動く。
+
+```json
+{
+  "id": "amiami",
+  "label": "あみあみ（楽天店・Yahoo店）",
+  "pollTier": "normal",
+  "keywords": ["フィギュア", "カードゲーム BOX"],
+  "sources": ["rakuten_ichiba", "yahoo_shopping"],
+  "sourceOptions": {
+    "rakuten_ichiba": { "shopCode": "amiami" },
+    "yahoo_shopping": { "sellerId": "amiami" }
+  }
+}
+```
+
+広いキーワード＋店舗指定＋更新日順で「その店が最近更新した商品」を拾う設計。本店限定の特典付き商品は取りこぼすが、それは割り切る。
+同じ手は **他の「本店がbot遮断・楽天/Yahooに出店」の店**（駿河屋楽天市場店、ヨドバシ以外の家電量販、ホビー系ショップ）にも使える。
 
 ### スクレイパが壊れたら
 
@@ -309,6 +350,9 @@ npm run probe surugaya "ポケモンカード"     # 1ソース×1キーワー�
 
 **Shopify 製のショップなら `src/sources/shopify.js` の `shopifySource({ id, label, domain })` を1行書くだけで足せる**（HTML解析なし）。
 専門店は商品名にジャンル名を含まないことが多いので、監視の `keywordsBySource` でソース別にキーワードを差し替える。
+`sourceOptions` で楽天の `shopCode` / Yahoo の `sellerId` を渡すと店舗指定で叩ける。
+
+**ソースを後から足しても、そのソースの初回クロールでは「新着」を出さない**（既存ソースの差分検知はそのまま動く）。
 
 ---
 

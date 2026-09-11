@@ -9,6 +9,8 @@ const config = JSON.parse(fs.readFileSync('config/watch.json', 'utf8'));
 
 const seen = readJson('seen.json', {});
 const firstRun = Object.keys(seen).length === 0;
+// ソースを後から追加したとき、そのソースの全商品が「新着」として溢れないよう、ソース単位でも初回を判定する
+const knownSources = new Set(Object.keys(seen).map((k) => k.split(':')[0]));
 
 const feed = readJson('feed.json', { updatedAt: null, events: [] });
 const queue = readJson('queue.json', { items: [] });
@@ -27,6 +29,8 @@ console.log(`■ 有効なソース: ${activeSources.map((s) => s.label).join(',
 const allEvents = [];
 // ソースごとの取得件数とエラーを実行全体で合算する（監視ごとに記録すると最後の監視で上書きされてしまう）
 const healthAcc = {};
+// 403/429 を返したソースはこの実行では以後スキップする（駿河屋は30秒間隔なので、全キーワード分待つと数分を無駄にする）
+const deadThisRun = new Set();
 
 for (const watch of config.watches) {
   const collected = [];
@@ -38,6 +42,7 @@ for (const watch of config.watches) {
       continue;
     }
     if (!source.enabled()) continue;
+    if (deadThisRun.has(sourceId)) continue;
 
     let hits = 0;
     let lastError = null;
@@ -45,7 +50,7 @@ for (const watch of config.watches) {
     const keywords = watch.keywordsBySource?.[sourceId] ?? watch.keywords;
     for (const keyword of keywords) {
       try {
-        const results = await source.search(keyword, watch.filters);
+        const results = await source.search(keyword, watch.filters, watch.sourceOptions?.[sourceId] ?? {});
         collected.push(...results);
         hits += results.length;
         console.log(`  ${source.label} / "${keyword}" → ${results.length}件`);
@@ -53,6 +58,11 @@ for (const watch of config.watches) {
         // 1ソースの失敗で全体を落とさない
         lastError = err.message;
         console.warn(`  ! ${source.label} / "${keyword}" 失敗: ${err.message}`);
+        if (/HTTP (403|429|503)/.test(err.message)) {
+          console.warn(`  ↳ ${source.label} はこのIPを拒否しています。今回の実行では以後スキップします`);
+          deadThisRun.add(sourceId);
+          break;
+        }
       }
     }
     const acc = (healthAcc[sourceId] ??= { count: 0, error: null });
@@ -61,7 +71,7 @@ for (const watch of config.watches) {
   }
 
   const cleaned = dedupe(applyFilters(collected, watch.filters));
-  const events = detectEvents(cleaned, seen, { ...config.detect, firstRun });
+  const events = detectEvents(cleaned, seen, { ...config.detect, firstRun, knownSources });
 
   for (const ev of events) {
     ev.watchId = watch.id;

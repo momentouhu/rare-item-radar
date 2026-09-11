@@ -7,7 +7,7 @@ export const yahoo_shopping = {
   label: 'Yahoo!ショッピング',
   enabled: () => Boolean(process.env.YAHOO_CLIENT_ID),
 
-  async search(keyword, filters = {}) {
+  async search(keyword, filters = {}, opts = {}) {
     const params = new URLSearchParams({
       appid: process.env.YAHOO_CLIENT_ID,
       query: keyword,
@@ -17,6 +17,7 @@ export const yahoo_shopping = {
     });
     if (filters.minPrice) params.set('price_from', String(filters.minPrice));
     if (filters.maxPrice) params.set('price_to', String(filters.maxPrice));
+    if (opts.sellerId) params.set('seller_id', opts.sellerId); // 例: あみあみ Yahoo!店 = "amiami"
     // アフィリエイトはバリューコマース経由。sid を入れると url がアフィリンクで返る
     if (process.env.VC_SID) {
       params.set('affiliate_type', 'vc');

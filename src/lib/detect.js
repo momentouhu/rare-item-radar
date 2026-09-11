@@ -10,9 +10,10 @@ export function detectEvents(items, seen, rules) {
     const prev = seen[item.id];
 
     if (!prev) {
-      // 初回クロール時は全件が「新着」になってしまうので、その回はイベント化しない
+      // 初回クロール時（全体、またはそのソースの初回）は全件が「新着」になってしまうので、その回はイベント化しない
       seen[item.id] = snapshot(item, now, now);
-      if (rules.newItem && !rules.firstRun) {
+      const sourceIsNew = rules.knownSources && !rules.knownSources.has(item.source);
+      if (rules.newItem && !rules.firstRun && !sourceIsNew) {
         events.push({ type: 'new', item, label: '新着・予約開始', emoji: '🆕', score: 100 });
       }
       continue;

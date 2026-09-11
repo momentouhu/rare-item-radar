@@ -388,6 +388,39 @@
           "中古"
         ]
       }
+    },
+    {
+      "id": "amiami",
+      "label": "あみあみ（楽天店・Yahoo店）",
+      "emoji": "🧸",
+      "pollTier": "normal",
+      "pollOffset": 29,
+      "_comment": "あみあみ本店はCloudflareがbotを遮断するため、楽天市場店とYahoo!店を公式APIで店舗指定して追う。広いキーワードで『その店が最近更新した商品』を拾う設計。",
+      "keywords": [
+        "フィギュア",
+        "カードゲーム BOX"
+      ],
+      "sources": [
+        "rakuten_ichiba",
+        "yahoo_shopping"
+      ],
+      "sourceOptions": {
+        "rakuten_ichiba": {
+          "shopCode": "amiami"
+        },
+        "yahoo_shopping": {
+          "sellerId": "amiami"
+        }
+      },
+      "filters": {
+        "minPrice": 2000,
+        "maxPrice": 150000,
+        "excludeWords": [
+          "中古",
+          "ジャンク",
+          "開封済"
+        ]
+      }
     }
   ],
   "poll": {

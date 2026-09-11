@@ -70,9 +70,10 @@ async function runWatch(watch, env, ctx) {
   for (const sourceId of watch.sources) {
     const source = SOURCES[sourceId];
     if (!source?.enabled(env)) continue;
-    for (const keyword of watch.keywords) {
+    const keywords = watch.keywordsBySource?.[sourceId] ?? watch.keywords;
+    for (const keyword of keywords) {
       try {
-        collected.push(...(await source.search(keyword, watch.filters, env)));
+        collected.push(...(await source.search(keyword, watch.filters, env, watch.sourceOptions?.[sourceId] ?? {})));
       } catch (err) {
         console.error(`  ${sourceId} "${keyword}": ${err.message}`);
       }
@@ -90,8 +91,14 @@ async function runWatch(watch, env, ctx) {
   ).bind(...ids).all();
   const prev = new Map(prevRows.map((r) => [r.id, r]));
 
-  // 初回は全部が「新着」になってしまうので、スナップショットだけ取る
+  // 初回は全部が「新着」になってしまうので、スナップショットだけ取る。
+  // ソースを後から足した場合も、そのソースの商品が1件も記録されていなければ初回扱い
   const firstRun = prev.size === 0;
+  const knownSources = new Set();
+  for (const prefix of new Set(items.map((i) => i.id.split(':')[0]))) {
+    const row = await env.DB.prepare('SELECT 1 FROM items WHERE id LIKE ?1 LIMIT 1').bind(`${prefix}:%`).first();
+    if (row) knownSources.add(prefix);
+  }
   const now = new Date().toISOString();
   const events = [];
   const upserts = [];
@@ -109,7 +116,8 @@ async function runWatch(watch, env, ctx) {
     if (firstRun) continue;
 
     if (!before) {
-      if (config.detect?.newItem) events.push(mkEvent('new', '新着・予約開始', '🆕', 100, item, watch, now));
+      const sourceIsNew = !knownSources.has(item.id.split(':')[0]);
+      if (config.detect?.newItem && !sourceIsNew) events.push(mkEvent('new', '新着・予約開始', '🆕', 100, item, watch, now));
     } else if (config.detect?.backInStock && !before.in_stock && item.inStock) {
       events.push(mkEvent('restock', '在庫復活', '🔥', 120, item, watch, now));
     } else if (config.detect?.priceDropPercent && before.price > 0 && item.price > 0) {
