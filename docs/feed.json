@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-09-11T03:40:32.994Z",
+  "updatedAt": "2026-09-11T08:49:28.616Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8055457",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "bouquet [2CD+フォトブック]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8055457",
+        "rawUrl": "https://tower.jp/item/8055457",
+        "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3939217W.JPG",
+        "price": 6600,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-11T08:49:28.583Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nbouquet [2CD+フォトブック]＜初回限定盤＞\n¥6,600／タワレコ\nhttps://tower.jp/item/8055457",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nbouquet [2CD+フォトブック]＜初回限定盤＞\n¥6,600／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 111,
+        "lenNoLink": 121,
+        "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3939217W.JPG"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8035674",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Yours Sincerely [CD+ブックレット+ハンカチ]＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8035674",
+        "rawUrl": "https://tower.jp/item/8035674",
+        "image": "https://cdn.tower.jp/za/m/31/4573623373531.jpg",
+        "price": 6050,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-11T08:49:28.616Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nYours Sincerely [CD+ブックレット+ハンカチ]＜初回生産限定盤＞\n¥6,050／タワレコ\nhttps://tower.jp/item/8035674",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nYours Sincerely [CD+ブックレット+ハンカチ]＜初回生産限定盤＞\n¥6,050／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 131,
+        "lenNoLink": 141,
+        "image": "https://cdn.tower.jp/za/m/31/4573623373531.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8157317",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]",
+        "url": "https://tower.jp/item/8157317",
+        "rawUrl": "https://tower.jp/item/8157317",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4889134W.JPG",
+        "price": 5280,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-11T08:49:28.616Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]\n¥5,280／タワレコ\nhttps://tower.jp/item/8157317",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]\n¥5,280／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 175,
+        "lenNoLink": 185,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4889134W.JPG"
+      }
+    },
     {
       "type": "new",
       "item": {

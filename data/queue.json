@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "tower:8035674:restock",
+      "detectedAt": "2026-09-11T08:49:28.616Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "Yours Sincerely [CD+ブックレット+ハンカチ]＜初回生産限定盤＞",
+      "url": "https://tower.jp/item/8035674",
+      "image": "https://cdn.tower.jp/za/m/31/4573623373531.jpg",
+      "price": 6050,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nYours Sincerely [CD+ブックレット+ハンカチ]＜初回生産限定盤＞\n¥6,050／タワレコ\nhttps://tower.jp/item/8035674",
+      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nYours Sincerely [CD+ブックレット+ハンカチ]＜初回生産限定盤＞\n¥6,050／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "tower:8157317:new",
+      "detectedAt": "2026-09-11T08:49:28.616Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]",
+      "url": "https://tower.jp/item/8157317",
+      "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4889134W.JPG",
+      "price": 5280,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]\n¥5,280／タワレコ\nhttps://tower.jp/item/8157317",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]\n¥5,280／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "tower:8055457:restock",
+      "detectedAt": "2026-09-11T08:49:28.583Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "bouquet [2CD+フォトブック]＜初回限定盤＞",
+      "url": "https://tower.jp/item/8055457",
+      "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3939217W.JPG",
+      "price": 6600,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nbouquet [2CD+フォトブック]＜初回限定盤＞\n¥6,600／タワレコ\nhttps://tower.jp/item/8055457",
+      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nbouquet [2CD+フォトブック]＜初回限定盤＞\n¥6,600／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8060218:new",
       "detectedAt": "2026-09-10T23:56:11.420Z",
       "watchLabel": "限定盤・グッズ",
