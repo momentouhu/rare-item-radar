@@ -10,7 +10,7 @@ const lastByHost = new Map();
  * 公式APIが無いサイト用の取得関数。
  * minIntervalMs は robots.txt の Crawl-delay があればそれを最低値にすること。
  */
-export async function fetchHtml(url, { minIntervalMs = 10_000, timeoutMs = 25_000 } = {}) {
+export async function fetchHtml(url, { minIntervalMs = 10_000, timeoutMs = 25_000, accept = 'text/html' } = {}) {
   const host = new URL(url).host;
   const wait = (lastByHost.get(host) ?? 0) + minIntervalMs - Date.now();
   if (wait > 0) await sleep(wait);
@@ -22,7 +22,7 @@ export async function fetchHtml(url, { minIntervalMs = 10_000, timeoutMs = 25_00
     const res = await fetch(url, {
       signal: ac.signal,
       redirect: 'follow',
-      headers: { 'User-Agent': UA, 'Accept-Language': 'ja,en;q=0.8', Accept: 'text/html' },
+      headers: { 'User-Agent': UA, 'Accept-Language': 'ja,en;q=0.8', Accept: accept },
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     return await res.text();

@@ -268,6 +268,8 @@ GET /events.json   直近のイベント（Actionsがサイト生成に使う）
 | **セブンネット** | HTML（`data-gtm-criteo-view` のJSON） | 10秒 | 制限なし | バリューコマースのみ **1.1%** | カートボタン `disabled` で在庫判定。一番きれいに取れる |
 | **タワレコ** | HTML | 10秒 | `/search/item/` は許可 | バリューコマース | 1ページ約800KBと重い |
 | **ホビーサーチ** | HTML | 10秒 | 制限なし | 要確認 | フィギュア・プラモ。予約品/販売中/残りN が取れる |
+| **カードラボ** | HTML | 10秒 | 制限なし | 要確認 | TCG専門チェーン。ポケカ/ワンピ/ユニアリ/ガンダム/遊戯王/MTG 全部ある。1ページ1.8MB |
+| **晴れる屋2** | **Shopify公開JSON** | 10秒 | — | なし | ポケカ専門。シールド品は**事前抽選販売**なので「抽選開始」通知として使う。`keywordsBySource` で "1BOX" 等を指定 |
 
 スクレイパは **GitHub Actions でのみ動く**（Cloudflare Worker はAPIソースだけ）。
 有効/無効は `config/watch.json` の `scrapers.enabled` で切り替える。
@@ -282,6 +284,12 @@ GET /events.json   直近のイベント（Actionsがサイト生成に使う）
 | **トイザらス** | 完全SPA（HTML 5KB のみ） | 同上 |
 | **ヨドバシ / ビックカメラ** | TCPレベルで遮断（応答なし） | 手段なし。ヨドバシはアフィリエイト自体もない |
 | **Amazon** | PA-API は審査＋180日以内に3件の売上が必要 | 実績ができてから |
+| **プレミアムバンダイ** | robots.txt が `/search/` を明示的に Disallow | 規約上やらない |
+| **Joshin / ノジマ** | `403 Access Denied` | 手段なし |
+| **ドラゴンスター** | Cloudflare チャレンジ（"Just a moment"） | 手段なし |
+| **GEO オンライン** | 検索結果が JS 描画（HTML 26KB） | Browser Rendering なら可 |
+| **HMV&BOOKS** | Shift_JIS かつ検索結果が JS 描画（HTMLに商品4件のみ） | 要調査 |
+| ホビーステーション / フルアヘッド | 接続不可（URL要確認） | 未確認 |
 
 ### スクレイパが壊れたら
 
@@ -298,6 +306,9 @@ npm run probe surugaya "ポケモンカード"     # 1ソース×1キーワー�
 
 `src/sources/` に `search(keyword, filters)` が正規化済みアイテム配列を返すモジュールを作り、
 `src/sources/index.js` に並べ、この表に追記する。**必ず先に robots.txt と利用規約を確認し、Crawl-delay があればそれを最低間隔にする。**
+
+**Shopify 製のショップなら `src/sources/shopify.js` の `shopifySource({ id, label, domain })` を1行書くだけで足せる**（HTML解析なし）。
+専門店は商品名にジャンル名を含まないことが多いので、監視の `keywordsBySource` でソース別にキーワードを差し替える。
 
 ---
 

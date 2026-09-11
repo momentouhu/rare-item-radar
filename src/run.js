@@ -41,7 +41,9 @@ for (const watch of config.watches) {
 
     let hits = 0;
     let lastError = null;
-    for (const keyword of watch.keywords) {
+    // 専門店は商品名にジャンル名を含まないことがあるので、ソース別にキーワードを差し替えられる
+    const keywords = watch.keywordsBySource?.[sourceId] ?? watch.keywords;
+    for (const keyword of keywords) {
       try {
         const results = await source.search(keyword, watch.filters);
         collected.push(...results);

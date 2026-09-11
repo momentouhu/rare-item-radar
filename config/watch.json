@@ -58,7 +58,9 @@
         "rakuten_ichiba",
         "rakuten_books",
         "sevennet",
-        "surugaya"
+        "surugaya",
+        "clabo",
+        "hareruya2"
       ],
       "filters": {
         "minPrice": 2000,
@@ -75,7 +77,14 @@
         ]
       },
       "pollTier": "fast",
-      "pollOffset": 3
+      "pollOffset": 3,
+      "keywordsBySource": {
+        "hareruya2": [
+          "1BOX",
+          "デッキセット",
+          "ハイクラスパック"
+        ]
+      }
     },
     {
       "id": "onepiece",
@@ -89,7 +98,8 @@
         "rakuten_ichiba",
         "rakuten_books",
         "sevennet",
-        "surugaya"
+        "surugaya",
+        "clabo"
       ],
       "filters": {
         "minPrice": 2000,
@@ -116,7 +126,8 @@
       "sources": [
         "rakuten_ichiba",
         "rakuten_books",
-        "surugaya"
+        "surugaya",
+        "clabo"
       ],
       "filters": {
         "minPrice": 3000,
@@ -194,7 +205,8 @@
       "sources": [
         "rakuten_ichiba",
         "sevennet",
-        "surugaya"
+        "surugaya",
+        "clabo"
       ],
       "filters": {
         "minPrice": 2000,
@@ -223,7 +235,8 @@
       "sources": [
         "rakuten_ichiba",
         "sevennet",
-        "surugaya"
+        "surugaya",
+        "clabo"
       ],
       "filters": {
         "minPrice": 2000,
@@ -252,7 +265,8 @@
       "sources": [
         "rakuten_ichiba",
         "sevennet",
-        "surugaya"
+        "surugaya",
+        "clabo"
       ],
       "filters": {
         "minPrice": 2000,
@@ -280,7 +294,8 @@
       ],
       "sources": [
         "rakuten_ichiba",
-        "surugaya"
+        "surugaya",
+        "clabo"
       ],
       "filters": {
         "minPrice": 2000,
@@ -399,7 +414,9 @@
       "surugaya",
       "sevennet",
       "tower",
-      "hobbysearch"
+      "hobbysearch",
+      "clabo",
+      "hareruya2"
     ]
   }
 }
