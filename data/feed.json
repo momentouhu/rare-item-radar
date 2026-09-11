@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-09-11T19:58:37.816Z",
+  "updatedAt": "2026-09-11T22:23:48.045Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:383773",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]",
+        "url": "https://www.c-labo-online.jp/product/383773",
+        "rawUrl": "https://www.c-labo-online.jp/product/383773",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-09-11T22:23:02.057Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/383773",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 188,
+        "lenNoLink": 198,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:240981",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ポケモンカードゲーム ポケカ 強化拡張パック クリムゾンヘイズ(1 BOX =30パック)",
+        "url": "https://www.c-labo-online.jp/product/240981",
+        "rawUrl": "https://www.c-labo-online.jp/product/240981",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303232395f3963663836312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 5400,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "pokemon",
+      "watchLabel": "ポケモンカード（広め）",
+      "detectedAt": "2026-09-11T22:21:32.297Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ポケモンカード（広め）\n[新品ボックス] ポケモンカードゲーム ポケカ 強化拡張パック クリムゾンヘイズ(1 BOX =30パック)\n¥5,400／カードラボ\nhttps://www.c-labo-online.jp/product/240981\n#ポケカ #ポケモンカード",
+        "textNoLink": "🆕【新着・予約開始】ポケモンカード（広め）\n[新品ボックス] ポケモンカードゲーム ポケカ 強化拡張パック クリムゾンヘイズ(1 BOX =30パック)\n¥5,400／カードラボ\n🔗 詳細はプロフィールのリンクから\n#ポケカ #ポケモンカード",
+        "lenWithLink": 202,
+        "lenNoLink": 212,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303232395f3963663836312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
