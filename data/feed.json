@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-09-12T16:28:46.114Z",
+  "updatedAt": "2026-09-12T18:40:09.766Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:408050",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]",
+        "url": "https://www.c-labo-online.jp/product/408050",
+        "rawUrl": "https://www.c-labo-online.jp/product/408050",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-09-12T18:39:21.417Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/408050",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 188,
+        "lenNoLink": 198,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294893",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+        "url": "https://www.c-labo-online.jp/product/294893",
+        "rawUrl": "https://www.c-labo-online.jp/product/294893",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-12T18:39:41.166Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294893",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "sevennet:2110633668",
+        "source": "sevennet",
+        "sourceLabel": "セブンネット",
+        "title": "Nintendo Switch Joy-Con(L) ネオンブルー/(R) ネオンレッド",
+        "url": "https://7net.omni7.jp/detail/2110633668.html",
+        "rawUrl": "https://7net.omni7.jp/detail/2110633668.html",
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwb0074f71/033022/2110633668.jpg?sw=640",
+        "price": 43980,
+        "inStock": true,
+        "shop": "セブンネットショッピング",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "game-hw",
+      "watchLabel": "ゲーム機・限定版",
+      "detectedAt": "2026-09-12T18:39:45.055Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch Joy-Con(L) ネオンブルー/(R) ネオンレッド\n¥43,980／セブンネット\nhttps://7net.omni7.jp/detail/2110633668.html",
+        "textNoLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch Joy-Con(L) ネオンブルー/(R) ネオンレッド\n¥43,980／セブンネット\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 140,
+        "lenNoLink": 150,
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dwb0074f71/033022/2110633668.jpg?sw=640"
+      }
+    },
     {
       "type": "restock",
       "item": {
