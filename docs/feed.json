@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-13T16:54:59.973Z",
+  "updatedAt": "2026-09-13T19:15:41.889Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:383773",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]",
+        "url": "https://www.c-labo-online.jp/product/383773",
+        "rawUrl": "https://www.c-labo-online.jp/product/383773",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-09-13T19:14:55.497Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/383773",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 188,
+        "lenNoLink": 198,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
