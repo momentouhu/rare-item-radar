@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-09-13T06:39:20.701Z",
+  "updatedAt": "2026-09-13T12:37:58.947Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:407334",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "カードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]",
+        "url": "https://www.c-labo-online.jp/product/407334",
+        "rawUrl": "https://www.c-labo-online.jp/product/407334",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a706700333230000074006669745f686569676874.jpg",
+        "price": 0,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-09-13T12:37:13.467Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\nカードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/407334",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\nカードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 138,
+        "lenNoLink": 148,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:408352",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "カードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]",
+        "url": "https://www.c-labo-online.jp/product/408352",
+        "rawUrl": "https://www.c-labo-online.jp/product/408352",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "onepiece",
+      "watchLabel": "ワンピースカード",
+      "detectedAt": "2026-09-13T12:36:06.218Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ワンピースカード\nカードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/408352\n#ワンピカード #ONEPIECEカードゲーム",
+        "textNoLink": "🆕【新着・予約開始】ワンピースカード\nカードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから\n#ワンピカード #ONEPIECEカードゲーム",
+        "lenWithLink": 178,
+        "lenNoLink": 188,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
