@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-09-12T23:13:04.713Z",
+  "updatedAt": "2026-09-13T01:22:16.662Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294909",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042",
+        "url": "https://www.c-labo-online.jp/product/294909",
+        "rawUrl": "https://www.c-labo-online.jp/product/294909",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2480,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-13T01:21:50.254Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/294909",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 136,
+        "lenNoLink": 146,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294885",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043",
+        "url": "https://www.c-labo-online.jp/product/294885",
+        "rawUrl": "https://www.c-labo-online.jp/product/294885",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-13T01:21:50.285Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294885",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 133,
+        "lenNoLink": 143,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294947",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033",
+        "url": "https://www.c-labo-online.jp/product/294947",
+        "rawUrl": "https://www.c-labo-online.jp/product/294947",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-13T01:21:50.286Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294947",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 149,
+        "lenNoLink": 159,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
