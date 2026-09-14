@@ -1,6 +1,97 @@
 {
-  "updatedAt": "2026-09-14T20:29:28.607Z",
+  "updatedAt": "2026-09-14T23:23:56.753Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11428029",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "[賞味期限切れ] チョコサプ ワンピース (10個セット) (食玩)",
+        "url": "https://www.1999.co.jp/11428029",
+        "rawUrl": "https://www.1999.co.jp/11428029",
+        "image": "https://www.1999.co.jp/itbig142/11428029.jpg",
+        "price": 3272,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2025年9月下旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-14T23:22:52.336Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\n[賞味期限切れ] チョコサプ ワンピース (10個セット) (食玩)\n¥3,272／ホビーサーチ\nhttps://www.1999.co.jp/11428029",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\n[賞味期限切れ] チョコサプ ワンピース (10個セット) (食玩)\n¥3,272／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 141,
+        "lenNoLink": 151,
+        "image": "https://www.1999.co.jp/itbig142/11428029.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356615",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/356615",
+        "rawUrl": "https://www.c-labo-online.jp/product/356615",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-14T23:23:26.939Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/356615",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 160,
+        "lenNoLink": 170,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356684",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031",
+        "url": "https://www.c-labo-online.jp/product/356684",
+        "rawUrl": "https://www.c-labo-online.jp/product/356684",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg",
+        "price": 3180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-14T23:23:26.939Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/356684",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 136,
+        "lenNoLink": 146,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
