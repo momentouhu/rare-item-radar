@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-13T23:58:13.414Z",
+  "updatedAt": "2026-09-14T04:04:02.629Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8060290",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "CURVE [CD+フォトカードC ver.]＜通常盤＞",
+        "url": "https://tower.jp/item/8060290",
+        "rawUrl": "https://tower.jp/item/8060290",
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1372362W.JPG",
+        "price": 3520,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-14T04:04:02.599Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nCURVE [CD+フォトカードC ver.]＜通常盤＞\n¥3,520／タワレコ\nhttps://tower.jp/item/8060290",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nCURVE [CD+フォトカードC ver.]＜通常盤＞\n¥3,520／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 110,
+        "lenNoLink": 120,
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1372362W.JPG"
+      }
+    },
     {
       "type": "new",
       "item": {
