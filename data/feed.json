@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-09-15T01:48:00.849Z",
+  "updatedAt": "2026-09-15T07:23:53.280Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:7966171",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Nintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート",
+        "url": "https://tower.jp/item/7966171",
+        "rawUrl": "https://tower.jp/item/7966171",
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3912098W.JPG",
+        "price": 5830,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-15T07:23:53.245Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\nhttps://tower.jp/item/7966171",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 155,
+        "lenNoLink": 165,
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3912098W.JPG"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8060290",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "CURVE [CD+フォトカードC ver.]＜通常盤＞",
+        "url": "https://tower.jp/item/8060290",
+        "rawUrl": "https://tower.jp/item/8060290",
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1372362W.JPG",
+        "price": 3520,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-15T07:23:53.280Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nCURVE [CD+フォトカードC ver.]＜通常盤＞\n¥3,520／タワレコ\nhttps://tower.jp/item/8060290",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nCURVE [CD+フォトカードC ver.]＜通常盤＞\n¥3,520／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 110,
+        "lenNoLink": 120,
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1372362W.JPG"
+      }
+    },
     {
       "type": "new",
       "item": {
