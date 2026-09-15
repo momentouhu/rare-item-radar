@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://momentouhu.github.io/keisan-lab/sitemap-index.xml
