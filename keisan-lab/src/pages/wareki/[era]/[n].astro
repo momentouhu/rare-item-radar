@@ -1,0 +1,117 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ToolCards from '../../../components/ToolCards.astro';
+import AdSlot from '../../../components/AdSlot.astro';
+import Faq from '../../../components/Faq.astro';
+import { url, BASE_YEAR } from '../../../lib/site';
+import { ERAS, eraSlug, eraMaxYear, warekiToYear, warekiLabel, eto, ageRange, kazoedoshi, schoolYears } from '../../../lib/wareki';
+
+export function getStaticPaths() {
+  const paths: { params: { era: string; n: string }; props: { slug: string; n: number } }[] = [];
+  for (const e of ERAS) {
+    const slug = eraSlug(e);
+    // 令和は基準年の2年先まで生成しておく
+    const max = eraMaxYear(e, BASE_YEAR + 2);
+    for (let n = 1; n <= max; n++) paths.push({ params: { era: slug, n: String(n) }, props: { slug, n } });
+  }
+  return paths;
+}
+
+const { slug, n } = Astro.props as { slug: string; n: number };
+const era = ERAS.find((e) => eraSlug(e) === slug)!;
+const year = warekiToYear(era, n);
+const max = eraMaxYear(era, BASE_YEAR + 2);
+const label = `${era.name}${n === 1 ? '元' : n}年`;
+const e = eto(year);
+const age = ageRange(year, BASE_YEAR);
+const isPast = year <= BASE_YEAR;
+const others = warekiLabel(year).split('/').filter((s) => s !== label);
+const school = schoolYears(year, false);
+const nearby = Array.from({ length: 11 }, (_, i) => n - 5 + i).filter((v) => v >= 1 && v <= max);
+
+const title = `${label}は西暦${year}年｜干支は${e.junishi}、${label}生まれは${BASE_YEAR}年で${isPast ? `${age.after}歳` : '—'}`;
+const description = `${label}は西暦${year}年です${others.length ? `（${others.join('・')}と同じ年）` : ''}。${label}の干支は${e.junishi}（${e.animal}）年。${isPast ? `${label}生まれの人は${BASE_YEAR}年に満${age.after}歳（数え年${kazoedoshi(year, BASE_YEAR)}歳）になります。` : ''}前後の年の和暦西暦対応表も掲載。`;
+const faq = [
+  { q: `${label}は西暦何年？`, a: `${label}は西暦${year}年です。${era.name}は${era.start.y}年${era.start.m}月${era.start.d}日に始まったため、「${era.name}の年 ＋ ${era.start.y - 1}」で西暦になります。` },
+  { q: `${label}の干支は？`, a: `${label}（${year}年）の干支は${e.junishi}（${e.animal}）年、十干十二支では${e.kanshi}（${e.kanshiYomi}）です。` },
+  ...(isPast ? [{ q: `${label}生まれは今何歳？`, a: `${label}（${year}年）生まれの人は、${BASE_YEAR}年の誕生日を迎えると満${age.after}歳、誕生日前は${Math.max(age.before, 0)}歳です。数え年は${kazoedoshi(year, BASE_YEAR)}歳です。` }] : []),
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  path={`/wareki/${slug}/${n}/`}
+  section="wareki"
+  type="article"
+  crumbs={[
+    { name: '和暦西暦変換表', path: '/wareki/' },
+    { name: era.name, path: `/wareki/#${slug}` },
+    { name: label, path: `/wareki/${slug}/${n}/` },
+  ]}
+>
+  <h1>{label}は西暦{year}年</h1>
+  <p class="lead">
+    {label}は<strong>西暦{year}年</strong>です{others.length ? `（同じ年に${others.join('・')}）` : ''}。干支は{e.junishi}（{e.animal}）年。{isPast && `${label}生まれの人は${BASE_YEAR}年に満${age.after}歳になります。`}
+  </p>
+
+  <div class="hero-result">
+    <div class="label">{label}</div>
+    <div class="value">{year}<small>年</small></div>
+    <div class="sub">
+      <span>干支 <b>{e.junishi}（{e.animal}）</b></span>
+      <span>十干十二支 <b>{e.kanshi}（{e.kanshiYomi}）</b></span>
+      {isPast && <span>{BASE_YEAR}年の年齢 <b>{age.after}</b>歳（誕生日前 {Math.max(age.before, 0)}歳）</span>}
+    </div>
+  </div>
+
+  {isPast && year >= 1920 && (
+    <p><a class="btn btn-ghost" href={url(`/age/${year}/`)}>{year}年生まれの年齢・入学卒業年・厄年を見る</a></p>
+  )}
+
+  <AdSlot />
+
+  <h2>{era.name}の前後の年との対応</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>和暦</th><th>西暦</th><th>干支</th><th>{BASE_YEAR}年の年齢</th></tr></thead>
+      <tbody>
+        {nearby.map((v) => {
+          const y = warekiToYear(era, v);
+          return (
+            <tr class={v === n ? 'hl' : ''}>
+              <td>{v === n ? label : <a href={url(`/wareki/${slug}/${v}/`)}>{era.name}{v === 1 ? '元' : v}年</a>}</td>
+              <td><a href={url(`/wareki/seireki/${y}/`)}>{y}年</a></td>
+              <td>{eto(y).junishi}</td>
+              <td>{y <= BASE_YEAR ? `${BASE_YEAR - y}歳` : '—'}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+
+  {isPast && (
+    <>
+      <h2>{label}（{year}年）生まれの主な節目</h2>
+      <ul>
+        <li>小学校入学: {school.elementaryIn}年4月（早生まれは{school.elementaryIn - 1}年）</li>
+        <li>高校卒業: {school.highOut}年3月（早生まれは{school.highOut - 1}年）</li>
+        <li>20歳: {year + 20}年（{warekiLabel(year + 20)}）</li>
+        <li>還暦（60歳）: {year + 60}年（{warekiLabel(year + 60)}）</li>
+      </ul>
+    </>
+  )}
+
+  <h2>{era.name}から西暦への変換方法</h2>
+  <p>{era.name}の年に<strong>{era.start.y - 1}</strong>を足すと西暦になります。{label}なら {n} ＋ {era.start.y - 1} ＝ {year}年です。逆に西暦から{era.start.y - 1}を引くと{era.name}の年になります。</p>
+  <p>{era.name}は{era.start.y}年{era.start.m}月{era.start.d}日から{era.end ? `${era.end.y}年${era.end.m}月${era.end.d}日まで（${era.name}${eraMaxYear(era, BASE_YEAR)}年）` : '現在まで'}続いています。</p>
+
+  <Faq items={faq} />
+
+  <h2>元号ごとの対応表</h2>
+  <ul class="link-grid">
+    {ERAS.map((x) => <li><a href={url(`/wareki/#${eraSlug(x)}`)} class={x.name === era.name ? 'current' : ''}>{x.name}</a></li>)}
+  </ul>
+  <ToolCards exclude="wareki" />
+</BaseLayout>

@@ -1,0 +1,29 @@
+---
+import { SITE_NAME, url } from '../lib/site';
+interface Props {
+  section?: string;
+}
+const { section } = Astro.props;
+const items = [
+  { key: 'tedori', label: '手取り計算', path: '/tedori/' },
+  { key: 'age', label: '年齢早見表', path: '/age/' },
+  { key: 'wareki', label: '和暦西暦', path: '/wareki/' },
+  { key: 'loan', label: '住宅ローン', path: '/loan/' },
+];
+---
+
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href={url('/')} aria-label={`${SITE_NAME} ホーム`}>
+      <span class="brand-mark" aria-hidden="true">計</span>
+      {SITE_NAME}
+    </a>
+    <nav class="nav" aria-label="主要メニュー">
+      {items.map((it) => (
+        <a href={url(it.path)} aria-current={section === it.key ? 'page' : undefined}>
+          {it.label}
+        </a>
+      ))}
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,152 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ToolCards from '../../components/ToolCards.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import Faq from '../../components/Faq.astro';
+import { url, BASE_YEAR } from '../../lib/site';
+import { calcLoan, monthlyPayment, RATE_PRESETS, YEAR_PRESETS } from '../../lib/loan';
+import { LOAN_MAN, neighbors } from '../../lib/ranges';
+import { yen, man } from '../../lib/format';
+import { calcTedori } from '../../lib/tax';
+
+export function getStaticPaths() {
+  return LOAN_MAN.map((m) => ({ params: { amount: String(m) }, props: { m } }));
+}
+
+const { m } = Astro.props as { m: number };
+const principal = m * 10000;
+const idx = LOAN_MAN.indexOf(m);
+const prev = idx > 0 ? LOAN_MAN[idx - 1] : null;
+const next = idx < LOAN_MAN.length - 1 ? LOAN_MAN[idx + 1] : null;
+const label = `${m.toLocaleString('ja-JP')}万円`;
+
+const std = calcLoan({ principal, annualRate: 0.01, years: 35 });
+const std15 = calcLoan({ principal, annualRate: 0.015, years: 35 });
+const std05 = calcLoan({ principal, annualRate: 0.005, years: 35 });
+// 必要年収の目安: 返済負担率 20% / 25% / 30%
+const incomeGuide = [20, 25, 30].map((ratio) => ({ ratio, income: Math.ceil(((std.monthlyPayment * 12) / (ratio / 100)) / 100000) * 100000 }));
+const nearby = neighbors(LOAN_MAN, idx, 4);
+
+const title = `住宅ローン${label}の月々の返済額は？金利・期間別の早見表【${BASE_YEAR}年】`;
+const description = `借入額${label}の住宅ローンは、金利1.0%・35年返済なら月々${yen(std.monthlyPayment)}円（総支払額${man(std.totalPayment)}、利息${man(std.totalInterest)}）。金利0.4〜3.0%・期間10〜35年の返済額早見表、必要年収の目安、元金均等との比較をまとめました。`;
+const faq = [
+  { q: `${label}を35年ローンで借りると月々いくら？`, a: `金利1.0%なら月々${yen(std.monthlyPayment)}円、0.5%なら${yen(std05.monthlyPayment)}円、1.5%なら${yen(std15.monthlyPayment)}円です（元利均等・ボーナス払いなし）。` },
+  { q: `${label}の住宅ローンを組むのに必要な年収は？`, a: `返済負担率25%を目安にすると年収${man(incomeGuide[1].income)}程度、余裕を持って20%なら年収${man(incomeGuide[0].income)}程度が目安です（金利1.0%・35年返済の場合）。` },
+  { q: `${label}を借りた場合の利息の総額は？`, a: `金利1.0%・35年返済の場合、利息の総額は約${man(std.totalInterest)}、総支払額は約${man(std.totalPayment)}です。金利1.5%なら利息は約${man(std15.totalInterest)}に増えます。` },
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  path={`/loan/${m}/`}
+  section="loan"
+  type="article"
+  crumbs={[
+    { name: '住宅ローン返済シミュレーター', path: '/loan/' },
+    { name: `借入額${label}`, path: `/loan/${m}/` },
+  ]}
+>
+  <h1>住宅ローン{label}の月々の返済額【金利・期間別早見表】</h1>
+  <p class="lead">借入額{label}の住宅ローンは、金利1.0%・35年返済（元利均等・ボーナス払いなし）の場合、<strong>月々{yen(std.monthlyPayment)}円</strong>、総支払額は約{man(std.totalPayment)}です。</p>
+
+  <div class="hero-result">
+    <div class="label">借入{label}・金利1.0%・35年の月々返済額</div>
+    <div class="value">{yen(std.monthlyPayment)}<small>円</small></div>
+    <div class="sub">
+      <span>総支払額 <b>{yen(std.totalPayment)}</b>円</span>
+      <span>利息総額 <b>{yen(std.totalInterest)}</b>円</span>
+      <span>年間返済額 <b>{yen(std.monthlyPayment * 12)}</b>円</span>
+    </div>
+  </div>
+  <p><a class="btn btn-ghost" href={url(`/loan/?p=${m}`)}>金利・期間を変えて計算する</a></p>
+
+  <h2>金利・返済期間別の月々の返済額（借入{label}）</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>金利＼期間</th>{YEAR_PRESETS.map((y) => <th>{y}年</th>)}</tr></thead>
+      <tbody>
+        {RATE_PRESETS.map((r) => (
+          <tr class={r === 0.01 ? 'hl' : ''}>
+            <td>{(r * 100).toFixed(r * 1000 % 10 === 0 ? 1 : 2)}%</td>
+            {YEAR_PRESETS.map((y) => <td>{yen(monthlyPayment(principal, r, y))}円</td>)}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <AdSlot />
+
+  <h2>総支払額と利息の比較（35年返済）</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>金利</th><th>月々の返済額</th><th>総支払額</th><th>利息総額</th><th>元金均等の利息総額</th></tr></thead>
+      <tbody>
+        {RATE_PRESETS.map((r) => {
+          const res = calcLoan({ principal, annualRate: r, years: 35 });
+          return (
+            <tr class={r === 0.01 ? 'hl' : ''}>
+              <td>{(r * 100).toFixed(r * 1000 % 10 === 0 ? 1 : 2)}%</td>
+              <td>{yen(res.monthlyPayment)}円</td>
+              <td>{yen(res.totalPayment)}円</td>
+              <td>{yen(res.totalInterest)}円</td>
+              <td>{yen(res.totalInterestEqualPrincipal)}円</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+  <p class="table-note">※ 元金均等返済は初回の返済額が最も多く（金利1.0%で{yen(std.firstPaymentEqualPrincipal)}円）、最終回は{yen(std.lastPaymentEqualPrincipal)}円まで減ります。</p>
+
+  <h2>{label}を借りるのに必要な年収の目安</h2>
+  <p>返済負担率（年間返済額 ÷ 年収）は20〜25%以内が無理のない目安、金融機関の審査上限は30〜35%程度です。金利1.0%・35年返済（年間返済額{yen(std.monthlyPayment * 12)}円）の場合：</p>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>返済負担率</th><th>必要年収の目安</th><th>その年収の月々の手取り</th><th>手取りに占める返済額</th></tr></thead>
+      <tbody>
+        {incomeGuide.map((g) => {
+          const t = calcTedori({ annualIncome: g.income });
+          const nenshuMan = Math.round(g.income / 100000) * 10;
+          return (
+            <tr>
+              <td>{g.ratio}%</td>
+              <td><a href={url(`/tedori/nenshu/${Math.min(Math.max(nenshuMan, 100), 2000) <= 2000 ? Math.min(Math.max(nenshuMan, 100), 2000) : 2000}/`)}>年収{man(g.income)}</a></td>
+              <td>{yen(t.netMonthly)}円</td>
+              <td>{((std.monthlyPayment / t.netMonthly) * 100).toFixed(0)}%</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>近い借入額との比較（金利1.0%・35年）</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>借入額</th><th>月々の返済額</th><th>総支払額</th><th>利息総額</th></tr></thead>
+      <tbody>
+        {nearby.map((v) => {
+          const res = calcLoan({ principal: v * 10000, annualRate: 0.01, years: 35 });
+          return (
+            <tr class={v === m ? 'hl' : ''}>
+              <td>{v === m ? label : <a href={url(`/loan/${v}/`)}>{v.toLocaleString('ja-JP')}万円</a>}</td>
+              <td>{yen(res.monthlyPayment)}円</td>
+              <td>{yen(res.totalPayment)}円</td>
+              <td>{yen(res.totalInterest)}円</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+  <div class="prev-next">
+    {prev ? <a href={url(`/loan/${prev}/`)}>‹ {prev.toLocaleString('ja-JP')}万円</a> : <span />}
+    {next ? <a href={url(`/loan/${next}/`)}>{next.toLocaleString('ja-JP')}万円 ›</a> : <span />}
+  </div>
+
+  <Faq items={faq} />
+  <p><a href={url('/loan/')}>住宅ローン返済シミュレーター（借入額別早見表）›</a></p>
+  <ToolCards exclude="loan" />
+</BaseLayout>

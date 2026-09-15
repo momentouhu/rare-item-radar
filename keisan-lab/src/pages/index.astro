@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_TAGLINE, SITE_DESCRIPTION, url, BASE_YEAR, TAX_YEAR_LABEL } from '../lib/site';
+import { calcTedori } from '../lib/tax';
+import { man, yen } from '../lib/format';
+
+const popular = [300, 400, 450, 500, 600, 700, 800, 1000];
+const popularRows = popular.map((m) => {
+  const r = calcTedori({ annualIncome: m * 10000 });
+  return { m, net: r.netAnnual, monthly: r.netMonthly };
+});
+const recentYears = [1960, 1970, 1980, 1985, 1990, 1995, 2000, 2005];
+---
+
+<BaseLayout title={SITE_TAGLINE} description={SITE_DESCRIPTION} path="/">
+  <section class="hero">
+    <h1>暮らしの計算を、サクッと。</h1>
+    <p class="lead">
+      年収から手取り、生まれ年から年齢、借入額から月々の返済額まで。<strong>{TAX_YEAR_LABEL}の最新の税率・保険料率</strong>で計算した早見表と無料ツールをまとめています。
+    </p>
+  </section>
+
+  <ul class="tool-cards">
+    <li>
+      <a class="tool-card" href={url('/tedori/')}>
+        <div class="icon" aria-hidden="true">💴</div>
+        <h3>手取り計算</h3>
+        <p>年収・月給を入れるだけ。社会保険料・所得税・住民税の内訳まで表示。</p>
+      </a>
+    </li>
+    <li>
+      <a class="tool-card" href={url('/age/')}>
+        <div class="icon" aria-hidden="true">🎂</div>
+        <h3>年齢早見表 {BASE_YEAR}年版</h3>
+        <p>生まれ年から今の年齢・干支・入学卒業年・厄年をまとめて確認。</p>
+      </a>
+    </li>
+    <li>
+      <a class="tool-card" href={url('/wareki/')}>
+        <div class="icon" aria-hidden="true">📅</div>
+        <h3>和暦西暦変換</h3>
+        <p>昭和60年は西暦何年？ 令和8年は？ 明治から令和まで一覧で。</p>
+      </a>
+    </li>
+    <li>
+      <a class="tool-card" href={url('/loan/')}>
+        <div class="icon" aria-hidden="true">🏠</div>
+        <h3>住宅ローン返済シミュレーター</h3>
+        <p>借入額・金利・期間から月々の返済額と総支払額を試算。</p>
+      </a>
+    </li>
+  </ul>
+
+  <h2>よく見られている年収の手取り</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>年収</th><th>年間手取り</th><th>月々の手取り</th><th></th></tr></thead>
+      <tbody>
+        {popularRows.map((row) => (
+          <tr>
+            <td><a href={url(`/tedori/nenshu/${row.m}/`)}>年収{row.m}万円</a></td>
+            <td>約{man(row.net)}</td>
+            <td>約{yen(row.monthly)}円</td>
+            <td><a href={url(`/tedori/nenshu/${row.m}/`)}>内訳を見る ›</a></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p><a href={url('/tedori/nenshu/')}>年収100万〜5000万円の手取り早見表をすべて見る ›</a></p>
+
+  <h2>生まれ年から年齢を調べる</h2>
+  <ul class="link-grid">
+    {recentYears.map((y) => (
+      <li><a href={url(`/age/${y}/`)}>{y}年生まれ</a></li>
+    ))}
+  </ul>
+  <p><a href={url('/age/')}>1920年〜{BASE_YEAR}年生まれの年齢早見表を見る ›</a></p>
+
+  <h2>このサイトについて</h2>
+  <p>
+    けいさんラボは、生活の中で「ちょっと計算したい」場面に特化した無料のツール＆早見表サイトです。
+    手取り計算は{TAX_YEAR_LABEL}の協会けんぽ・厚生年金・雇用保険の料率と、令和8年分の所得税（基礎控除・給与所得控除の改正後）を反映しています。
+    数値はいずれも概算です。詳しくは<a href={url('/about/')}>このサイトについて</a>をご覧ください。
+  </p>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding: 1rem 0 0.5rem;
+  }
+</style>

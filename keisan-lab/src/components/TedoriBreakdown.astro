@@ -1,0 +1,58 @@
+---
+import type { TedoriResult } from '../lib/tax';
+import { yen } from '../lib/format';
+interface Props {
+  r: TedoriResult;
+  caption?: string;
+}
+const { r, caption = '控除の内訳（年額）' } = Astro.props;
+const rows = [
+  { k: '健康保険料', v: r.health, note: '協会けんぽ 東京・本人負担分' },
+  ...(r.over40 ? [{ k: '介護保険料', v: r.care, note: '40〜64歳のみ' }] : []),
+  { k: '厚生年金保険料', v: r.pension, note: '本人負担分' },
+  { k: '雇用保険料', v: r.employment, note: '一般の事業' },
+  { k: '所得税', v: r.incomeTax, note: '復興特別所得税を含む' },
+  { k: '住民税', v: r.residentTax, note: '所得割10%＋均等割' },
+];
+---
+
+<div class="table-wrap">
+  <table>
+    <caption class="visually-hidden">{caption}</caption>
+    <thead>
+      <tr><th>項目</th><th>年額</th><th>月額換算</th><th>備考</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>額面年収</td><td>{yen(r.annualIncome)}円</td><td>{yen(r.annualIncome / 12)}円</td><td></td></tr>
+      {rows.map((row) => (
+        <tr>
+          <td>− {row.k}</td>
+          <td>{yen(row.v)}円</td>
+          <td>{yen(row.v / 12)}円</td>
+          <td style="white-space:normal;font-size:.85em;color:var(--muted)">{row.note}</td>
+        </tr>
+      ))}
+      <tr>
+        <td class="total">控除合計</td>
+        <td class="total">{yen(r.deductionTotal)}円</td>
+        <td class="total">{yen(r.deductionTotal / 12)}円</td>
+        <td></td>
+      </tr>
+      <tr class="hl">
+        <td>手取り</td>
+        <td>{yen(r.netAnnual)}円</td>
+        <td>{yen(r.netAnnual / 12)}円</td>
+        <td>手取り率 {(r.netRatio * 100).toFixed(1)}%</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<style>
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+</style>

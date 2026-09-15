@@ -1,0 +1,125 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ToolCards from '../../components/ToolCards.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import Faq from '../../components/Faq.astro';
+import { url, BASE_YEAR } from '../../lib/site';
+import { ERAS, eraSlug, eraMaxYear, warekiToYear, eto, ageRange } from '../../lib/wareki';
+
+const title = `和暦西暦変換表【${BASE_YEAR}年版】明治・大正・昭和・平成・令和の早見表`;
+const description = `明治元年から令和${BASE_YEAR - 2018}年までの和暦と西暦の対応を一覧にした早見表。「昭和60年は西暦何年？」「令和8年は？」がすぐわかり、各年の干支と${BASE_YEAR}年時点の年齢も確認できます。西暦↔和暦の変換ツール付き。`;
+const faq = [
+  { q: `令和${BASE_YEAR - 2018}年は西暦何年？`, a: `令和${BASE_YEAR - 2018}年は西暦${BASE_YEAR}年です。令和は2019年5月1日に始まったため、「令和の年 ＋ 2018」で西暦になります。` },
+  { q: '昭和から西暦への変換方法は？', a: '昭和の年に1925を足すと西暦になります（例: 昭和60年 ＋ 1925 ＝ 1985年）。平成は1988、令和は2018、大正は1911、明治は1867を足します。' },
+  { q: '平成31年と令和元年は同じ年？', a: 'はい。2019年は4月30日までが平成31年、5月1日からが令和元年です。同様に1989年は1月7日までが昭和64年、1月8日からが平成元年、1926年は12月25日から昭和元年です。' },
+];
+---
+
+<BaseLayout title={title} description={description} path="/wareki/" section="wareki" crumbs={[{ name: '和暦西暦変換表', path: '/wareki/' }]}>
+  <h1>和暦西暦変換表【{BASE_YEAR}年版】</h1>
+  <p class="lead">明治・大正・昭和・平成・令和と西暦の対応表です。変換ツールに年を入れると、和暦↔西暦を即座に変換します。</p>
+
+  <form class="calc" id="wareki-form" autocomplete="off">
+    <div class="calc-grid">
+      <div class="field">
+        <label for="seireki">西暦 → 和暦</label>
+        <div class="input"><input type="number" id="seireki" inputmode="numeric" value={BASE_YEAR} min="1868" max="2100" /><span class="unit">年</span></div>
+        <div class="help" id="seireki-out">—</div>
+      </div>
+      <div class="field">
+        <label for="era">和暦 → 西暦</label>
+        <div class="input">
+          <select id="era" aria-label="元号">{ERAS.map((e) => <option value={e.start.y} selected={e.name === '令和'}>{e.name}</option>)}</select>
+          <input type="number" id="wnum" inputmode="numeric" value={BASE_YEAR - 2018} min="1" max="99" /><span class="unit">年</span>
+        </div>
+        <div class="help" id="wareki-out">—</div>
+      </div>
+    </div>
+  </form>
+
+  <h2>変換の早見（足し算で覚える）</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>元号</th><th>期間</th><th>西暦への変換</th><th>元年</th><th>最終年</th></tr></thead>
+      <tbody>
+        {ERAS.map((e) => {
+          const max = eraMaxYear(e, BASE_YEAR);
+          return (
+            <tr>
+              <td><a href={url(`/wareki/${eraSlug(e)}/1/`)}>{e.name}</a></td>
+              <td style="text-align:left">{e.start.y}年{e.start.m}月{e.start.d}日 〜 {e.end ? `${e.end.y}年${e.end.m}月${e.end.d}日` : '現在'}</td>
+              <td>{e.name}n年 ＋ {e.start.y - 1}</td>
+              <td>{e.start.y}年</td>
+              <td>{e.name}{max}年（{warekiToYear(e, max)}年）</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+
+  <AdSlot />
+
+  {ERAS.slice().reverse().map((e) => {
+    const max = eraMaxYear(e, BASE_YEAR);
+    const rows = Array.from({ length: max }, (_, i) => i + 1).reverse();
+    return (
+      <section>
+        <h2 id={eraSlug(e)}>{e.name}の和暦西暦対応表</h2>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>和暦</th><th>西暦</th><th>干支</th><th>{BASE_YEAR}年の年齢</th></tr></thead>
+            <tbody>
+              {rows.map((n) => {
+                const y = warekiToYear(e, n);
+                const a = ageRange(y, BASE_YEAR);
+                return (
+                  <tr class={y === BASE_YEAR ? 'hl' : ''}>
+                    <td><a href={url(`/wareki/${eraSlug(e)}/${n}/`)}>{e.name}{n === 1 ? '元' : n}年</a></td>
+                    <td><a href={url(`/wareki/seireki/${y}/`)}>{y}年</a></td>
+                    <td>{eto(y).junishi}</td>
+                    <td>{y <= BASE_YEAR && y >= 1920 ? <a href={url(`/age/${y}/`)}>{a.after}歳</a> : y <= BASE_YEAR ? `${a.after}歳` : '—'}</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    );
+  })}
+
+  <Faq items={faq} />
+  <ToolCards exclude="wareki" />
+</BaseLayout>
+
+<script>
+  const eras = [
+    { name: '明治', y: 1868, m: 1, d: 25, end: [1912, 7, 29] },
+    { name: '大正', y: 1912, m: 7, d: 30, end: [1926, 12, 24] },
+    { name: '昭和', y: 1926, m: 12, d: 25, end: [1989, 1, 7] },
+    { name: '平成', y: 1989, m: 1, d: 8, end: [2019, 4, 30] },
+    { name: '令和', y: 2019, m: 5, d: 1, end: null as null | number[] },
+  ];
+  const seireki = document.getElementById('seireki') as HTMLInputElement;
+  const seirekiOut = document.getElementById('seireki-out')!;
+  const era = document.getElementById('era') as HTMLSelectElement;
+  const wnum = document.getElementById('wnum') as HTMLInputElement;
+  const warekiOut = document.getElementById('wareki-out')!;
+  function s2w() {
+    const y = Number(seireki.value);
+    if (!y || y < 1868) { seirekiOut.textContent = '1868年以降を入力してください'; return; }
+    const hits = eras.filter((e) => y >= e.y && (!e.end || y <= e.end[0]));
+    seirekiOut.textContent = `${y}年 ＝ ` + hits.map((e) => `${e.name}${y - e.y + 1 === 1 ? '元' : y - e.y + 1}年`).join(' / ');
+  }
+  function w2s() {
+    const e = eras.find((x) => x.y === Number(era.value))!;
+    const n = Number(wnum.value) || 1;
+    const y = e.y + n - 1;
+    const max = e.end ? e.end[0] - e.y + 1 : new Date().getFullYear() - e.y + 1;
+    warekiOut.textContent = n > max ? `${e.name}は${max}年までです` : `${e.name}${n === 1 ? '元' : n}年 ＝ 西暦${y}年`;
+  }
+  seireki.addEventListener('input', s2w);
+  [era, wnum].forEach((el) => el.addEventListener('input', w2s));
+  s2w(); w2s();
+</script>

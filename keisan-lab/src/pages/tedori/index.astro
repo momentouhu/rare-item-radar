@@ -1,0 +1,192 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Faq from '../../components/Faq.astro';
+import ToolCards from '../../components/ToolCards.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { url, TAX_YEAR_LABEL } from '../../lib/site';
+import { RATES } from '../../lib/tax';
+import { pct } from '../../lib/format';
+
+const title = `手取り計算ツール【${TAX_YEAR_LABEL}最新】年収・月給から手取り額を即計算`;
+const description = `年収や月給を入力するだけで、手取り額と社会保険料・所得税・住民税の内訳を${TAX_YEAR_LABEL}の最新料率で計算します。賞与の有無や40歳以上の介護保険料にも対応した無料シミュレーターです。`;
+const popular = [250, 300, 350, 400, 450, 500, 550, 600, 700, 800, 900, 1000, 1200, 1500, 2000];
+const faq = [
+  {
+    q: '手取りとは何ですか？',
+    a: '額面の給与から、健康保険料・厚生年金保険料・雇用保険料（40歳以上は介護保険料も）と所得税・住民税を差し引いた、実際に口座へ振り込まれる金額のことです。一般に年収の75〜85%程度になります。',
+  },
+  {
+    q: '計算にはどの料率を使っていますか？',
+    a: `健康保険は協会けんぽ 東京都 ${pct(RATES.health)}、介護保険 ${pct(RATES.care)}、厚生年金 ${pct(RATES.pension, 1)}、雇用保険（労働者負担）${pct(RATES.employment, 1)}（いずれも${RATES.year}年度）。所得税は令和8年分（基礎控除の引き上げ・給与所得控除の最低保障65万円）、住民税は所得割10%＋均等割・森林環境税6,000円で計算しています。`,
+  },
+  {
+    q: '住民税は前年の所得で決まるのでは？',
+    a: 'その通りです。住民税は前年の所得をもとに翌年6月から徴収されます。本ツールは「同じ年収が続く」前提で当年分として計算しています。新卒1年目など前年所得がない場合は、住民税分だけ手取りが多くなります。',
+  },
+  {
+    q: '扶養家族がいる場合は？',
+    a: '本ツールは扶養なし・独身の前提です。配偶者控除や扶養控除、生命保険料控除、iDeCo などがある場合は課税所得が減るため、実際の手取りはここで表示される額より多くなります。',
+  },
+  {
+    q: '健康保険組合に加入している場合は？',
+    a: '健康保険組合の料率は組合ごとに異なり、協会けんぽより低いことが多いです。また協会けんぽも都道府県によって料率が異なります（2026年度は 9.3〜10.4% 程度）。差は年収500万円で年1〜2万円ほどです。',
+  },
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  path="/tedori/"
+  section="tedori"
+  crumbs={[{ name: '手取り計算', path: '/tedori/' }]}
+>
+  <h1>手取り計算ツール【{TAX_YEAR_LABEL}】</h1>
+  <p class="lead">
+    年収または月給を入力すると、社会保険料と税金を差し引いた<strong>手取り額</strong>を即座に計算します。{TAX_YEAR_LABEL}の最新の料率・税制改正（基礎控除の引き上げ）を反映済み。
+  </p>
+
+  <form class="calc" id="tedori-form" autocomplete="off">
+    <div class="calc-grid">
+      <div class="field">
+        <label for="mode">入力する金額</label>
+        <div class="seg" role="radiogroup">
+          <label><input type="radio" name="mode" value="annual" checked /><span>年収</span></label>
+          <label><input type="radio" name="mode" value="monthly" /><span>月給</span></label>
+        </div>
+      </div>
+      <div class="field">
+        <label for="amount">金額（額面）</label>
+        <div class="input">
+          <input type="number" id="amount" name="amount" inputmode="numeric" value="450" min="0" step="1" />
+          <span class="unit">万円</span>
+        </div>
+        <div class="help" id="amount-help">賞与を含む年間の総支給額</div>
+      </div>
+      <div class="field">
+        <label for="bonus">賞与（年間合計）</label>
+        <div class="input">
+          <input type="number" id="bonus" name="bonus" inputmode="numeric" value="0" min="0" step="1" />
+          <span class="unit">万円</span>
+        </div>
+        <div class="help">年2回として按分します。0 なら賞与なし</div>
+      </div>
+      <label class="check"><input type="checkbox" id="over40" /> 40歳以上（介護保険料あり）</label>
+    </div>
+  </form>
+
+  <div class="hero-result" id="result" aria-live="polite">
+    <div class="label">年間の手取り額（概算）</div>
+    <div class="value"><span id="r-annual">—</span><small>円</small></div>
+    <div class="sub">
+      <span>月々の手取り <b id="r-monthly">—</b>円</span>
+      <span id="r-bonus-wrap" hidden>賞与1回の手取り <b id="r-bonus">—</b>円</span>
+      <span>手取り率 <b id="r-ratio">—</b>%</span>
+    </div>
+  </div>
+
+  <div class="table-wrap">
+    <table id="breakdown">
+      <thead><tr><th>項目</th><th>年額</th><th>月額換算</th></tr></thead>
+      <tbody>
+        <tr><td>額面</td><td id="b-gross">—</td><td id="b-gross-m">—</td></tr>
+        <tr><td>− 健康保険料</td><td id="b-health">—</td><td id="b-health-m">—</td></tr>
+        <tr id="row-care" hidden><td>− 介護保険料</td><td id="b-care">—</td><td id="b-care-m">—</td></tr>
+        <tr><td>− 厚生年金保険料</td><td id="b-pension">—</td><td id="b-pension-m">—</td></tr>
+        <tr><td>− 雇用保険料</td><td id="b-emp">—</td><td id="b-emp-m">—</td></tr>
+        <tr><td>− 所得税</td><td id="b-it">—</td><td id="b-it-m">—</td></tr>
+        <tr><td>− 住民税</td><td id="b-rt">—</td><td id="b-rt-m">—</td></tr>
+        <tr class="hl"><td>手取り</td><td id="b-net">—</td><td id="b-net-m">—</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="table-note">
+    ※ 独身・扶養なし、協会けんぽ（東京都）加入の会社員を想定した概算です。健康保険組合や他県の場合、各種控除がある場合は金額が変わります。
+  </p>
+
+  <AdSlot />
+
+  <h2>年収別の手取り早見表</h2>
+  <p>よく検索される年収の手取り額は、それぞれ個別ページで内訳・賞与ありのパターン・生活水準の目安まで詳しく解説しています。</p>
+  <ul class="link-grid">
+    {popular.map((m) => (
+      <li><a href={url(`/tedori/nenshu/${m}/`)}>年収{m}万円</a></li>
+    ))}
+  </ul>
+  <p>
+    <a class="btn btn-ghost" href={url('/tedori/nenshu/')}>年収別 早見表をすべて見る</a>
+    <a class="btn btn-ghost" href={url('/tedori/gekkyu/')} style="margin-left:.5rem">月給別 早見表</a>
+  </p>
+
+  <h2>手取り額の計算方法</h2>
+  <p>手取りは次の手順で求めます。</p>
+  <ol>
+    <li><strong>社会保険料</strong>を求める：月給を「標準報酬月額」の等級にあてはめ、健康保険（{pct(RATES.health)}）・厚生年金（{pct(RATES.pension, 1)}）はその半分を本人が負担。雇用保険は給与総額の{pct(RATES.employment, 1)}。40歳以上は介護保険（{pct(RATES.care)}）の半分が加わります。</li>
+    <li><strong>給与所得</strong>を求める：年収から給与所得控除（最低65万円、年収850万円超は195万円で頭打ち）を引きます。</li>
+    <li><strong>課税所得</strong>を求める：給与所得から社会保険料控除と基礎控除（令和8年分は所得に応じて58万〜95万円）を引き、千円未満を切り捨てます。</li>
+    <li><strong>所得税</strong>：課税所得に5〜45%の累進税率をかけ、復興特別所得税2.1%を上乗せします。</li>
+    <li><strong>住民税</strong>：課税所得（基礎控除は43万円）の10%＋均等割等6,000円。</li>
+    <li>年収から社会保険料と税金の合計を引いたものが<strong>手取り</strong>です。</li>
+  </ol>
+
+  <div class="note">
+    <strong>2026年（令和8年）の主な変更点</strong>：所得税の基礎控除が48万円から58万円に引き上げられ、さらに合計所得655万円以下には上乗せ（最大95万円）があります。給与所得控除の最低保障額も55万円から65万円になり、いわゆる「103万円の壁」は「160万円」まで広がりました。一方で協会けんぽの東京都の健康保険料率は9.91%→9.85%に下がり、介護保険料率は1.59%→1.62%に上がっています。
+  </div>
+
+  <Faq items={faq} />
+  <ToolCards exclude="tedori" />
+</BaseLayout>
+
+<script>
+  import { calcTedori } from '../../lib/tax';
+
+  const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+  const form = $<HTMLFormElement>('tedori-form');
+  const amount = $<HTMLInputElement>('amount');
+  const bonus = $<HTMLInputElement>('bonus');
+  const over40 = $<HTMLInputElement>('over40');
+  const help = $('amount-help');
+  const fmt = (n: number) => Math.round(n).toLocaleString('ja-JP');
+
+  function mode(): 'annual' | 'monthly' {
+    return (form.querySelector('input[name=mode]:checked') as HTMLInputElement).value as 'annual' | 'monthly';
+  }
+
+  function render() {
+    const v = Math.max(0, Number(amount.value) || 0) * 10000;
+    const b = Math.max(0, Number(bonus.value) || 0) * 10000;
+    const annual = mode() === 'annual' ? v : v * 12 + b;
+    const r = calcTedori({
+      annualIncome: annual,
+      over40: over40.checked,
+      bonusCount: b > 0 ? 2 : 0,
+      bonusTotal: b,
+    });
+    $('r-annual').textContent = fmt(r.netAnnual);
+    $('r-monthly').textContent = fmt(r.netMonthly);
+    $('r-ratio').textContent = (r.netRatio * 100).toFixed(1);
+    $('r-bonus').textContent = fmt(r.netBonusEach);
+    $('r-bonus-wrap').hidden = r.bonusCount === 0;
+    const set = (id: string, val: number) => {
+      $(id).textContent = fmt(val) + '円';
+      $(id + '-m').textContent = fmt(val / 12) + '円';
+    };
+    set('b-gross', r.annualIncome);
+    set('b-health', r.health);
+    set('b-care', r.care);
+    set('b-pension', r.pension);
+    set('b-emp', r.employment);
+    set('b-it', r.incomeTax);
+    set('b-rt', r.residentTax);
+    set('b-net', r.netAnnual);
+    $('row-care').hidden = !r.over40;
+    help.textContent = mode() === 'annual' ? '賞与を含む年間の総支給額' : '賞与を除く1か月の総支給額';
+  }
+
+  form.addEventListener('input', render);
+  form.addEventListener('submit', (e) => e.preventDefault());
+  // URL パラメータ ?nenshu=450 で初期値を受け取れるようにしておく（早見表からの遷移用）
+  const params = new URLSearchParams(location.search);
+  if (params.get('nenshu')) amount.value = params.get('nenshu')!;
+  render();
+</script>

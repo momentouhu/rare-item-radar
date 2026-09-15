@@ -1,0 +1,112 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import TedoriBreakdown from '../../../components/TedoriBreakdown.astro';
+import Faq from '../../../components/Faq.astro';
+import ToolCards from '../../../components/ToolCards.astro';
+import AdSlot from '../../../components/AdSlot.astro';
+import { url, TAX_YEAR_LABEL, BASE_YEAR } from '../../../lib/site';
+import { calcTedoriFromMonthly, calcTedori, standardMonthly } from '../../../lib/tax';
+import { GEKKYU_MAN, neighbors } from '../../../lib/ranges';
+import { yen } from '../../../lib/format';
+
+export function getStaticPaths() {
+  return GEKKYU_MAN.map((m) => ({ params: { amount: String(m) }, props: { m } }));
+}
+
+const { m } = Astro.props as { m: number };
+const monthly = m * 10000;
+const idx = GEKKYU_MAN.indexOf(m);
+const prev = idx > 0 ? GEKKYU_MAN[idx - 1] : null;
+const next = idx < GEKKYU_MAN.length - 1 ? GEKKYU_MAN[idx + 1] : null;
+
+const base = calcTedoriFromMonthly(monthly);
+const over40 = calcTedoriFromMonthly(monthly, true);
+// 賞与あり: 月給 × 4か月分を年2回
+const withBonus = calcTedori({ annualIncome: monthly * 16, bonusCount: 2, bonusTotal: monthly * 4 });
+const std = standardMonthly(monthly);
+const label = `${m}万円`;
+const title = `月給${label}の手取りは約${yen(base.netMonthly)}円｜引かれる社会保険料と税金の内訳【${BASE_YEAR}年】`;
+const description = `額面月給${label}の手取りは約${yen(base.netMonthly)}円です（手取り率${(base.netRatio * 100).toFixed(1)}%）。${TAX_YEAR_LABEL}の最新料率で健康保険・厚生年金・雇用保険・所得税・住民税の内訳、40歳以上の場合、賞与ありの年収と手取りを解説します。`;
+const nearby = neighbors(GEKKYU_MAN, idx, 5).map((v) => ({ v, r: calcTedoriFromMonthly(v * 10000) }));
+
+const faq = [
+  {
+    q: `月給${label}の手取りはいくらですか？`,
+    a: `額面月給${label}（賞与なし・独身）の手取りは約${yen(base.netMonthly)}円です。社会保険料が月約${yen(base.socialTotal / 12)}円、所得税と住民税が月約${yen(base.taxTotal / 12)}円引かれます。`,
+  },
+  {
+    q: `月給${label}の年収はいくらですか？`,
+    a: `賞与なしなら年収${yen(monthly * 12)}円、賞与が年2回・合計4か月分あれば年収${yen(monthly * 16)}円（手取り約${yen(withBonus.netAnnual)}円）です。`,
+  },
+  {
+    q: `月給${label}の標準報酬月額は？`,
+    a: `月給${label}の標準報酬月額は${yen(std)}円（健康保険）です。社会保険料はこの標準報酬月額に料率をかけて計算されます。`,
+  },
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  path={`/tedori/gekkyu/${m}/`}
+  section="tedori"
+  type="article"
+  crumbs={[
+    { name: '手取り計算', path: '/tedori/' },
+    { name: '月給別 手取り早見表', path: '/tedori/gekkyu/' },
+    { name: `月給${label}`, path: `/tedori/gekkyu/${m}/` },
+  ]}
+>
+  <h1>月給{label}の手取りは約{yen(base.netMonthly)}円【{TAX_YEAR_LABEL}】</h1>
+  <p class="lead">
+    額面月給{label}の会社員（独身・扶養なし・賞与なし）の手取りは<strong>月々約{yen(base.netMonthly)}円</strong>、年間では約{yen(base.netAnnual)}円です。
+  </p>
+
+  <div class="hero-result">
+    <div class="label">月給{label}の月々の手取り（概算）</div>
+    <div class="value">{yen(base.netMonthly)}<small>円</small></div>
+    <div class="sub">
+      <span>年間の手取り <b>{yen(base.netAnnual)}</b>円</span>
+      <span>手取り率 <b>{(base.netRatio * 100).toFixed(1)}</b>%</span>
+      <span>標準報酬月額 <b>{yen(std)}</b>円</span>
+    </div>
+  </div>
+
+  <h2>月給{label}から引かれる社会保険料・税金の内訳</h2>
+  <TedoriBreakdown r={base} />
+
+  <AdSlot />
+
+  <h2>40歳以上の場合（介護保険料あり）</h2>
+  <p>40〜64歳は介護保険料（月約{yen(over40.care / 12)}円）が加わり、月々の手取りは<strong>約{yen(over40.netMonthly)}円</strong>になります。</p>
+
+  <h2>賞与がある場合の年収と手取り</h2>
+  <p>月給{label}で賞与が年2回・合計4か月分の場合、年収は{yen(monthly * 16)}円（賞与1回{yen(monthly * 2)}円）。年間の手取りは約{yen(withBonus.netAnnual)}円、賞与1回の手取りは約{yen(withBonus.netBonusEach)}円です。</p>
+  <p><a href={url(`/tedori/nenshu/${Math.round((monthly * 16) / 100000) * 10}/`)}>年収{Math.round((monthly * 16) / 100000) * 10}万円の手取りの詳細 ›</a></p>
+
+  <h2>近い月給との比較</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>月給</th><th>月々の手取り</th><th>年間の手取り</th><th>手取り率</th></tr></thead>
+      <tbody>
+        {nearby.map(({ v, r }) => (
+          <tr class={v === m ? 'hl' : ''}>
+            <td>{v === m ? `${v}万円` : <a href={url(`/tedori/gekkyu/${v}/`)}>{v}万円</a>}</td>
+            <td>{yen(r.netMonthly)}円</td>
+            <td>{yen(r.netAnnual)}円</td>
+            <td>{(r.netRatio * 100).toFixed(1)}%</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <div class="prev-next">
+    {prev ? <a href={url(`/tedori/gekkyu/${prev}/`)}>‹ 月給{prev}万円</a> : <span />}
+    {next ? <a href={url(`/tedori/gekkyu/${next}/`)}>月給{next}万円 ›</a> : <span />}
+  </div>
+
+  <Faq items={faq} />
+
+  <p><a href={url('/tedori/gekkyu/')}>月給別 手取り早見表（10万〜100万円）›</a>　<a href={url('/tedori/')}>自分の条件で計算する ›</a></p>
+  <ToolCards exclude="tedori" />
+</BaseLayout>

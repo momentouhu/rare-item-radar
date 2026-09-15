@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ToolCards from '../../../components/ToolCards.astro';
+import Faq from '../../../components/Faq.astro';
+import { url, BASE_YEAR } from '../../../lib/site';
+import { eto, warekiLabel, ageRange } from '../../../lib/wareki';
+
+const title = `干支早見表【${BASE_YEAR}年版】生まれ年・西暦・和暦と十二支の一覧`;
+const description = `${BASE_YEAR}年（令和8年）の干支は${eto(BASE_YEAR).junishi}（${eto(BASE_YEAR).animal}）。1900年から${BASE_YEAR + 12}年までの干支（十二支・十干十二支）と、その年生まれの年齢を一覧にしました。`;
+const years: number[] = [];
+for (let y = 1900; y <= BASE_YEAR + 12; y++) years.push(y);
+const thisEto = eto(BASE_YEAR);
+const animals = ['子', '丑', '寅', '卯', '辰', '巳', '午', '未', '申', '酉', '戌', '亥'];
+const faq = [
+  { q: `${BASE_YEAR}年の干支は？`, a: `${BASE_YEAR}年（令和8年）の干支は${thisEto.junishi}（${thisEto.animal}）年です。十干十二支では${thisEto.kanshi}（${thisEto.kanshiYomi}）になります。` },
+  { q: '干支は何年で一周する？', a: '十二支は12年、十干は10年で一周します。両方を組み合わせた十干十二支（六十干支）は60年で一周し、生まれた年の干支に戻ることが「還暦」の由来です。' },
+  { q: '干支の順番は？', a: '子（ね）・丑（うし）・寅（とら）・卯（う）・辰（たつ）・巳（み）・午（うま）・未（ひつじ）・申（さる）・酉（とり）・戌（いぬ）・亥（い）の順です。' },
+];
+---
+
+<BaseLayout title={title} description={description} path="/age/eto/" section="age" crumbs={[{ name: '年齢早見表', path: '/age/' }, { name: '干支早見表', path: '/age/eto/' }]}>
+  <h1>干支早見表【{BASE_YEAR}年版】</h1>
+  <p class="lead">{BASE_YEAR}年（令和8年）の干支は<strong>{thisEto.junishi}（{thisEto.animal}）年</strong>、十干十二支では{thisEto.kanshi}（{thisEto.kanshiYomi}）です。生まれ年と干支、{BASE_YEAR}年時点の年齢を一覧にしました。</p>
+
+  <h2>十二支と生まれ年</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>干支</th><th>読み</th><th>生まれ年（西暦）</th></tr></thead>
+      <tbody>
+        {animals.map((a) => {
+          const ys = years.filter((y) => eto(y).junishi === a && y <= BASE_YEAR);
+          return (
+            <tr class={a === thisEto.junishi ? 'hl' : ''}>
+              <td>{a}</td><td>{eto(ys[0]).animal}</td>
+              <td style="white-space:normal;text-align:left">{ys.map((y, i) => <><a href={url(`/age/${y}/`)}>{y}</a>{i < ys.length - 1 ? '、' : ''}</>)}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>西暦・和暦・干支・年齢の一覧（1900年〜{BASE_YEAR + 12}年）</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>西暦</th><th>和暦</th><th>十二支</th><th>十干十二支</th><th>{BASE_YEAR}年の年齢</th></tr></thead>
+      <tbody>
+        {years.slice().reverse().map((y) => {
+          const e = eto(y);
+          const a = ageRange(y, BASE_YEAR);
+          return (
+            <tr class={y === BASE_YEAR ? 'hl' : ''}>
+              <td>{y >= 1920 && y <= BASE_YEAR ? <a href={url(`/age/${y}/`)}>{y}年</a> : `${y}年`}</td>
+              <td style="text-align:left">{warekiLabel(y)}</td>
+              <td>{e.junishi}（{e.animal}）</td>
+              <td>{e.kanshi}（{e.kanshiYomi}）</td>
+              <td>{y <= BASE_YEAR ? `${a.after}歳` : '—'}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+
+  <Faq items={faq} />
+  <ToolCards exclude="age" />
+</BaseLayout>
