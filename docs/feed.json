@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-16T07:24:39.353Z",
+  "updatedAt": "2026-09-16T12:47:19.037Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:369668",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2610/02]",
+        "url": "https://www.c-labo-online.jp/product/369668",
+        "rawUrl": "https://www.c-labo-online.jp/product/369668",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303931365f3061373536372e6a706700333230000074006669745f686569676874.jpg",
+        "price": 18500,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "mtg",
+      "watchLabel": "マジック：ザ・ギャザリング",
+      "detectedAt": "2026-09-16T12:45:42.310Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - プレイ・ブースター 日本語版(1 BO…\n¥18,500／カードラボ\nhttps://www.c-labo-online.jp/product/369668\n#MTG",
+        "textNoLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - プレイ・ブースター 日本語版(1 BO…\n¥18,500／カードラボ\n🔗 詳細はプロフィールのリンクから\n#MTG",
+        "lenWithLink": 219,
+        "lenNoLink": 229,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303931365f3061373536372e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
