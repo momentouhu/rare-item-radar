@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "tower:8134516:new",
+      "detectedAt": "2026-09-16T01:38:20.710Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "QUANTUM [Blu-spec CD2+BOOKLET+GOODS]＜初回生産限定盤＞",
+      "url": "https://tower.jp/item/8134516",
+      "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4888563W.JPG",
+      "price": 6930,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nQUANTUM [Blu-spec CD2+BOOKLET+GOODS]＜初回生産限定盤＞\n¥6,930／タワレコ\nhttps://tower.jp/item/8134516",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nQUANTUM [Blu-spec CD2+BOOKLET+GOODS]＜初回生産限定盤＞\n¥6,930／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294906:new",
       "detectedAt": "2026-09-15T23:31:38.042Z",
       "watchLabel": "遊戯王",

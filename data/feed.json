@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-09-15T23:32:04.473Z",
+  "updatedAt": "2026-09-16T01:38:20.710Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:7966171",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Nintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート",
+        "url": "https://tower.jp/item/7966171",
+        "rawUrl": "https://tower.jp/item/7966171",
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3912098W.JPG",
+        "price": 5830,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-16T01:38:20.683Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\nhttps://tower.jp/item/7966171",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 155,
+        "lenNoLink": 165,
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3912098W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8134516",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "QUANTUM [Blu-spec CD2+BOOKLET+GOODS]＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8134516",
+        "rawUrl": "https://tower.jp/item/8134516",
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4888563W.JPG",
+        "price": 6930,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-16T01:38:20.710Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nQUANTUM [Blu-spec CD2+BOOKLET+GOODS]＜初回生産限定盤＞\n¥6,930／タワレコ\nhttps://tower.jp/item/8134516",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nQUANTUM [Blu-spec CD2+BOOKLET+GOODS]＜初回生産限定盤＞\n¥6,930／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 131,
+        "lenNoLink": 141,
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4888563W.JPG"
+      }
+    },
     {
       "type": "new",
       "item": {
