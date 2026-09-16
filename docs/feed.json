@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-09-16T21:02:20.811Z",
+  "updatedAt": "2026-09-16T23:40:10.504Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:408049",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック) [2607/31]",
+        "url": "https://www.c-labo-online.jp/product/408049",
+        "rawUrl": "https://www.c-labo-online.jp/product/408049",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg",
+        "price": 6160,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "unionarena",
+      "watchLabel": "ユニオンアリーナ",
+      "detectedAt": "2026-09-16T23:39:13.038Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/408049",
+        "textNoLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 197,
+        "lenNoLink": 207,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:295028",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/295028",
+        "rawUrl": "https://www.c-labo-online.jp/product/295028",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-16T23:39:43.529Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/295028",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 160,
+        "lenNoLink": 170,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
