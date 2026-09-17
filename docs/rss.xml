@@ -3,7 +3,21 @@
   <title>レアもの速報</title>
   <link>https://momentouhu.github.io/rare-item-radar/</link>
   <description>トレカ再販・予約開始・在庫復活を自動で見張るレーダー</description>
-  <lastBuildDate>Thu, 17 Sep 2026 09:20:51 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 14:26:51 GMT</lastBuildDate>
+  <item>
+    <title>🔥【在庫復活】ジェットコースターにもほどがある</title>
+    <link>https://7net.omni7.jp/detail/1106011031.html</link>
+    <guid isPermaLink="false">sevennet:1106011031:restock</guid>
+    <pubDate>Thu, 17 Sep 2026 14:25:40 GMT</pubDate>
+    <description>¥681 / セブンネット</description>
+  </item>
+  <item>
+    <title>🆕【新着・予約開始】【イベント抽選権付】EVOLVE＜初回生産限定盤B＞</title>
+    <link>https://tower.jp/item/8069400</link>
+    <guid isPermaLink="false">tower:8069400:new</guid>
+    <pubDate>Thu, 17 Sep 2026 14:26:51 GMT</pubDate>
+    <description>¥4,620 / タワレコ</description>
+  </item>
   <item>
     <title>🆕【新着・予約開始】旅＜初回限定盤A＞</title>
     <link>https://tower.jp/item/8155352</link>
@@ -339,19 +353,5 @@
     <guid isPermaLink="false">clabo:294893:new</guid>
     <pubDate>Sat, 12 Sep 2026 18:39:41 GMT</pubDate>
     <description>¥2,780 / カードラボ</description>
-  </item>
-  <item>
-    <title>🆕【新着・予約開始】Nintendo Switch Joy-Con(L) ネオンブルー/(R) ネオンレッド</title>
-    <link>https://7net.omni7.jp/detail/2110633668.html</link>
-    <guid isPermaLink="false">sevennet:2110633668:new</guid>
-    <pubDate>Sat, 12 Sep 2026 18:39:45 GMT</pubDate>
-    <description>¥43,980 / セブンネット</description>
-  </item>
-  <item>
-    <title>🔥【在庫復活】bouquet [2CD+フォトブック]＜初回限定盤＞</title>
-    <link>https://tower.jp/item/8055457</link>
-    <guid isPermaLink="false">tower:8055457:restock</guid>
-    <pubDate>Sat, 12 Sep 2026 09:08:35 GMT</pubDate>
-    <description>¥6,600 / タワレコ</description>
   </item>
 </channel></rss>

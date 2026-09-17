@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "tower:8069400:new",
+      "detectedAt": "2026-09-17T14:26:51.178Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【イベント抽選権付】EVOLVE＜初回生産限定盤B＞",
+      "url": "https://tower.jp/item/8069400",
+      "image": "https://cdn.tower.jp/za/m/97/2050269084097.jpg",
+      "price": 4620,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント抽選権付】EVOLVE＜初回生産限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8069400",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント抽選権付】EVOLVE＜初回生産限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "sevennet:1106011031:restock",
+      "detectedAt": "2026-09-17T14:25:40.629Z",
+      "watchLabel": "珍商品・変わり種",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "ジェットコースターにもほどがある",
+      "url": "https://7net.omni7.jp/detail/1106011031.html",
+      "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-book-m-catalog/ja_JP/dw18042d77/131409/1106011031.jpg?sw=640",
+      "price": 681,
+      "sourceLabel": "セブンネット",
+      "textWithLink": "🔥【在庫復活】珍商品・変わり種\nジェットコースターにもほどがある\n¥681／セブンネット\nhttps://7net.omni7.jp/detail/1106011031.html\n#変わり種 #面白グッズ",
+      "textNoLink": "🔥【在庫復活】珍商品・変わり種\nジェットコースターにもほどがある\n¥681／セブンネット\n🔗 詳細はプロフィールのリンクから\n#変わり種 #面白グッズ",
+      "posted": {}
+    },
+    {
       "id": "tower:8155352:new",
       "detectedAt": "2026-09-17T09:20:51.941Z",
       "watchLabel": "限定盤・グッズ",
