@@ -1,6 +1,276 @@
 {
-  "updatedAt": "2026-09-16T23:40:10.504Z",
+  "updatedAt": "2026-09-17T03:58:16.132Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8134519",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "THE RCA & MIDI YEARS (1980-1990) #CityPopEssentials＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8134519",
+        "rawUrl": "https://tower.jp/item/8134519",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4888560W.JPG",
+        "price": 8800,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-17T03:58:16.106Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nTHE RCA & MIDI YEARS (1980-1990) #CityPopEssentials＜初回生産限定盤＞\n¥8,800／タワレコ\nhttps://tower.jp/item/8134519",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nTHE RCA & MIDI YEARS (1980-1990) #CityPopEssentials＜初回生産限定盤＞\n¥8,800／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 146,
+        "lenNoLink": 156,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4888560W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8057077",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "BREATH/Little Glee Monster Live 2025 \"Voice\" [2CD+2Blu-ray Disc+PhotoBook]＜完全生産限定盤＞",
+        "url": "https://tower.jp/item/8057077",
+        "rawUrl": "https://tower.jp/item/8057077",
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3943836W.JPG",
+        "price": 16500,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-17T03:58:16.131Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nBREATH/Little Glee Monster Live 2025 \"Voice\" [2CD+2Blu-ray Disc+PhotoBook]＜完全生産限定盤＞\n¥16,500／タワレコ\nhttps://tower.jp/item/8057077",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nBREATH/Little Glee Monster Live 2025 \"Voice\" [2CD+2Blu-ray Disc+PhotoBook]＜完全生産限定盤＞\n¥16,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 170,
+        "lenNoLink": 180,
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3943836W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8165248",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【オフライン特典会応募用シリアルコード対象】Cheetah＜初回限定盤 Digipak/オンライン限定＞",
+        "url": "https://tower.jp/item/8165248",
+        "rawUrl": "https://tower.jp/item/8165248",
+        "image": "",
+        "price": 3850,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-17T03:58:16.131Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【オフライン特典会応募用シリアルコード対象】Cheetah＜初回限定盤 Digipak/オンライン限定＞\n¥3,850／タワレコ\nhttps://tower.jp/item/8165248",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【オフライン特典会応募用シリアルコード対象】Cheetah＜初回限定盤 Digipak/オンライン限定＞\n¥3,850／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 165,
+        "lenNoLink": 175,
+        "image": ""
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8060379",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Debut＜初回限定盤＞",
+        "url": "https://tower.jp/item/8060379",
+        "rawUrl": "https://tower.jp/item/8060379",
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1367782W.JPG",
+        "price": 4400,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-17T03:58:16.131Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nDebut＜初回限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8060379",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nDebut＜初回限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 96,
+        "lenNoLink": 106,
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1367782W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8053301",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【GREEN CODE付き】POPS ＜初回限定盤＞ [CD+DVD]",
+        "url": "https://tower.jp/item/8053301",
+        "rawUrl": "https://tower.jp/item/8053301",
+        "image": "https://cdn.tower.jp/za/m/83/2050269078683.jpg",
+        "price": 4400,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-17T03:58:16.131Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【GREEN CODE付き】POPS ＜初回限定盤＞ [CD+DVD]\n¥4,400／タワレコ\nhttps://tower.jp/item/8053301",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【GREEN CODE付き】POPS ＜初回限定盤＞ [CD+DVD]\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 123,
+        "lenNoLink": 133,
+        "image": "https://cdn.tower.jp/za/m/83/2050269078683.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8159640",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《2形態/特典付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤＞",
+        "url": "https://tower.jp/item/8159640",
+        "rawUrl": "https://tower.jp/item/8159640",
+        "image": "",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-17T03:58:16.131Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/特典付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8159640",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/特典付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 140,
+        "lenNoLink": 150,
+        "image": ""
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8148583",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ECLIPSE＜初回限定盤B＞",
+        "url": "https://tower.jp/item/8148583",
+        "rawUrl": "https://tower.jp/item/8148583",
+        "image": "",
+        "price": 2750,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-17T03:58:16.131Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nECLIPSE＜初回限定盤B＞\n¥2,750／タワレコ\nhttps://tower.jp/item/8148583",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nECLIPSE＜初回限定盤B＞\n¥2,750／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 99,
+        "lenNoLink": 109,
+        "image": ""
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8148567",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Tier１＜初回限定盤＞",
+        "url": "https://tower.jp/item/8148567",
+        "rawUrl": "https://tower.jp/item/8148567",
+        "image": "https://cdn.tower.jp/za/m/04/4580888322204.jpg",
+        "price": 4400,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-17T03:58:16.131Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nTier１＜初回限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8148567",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nTier１＜初回限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 97,
+        "lenNoLink": 107,
+        "image": "https://cdn.tower.jp/za/m/04/4580888322204.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8155354",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "旅＜初回限定盤B＞",
+        "url": "https://tower.jp/item/8155354",
+        "rawUrl": "https://tower.jp/item/8155354",
+        "image": "https://cdn.tower.jp/za/m/65/4580831073665.jpg",
+        "price": 4400,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-17T03:58:16.131Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜初回限定盤B＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8155354",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜初回限定盤B＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 94,
+        "lenNoLink": 104,
+        "image": "https://cdn.tower.jp/za/m/65/4580831073665.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
