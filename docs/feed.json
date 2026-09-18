@@ -1,6 +1,98 @@
 {
-  "updatedAt": "2026-09-18T13:47:19.363Z",
+  "updatedAt": "2026-09-18T17:36:48.181Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8056501",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞",
+        "url": "https://tower.jp/item/8056501",
+        "rawUrl": "https://tower.jp/item/8056501",
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4882773W.JPG",
+        "price": 2530,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-18T17:36:48.180Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056501",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 126,
+        "lenNoLink": 136,
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4882773W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:10537956",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "ねんどろいど がんばリーリエ (フィギュア)",
+        "url": "https://www.1999.co.jp/10537956",
+        "rawUrl": "https://www.1999.co.jp/10537956",
+        "image": "https://www.1999.co.jp/itbig53/10537956.jpg",
+        "price": 4155,
+        "inStock": false,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2018年11月中旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-18T17:35:46.177Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど がんばリーリエ (フィギュア)\n¥4,155／ホビーサーチ\nhttps://www.1999.co.jp/10537956",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど がんばリーリエ (フィギュア)\n¥4,155／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 125,
+        "lenNoLink": 135,
+        "image": "https://www.1999.co.jp/itbig53/10537956.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11336988",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "★特価品 Netflix ONE PIECE ミニフィギュア (24個セット) (キャラクタートイ)",
+        "url": "https://www.1999.co.jp/11336988",
+        "rawUrl": "https://www.1999.co.jp/11336988",
+        "image": "https://www.1999.co.jp/itbig133/11336988.jpg",
+        "price": 19641,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2026年3月中旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-18T17:35:46.534Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\n★特価品 Netflix ONE PIECE ミニフィギュア (24個セット) (キャラクタートイ)\n¥19,641／ホビーサーチ\nhttps://www.1999.co.jp/11336988",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\n★特価品 Netflix ONE PIECE ミニフィギュア (24個セット) (キャラクタートイ)\n¥19,641／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 159,
+        "lenNoLink": 169,
+        "image": "https://www.1999.co.jp/itbig133/11336988.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {

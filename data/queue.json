@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "tower:8056501:restock",
+      "detectedAt": "2026-09-18T17:36:48.180Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞",
+      "url": "https://tower.jp/item/8056501",
+      "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4882773W.JPG",
+      "price": 2530,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056501",
+      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "hobbysearch:11336988:new",
+      "detectedAt": "2026-09-18T17:35:46.534Z",
+      "watchLabel": "フィギュア・ホビー",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "★特価品 Netflix ONE PIECE ミニフィギュア (24個セット) (キャラクタートイ)",
+      "url": "https://www.1999.co.jp/11336988",
+      "image": "https://www.1999.co.jp/itbig133/11336988.jpg",
+      "price": 19641,
+      "sourceLabel": "ホビーサーチ",
+      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\n★特価品 Netflix ONE PIECE ミニフィギュア (24個セット) (キャラクタートイ)\n¥19,641／ホビーサーチ\nhttps://www.1999.co.jp/11336988",
+      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\n★特価品 Netflix ONE PIECE ミニフィギュア (24個セット) (キャラクタートイ)\n¥19,641／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "hobbysearch:10537956:new",
+      "detectedAt": "2026-09-18T17:35:46.177Z",
+      "watchLabel": "フィギュア・ホビー",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ねんどろいど がんばリーリエ (フィギュア)",
+      "url": "https://www.1999.co.jp/10537956",
+      "image": "https://www.1999.co.jp/itbig53/10537956.jpg",
+      "price": 4155,
+      "sourceLabel": "ホビーサーチ",
+      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど がんばリーリエ (フィギュア)\n¥4,155／ホビーサーチ\nhttps://www.1999.co.jp/10537956",
+      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど がんばリーリエ (フィギュア)\n¥4,155／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "hobbysearch:11363218:new",
       "detectedAt": "2026-09-18T09:11:00.886Z",
       "watchLabel": "フィギュア・ホビー",
