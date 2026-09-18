@@ -1,6 +1,186 @@
 {
-  "updatedAt": "2026-09-18T00:00:25.643Z",
+  "updatedAt": "2026-09-18T04:30:34.052Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8142980",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ラヴ・ユー・ライヴ＜生産限定盤＞",
+        "url": "https://tower.jp/item/8142980",
+        "rawUrl": "https://tower.jp/item/8142980",
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3941076W.JPG",
+        "price": 4400,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-18T04:30:34.027Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nラヴ・ユー・ライヴ＜生産限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8142980",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nラヴ・ユー・ライヴ＜生産限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 109,
+        "lenNoLink": 119,
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3941076W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8117291",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "OPTIMIZE = OPTDEMISE [CD+Blu-ray Disc]＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8117291",
+        "rawUrl": "https://tower.jp/item/8117291",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_H1371484W.JPG",
+        "price": 7700,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-18T04:30:34.052Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nOPTIMIZE = OPTDEMISE [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\nhttps://tower.jp/item/8117291",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nOPTIMIZE = OPTDEMISE [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 133,
+        "lenNoLink": 143,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_H1371484W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8143001",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ノー・セキュリティ＜生産限定盤＞",
+        "url": "https://tower.jp/item/8143001",
+        "rawUrl": "https://tower.jp/item/8143001",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3941080W.JPG",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-18T04:30:34.052Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nノー・セキュリティ＜生産限定盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8143001",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nノー・セキュリティ＜生産限定盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 109,
+        "lenNoLink": 119,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3941080W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8143002",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ライヴ・リックス＜生産限定盤＞",
+        "url": "https://tower.jp/item/8143002",
+        "rawUrl": "https://tower.jp/item/8143002",
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G3941081W.JPG",
+        "price": 4400,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-18T04:30:34.052Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nライヴ・リックス＜生産限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8143002",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nライヴ・リックス＜生産限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 107,
+        "lenNoLink": 117,
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G3941081W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8142997",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ストリップト＜生産限定盤＞",
+        "url": "https://tower.jp/item/8142997",
+        "rawUrl": "https://tower.jp/item/8142997",
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_G3941079W.JPG",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-18T04:30:34.052Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nストリップト＜生産限定盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8142997",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nストリップト＜生産限定盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 103,
+        "lenNoLink": 113,
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_G3941079W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8171849",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤A+通常盤＞",
+        "url": "https://tower.jp/item/8171849",
+        "rawUrl": "https://tower.jp/item/8171849",
+        "image": "",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-18T04:30:34.052Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤A+通常盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8171849",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤A+通常盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 141,
+        "lenNoLink": 151,
+        "image": ""
+      }
+    },
     {
       "type": "new",
       "item": {
