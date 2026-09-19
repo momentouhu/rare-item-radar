@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-09-18T23:08:16.521Z",
+  "updatedAt": "2026-09-19T01:29:16.515Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:10478583",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "ねんどろいど サトシ＆ピカチュウ (フィギュア)",
+        "url": "https://www.1999.co.jp/10478583",
+        "rawUrl": "https://www.1999.co.jp/10478583",
+        "image": "https://www.1999.co.jp/itbig47/10478583.jpg",
+        "price": 4328,
+        "inStock": false,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2017年12月下旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-19T01:27:37.669Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど サトシ＆ピカチュウ (フィギュア)\n¥4,328／ホビーサーチ\nhttps://www.1999.co.jp/10478583",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど サトシ＆ピカチュウ (フィギュア)\n¥4,328／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 129,
+        "lenNoLink": 139,
+        "image": "https://www.1999.co.jp/itbig47/10478583.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {

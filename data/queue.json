@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "hobbysearch:10478583:new",
+      "detectedAt": "2026-09-19T01:27:37.669Z",
+      "watchLabel": "フィギュア・ホビー",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ねんどろいど サトシ＆ピカチュウ (フィギュア)",
+      "url": "https://www.1999.co.jp/10478583",
+      "image": "https://www.1999.co.jp/itbig47/10478583.jpg",
+      "price": 4328,
+      "sourceLabel": "ホビーサーチ",
+      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど サトシ＆ピカチュウ (フィギュア)\n¥4,328／ホビーサーチ\nhttps://www.1999.co.jp/10478583",
+      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど サトシ＆ピカチュウ (フィギュア)\n¥4,328／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294924:new",
       "detectedAt": "2026-09-18T23:07:47.775Z",
       "watchLabel": "遊戯王",
