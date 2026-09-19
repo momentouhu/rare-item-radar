@@ -1,6 +1,186 @@
 {
-  "updatedAt": "2026-09-19T01:29:16.515Z",
+  "updatedAt": "2026-09-19T06:27:03.924Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-09-19T06:26:16.965Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8056479",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞",
+        "url": "https://tower.jp/item/8056479",
+        "rawUrl": "https://tower.jp/item/8056479",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4882770W.JPG",
+        "price": 2530,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-19T06:27:03.924Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056479",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 124,
+        "lenNoLink": 134,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4882770W.JPG"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8056503",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「吉田仁人」盤＞",
+        "url": "https://tower.jp/item/8056503",
+        "rawUrl": "https://tower.jp/item/8056503",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4882774W.JPG",
+        "price": 2530,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-19T06:27:03.924Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「吉田仁人」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056503",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「吉田仁人」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 124,
+        "lenNoLink": 134,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4882774W.JPG"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8056500",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「曽野舜太」盤＞",
+        "url": "https://tower.jp/item/8056500",
+        "rawUrl": "https://tower.jp/item/8056500",
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_G4882772W.JPG",
+        "price": 2530,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-19T06:27:03.924Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「曽野舜太」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056500",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「曽野舜太」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 124,
+        "lenNoLink": 134,
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_G4882772W.JPG"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8056501",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞",
+        "url": "https://tower.jp/item/8056501",
+        "rawUrl": "https://tower.jp/item/8056501",
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4882773W.JPG",
+        "price": 2530,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-19T06:27:03.924Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056501",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 126,
+        "lenNoLink": 136,
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4882773W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8171850",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤B+通常盤＞",
+        "url": "https://tower.jp/item/8171850",
+        "rawUrl": "https://tower.jp/item/8171850",
+        "image": "",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-19T06:27:03.924Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤B+通常盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8171850",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤B+通常盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 141,
+        "lenNoLink": 151,
+        "image": ""
+      }
+    },
     {
       "type": "new",
       "item": {
