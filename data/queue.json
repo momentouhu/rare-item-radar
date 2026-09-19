@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:410830:new",
+      "detectedAt": "2026-09-19T11:23:30.836Z",
+      "watchLabel": "ユニオンアリーナ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック) [2607/31]",
+      "url": "https://www.c-labo-online.jp/product/410830",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg",
+      "price": 6160,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/410830",
+      "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8056479:restock",
       "detectedAt": "2026-09-19T06:27:03.924Z",
       "watchLabel": "限定盤・グッズ",
