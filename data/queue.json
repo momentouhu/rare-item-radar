@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:350756:restock",
+      "detectedAt": "2026-09-19T20:13:22.143Z",
+      "watchLabel": "ガンダムカードゲーム",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+      "url": "https://www.c-labo-online.jp/product/350756",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+      "price": 5808,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
+      "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:410830:new",
       "detectedAt": "2026-09-19T11:23:30.836Z",
       "watchLabel": "ユニオンアリーナ",
