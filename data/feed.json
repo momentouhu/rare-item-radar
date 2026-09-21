@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-09-21T00:56:18.766Z",
+  "updatedAt": "2026-09-21T06:00:38.164Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-09-21T05:59:50.740Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:6359654",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモン feat. 初音ミク Project VOLTAGE 18 Types/Songs Collection",
+        "url": "https://tower.jp/item/6359654",
+        "rawUrl": "https://tower.jp/item/6359654",
+        "image": "https://cdn.tower.jp/za/m/2W/P2_H2092072W.JPG",
+        "price": 7700,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-21T06:00:38.163Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nポケモン feat. 初音ミク Project VOLTAGE 18 Types/Songs Collection\n¥7,700／タワレコ\nhttps://tower.jp/item/6359654",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nポケモン feat. 初音ミク Project VOLTAGE 18 Types/Songs Collection\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 136,
+        "lenNoLink": 146,
+        "image": "https://cdn.tower.jp/za/m/2W/P2_H2092072W.JPG"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8056479",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞",
+        "url": "https://tower.jp/item/8056479",
+        "rawUrl": "https://tower.jp/item/8056479",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4882770W.JPG",
+        "price": 2530,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-21T06:00:38.163Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056479",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 124,
+        "lenNoLink": 134,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4882770W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {
