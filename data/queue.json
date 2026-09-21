@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "clabo:294901:new",
+      "detectedAt": "2026-09-21T22:31:22.810Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042",
+      "url": "https://www.c-labo-online.jp/product/294901",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2480,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/294901",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:294883:new",
+      "detectedAt": "2026-09-21T22:31:22.809Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002",
+      "url": "https://www.c-labo-online.jp/product/294883",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030322e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 3780,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\nhttps://www.c-labo-online.jp/product/294883",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:294908:new",
+      "detectedAt": "2026-09-21T22:31:22.809Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033",
+      "url": "https://www.c-labo-online.jp/product/294908",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 2780,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294908",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294884:new",
       "detectedAt": "2026-09-21T18:33:35.598Z",
       "watchLabel": "遊戯王",

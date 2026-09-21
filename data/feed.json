@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-09-21T18:34:02.264Z",
+  "updatedAt": "2026-09-21T22:31:49.350Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-09-21T22:31:02.673Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294883",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002",
+        "url": "https://www.c-labo-online.jp/product/294883",
+        "rawUrl": "https://www.c-labo-online.jp/product/294883",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030322e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 3780,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-21T22:31:22.809Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\nhttps://www.c-labo-online.jp/product/294883",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030322e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294908",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033",
+        "url": "https://www.c-labo-online.jp/product/294908",
+        "rawUrl": "https://www.c-labo-online.jp/product/294908",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-21T22:31:22.809Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294908",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 149,
+        "lenNoLink": 159,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294901",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042",
+        "url": "https://www.c-labo-online.jp/product/294901",
+        "rawUrl": "https://www.c-labo-online.jp/product/294901",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2480,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-21T22:31:22.810Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/294901",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 136,
+        "lenNoLink": 146,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
