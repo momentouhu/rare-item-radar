@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-09-21T22:31:49.350Z",
+  "updatedAt": "2026-09-22T01:07:32.478Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11298581",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "パフスリーブワンピース(ブラック)(ドール用) (フィギュア)",
+        "url": "https://www.1999.co.jp/11298581",
+        "rawUrl": "https://www.1999.co.jp/11298581",
+        "image": "https://www.1999.co.jp/itbig129/11298581.jpg",
+        "price": 3465,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2026年9月中旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-22T01:06:31.910Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nパフスリーブワンピース(ブラック)(ドール用) (フィギュア)\n¥3,465／ホビーサーチ\nhttps://www.1999.co.jp/11298581",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nパフスリーブワンピース(ブラック)(ドール用) (フィギュア)\n¥3,465／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 140,
+        "lenNoLink": 150,
+        "image": "https://www.1999.co.jp/itbig129/11298581.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
