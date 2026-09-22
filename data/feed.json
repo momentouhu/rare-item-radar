@@ -1,6 +1,186 @@
 {
-  "updatedAt": "2026-09-22T12:28:15.708Z",
+  "updatedAt": "2026-09-22T17:13:03.032Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8052193",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "POPS [CD+DVD]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8052193",
+        "rawUrl": "https://tower.jp/item/8052193",
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3944708W.JPG",
+        "price": 4400,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-22T17:13:03.001Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nPOPS [CD+DVD]＜初回限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8052193",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nPOPS [CD+DVD]＜初回限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 104,
+        "lenNoLink": 114,
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3944708W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8052192",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "POPS [CD+Blu-ray Disc]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8052192",
+        "rawUrl": "https://tower.jp/item/8052192",
+        "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3944707W.JPG",
+        "price": 4400,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-22T17:13:03.032Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nPOPS [CD+Blu-ray Disc]＜初回限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8052192",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nPOPS [CD+Blu-ray Disc]＜初回限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 113,
+        "lenNoLink": 123,
+        "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3944707W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8134545",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "きっと! [2CD+Blu-ray Disc]＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8134545",
+        "rawUrl": "https://tower.jp/item/8134545",
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G4886646W.JPG",
+        "price": 7700,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-22T17:13:03.032Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nきっと! [2CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\nhttps://tower.jp/item/8134545",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nきっと! [2CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 121,
+        "lenNoLink": 131,
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G4886646W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8138148",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "The Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤A＞",
+        "url": "https://tower.jp/item/8138148",
+        "rawUrl": "https://tower.jp/item/8138148",
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G4886668W.JPG",
+        "price": 4620,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-22T17:13:03.032Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤A＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138148",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤A＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 128,
+        "lenNoLink": 138,
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G4886668W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8138151",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "The Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤B＞",
+        "url": "https://tower.jp/item/8138151",
+        "rawUrl": "https://tower.jp/item/8138151",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4886670W.JPG",
+        "price": 4620,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-22T17:13:03.032Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138151",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 128,
+        "lenNoLink": 138,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4886670W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8134568",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Lonely...But not Alone/YesかNoか私か [CD+Blu-ray Disc]＜初回生産限定盤SP＞",
+        "url": "https://tower.jp/item/8134568",
+        "rawUrl": "https://tower.jp/item/8134568",
+        "image": "https://cdn.tower.jp/za/m/51/4942463526351.jpg",
+        "price": 3850,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-22T17:13:03.032Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nLonely...But not Alone/YesかNoか私か [CD+Blu-ray Disc]＜初回生産限定盤SP＞\n¥3,850／タワレコ\nhttps://tower.jp/item/8134568",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nLonely...But not Alone/YesかNoか私か [CD+Blu-ray Disc]＜初回生産限定盤SP＞\n¥3,850／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 151,
+        "lenNoLink": 161,
+        "image": "https://cdn.tower.jp/za/m/51/4942463526351.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
