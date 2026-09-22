@@ -1,6 +1,99 @@
 {
-  "updatedAt": "2026-09-22T01:07:32.478Z",
+  "updatedAt": "2026-09-22T06:39:52.709Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11442585",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "S.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)",
+        "url": "https://www.1999.co.jp/11442585",
+        "rawUrl": "https://www.1999.co.jp/11442585",
+        "image": "https://www.1999.co.jp/itbig144/11442585.jpg",
+        "price": 8910,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2027年1月 発売予定"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-22T06:38:50.949Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)\n¥8,910／ホビーサーチ\nhttps://www.1999.co.jp/11442585",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)\n¥8,910／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 148,
+        "lenNoLink": 158,
+        "image": "https://www.1999.co.jp/itbig144/11442585.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11347807",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "S.H.フィギュアーツ サンジ(A Netflix Series: ONE PIECE) (完成品)",
+        "url": "https://www.1999.co.jp/11347807",
+        "rawUrl": "https://www.1999.co.jp/11347807",
+        "image": "https://www.1999.co.jp/itbig134/11347807.jpg",
+        "price": 8118,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "10月 発売予定"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-22T06:38:51.041Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ サンジ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\nhttps://www.1999.co.jp/11347807",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ サンジ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 148,
+        "lenNoLink": 158,
+        "image": "https://www.1999.co.jp/itbig134/11347807.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11347806",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "S.H.フィギュアーツ ウソップ(A Netflix Series: ONE PIECE) (完成品)",
+        "url": "https://www.1999.co.jp/11347806",
+        "rawUrl": "https://www.1999.co.jp/11347806",
+        "image": "https://www.1999.co.jp/itbig134/11347806.jpg",
+        "price": 8118,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2026年9月中旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-22T06:38:51.041Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ ウソップ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\nhttps://www.1999.co.jp/11347806",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ ウソップ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 150,
+        "lenNoLink": 160,
+        "image": "https://www.1999.co.jp/itbig134/11347806.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
