@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-09-22T06:39:52.709Z",
+  "updatedAt": "2026-09-22T12:28:15.708Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11449688",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "モンコレボックス 夢見のノクターン (10個セット) (食玩)",
+        "url": "https://www.1999.co.jp/11449688",
+        "rawUrl": "https://www.1999.co.jp/11449688",
+        "image": "https://www.1999.co.jp/itbig144/11449688.jpg",
+        "price": 4752,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2026年9月下旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-22T12:27:15.464Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nモンコレボックス 夢見のノクターン (10個セット) (食玩)\n¥4,752／ホビーサーチ\nhttps://www.1999.co.jp/11449688",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nモンコレボックス 夢見のノクターン (10個セット) (食玩)\n¥4,752／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 138,
+        "lenNoLink": 148,
+        "image": "https://www.1999.co.jp/itbig144/11449688.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
