@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-22T17:13:03.032Z",
+  "updatedAt": "2026-09-22T20:26:35.022Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356709",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
+        "url": "https://www.c-labo-online.jp/product/356709",
+        "rawUrl": "https://www.c-labo-online.jp/product/356709",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-09-22T20:26:08.687Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356709",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
