@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:410830:restock",
+      "detectedAt": "2026-09-23T23:54:35.891Z",
+      "watchLabel": "ユニオンアリーナ",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック) [2607/31]",
+      "url": "https://www.c-labo-online.jp/product/410830",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg",
+      "price": 6160,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/410830",
+      "textNoLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294882:new",
       "detectedAt": "2026-09-23T21:16:04.191Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🔥【在庫復活】限定盤・グッズ\nYours Sincerely [CD+ブックレット+ハンカチ]＜初回生産限定盤＞\n¥6,050／タワレコ\nhttps://tower.jp/item/8035674",
       "textNoLink": "🔥【在庫復活】限定盤・グッズ\nYours Sincerely [CD+ブックレット+ハンカチ]＜初回生産限定盤＞\n¥6,050／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8157317:new",
-      "detectedAt": "2026-09-11T08:49:28.616Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "ラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]",
-      "url": "https://tower.jp/item/8157317",
-      "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4889134W.JPG",
-      "price": 5280,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]\n¥5,280／タワレコ\nhttps://tower.jp/item/8157317",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]\n¥5,280／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
