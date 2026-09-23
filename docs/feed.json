@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-09-23T01:43:01.148Z",
+  "updatedAt": "2026-09-23T07:31:24.425Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:408052",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック BLEACH 千年血戦篇 Vol.3 【EX15BT】(1 BOX =16パック) [2609/11]",
+        "url": "https://www.c-labo-online.jp/product/408052",
+        "rawUrl": "https://www.c-labo-online.jp/product/408052",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303930365f3430393330362e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "unionarena",
+      "watchLabel": "ユニオンアリーナ",
+      "detectedAt": "2026-09-23T07:30:28.182Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック BLEACH 千年血戦篇 Vol.3 【EX15BT】(1 BOX =16パック) [2609/11…\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/408052",
+        "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック BLEACH 千年血戦篇 Vol.3 【EX15BT】(1 BOX =16パック) [2609/11…\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 204,
+        "lenNoLink": 214,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303930365f3430393330362e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8067654",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Happy-Go-Lucky [UHQCD+DVD]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8067654",
+        "rawUrl": "https://tower.jp/item/8067654",
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G4886738W.JPG",
+        "price": 4730,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-23T07:31:24.391Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nHappy-Go-Lucky [UHQCD+DVD]＜初回限定盤＞\n¥4,730／タワレコ\nhttps://tower.jp/item/8067654",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nHappy-Go-Lucky [UHQCD+DVD]＜初回限定盤＞\n¥4,730／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 117,
+        "lenNoLink": 127,
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G4886738W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8051513",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ヨルシカ LIVE「盗作」 [3Blu-ray Disc+絵本2冊]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8051513",
+        "rawUrl": "https://tower.jp/item/8051513",
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G3933515W.JPG",
+        "price": 12650,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-23T07:31:24.425Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nヨルシカ LIVE「盗作」 [3Blu-ray Disc+絵本2冊]＜初回限定盤＞\n¥12,650／タワレコ\nhttps://tower.jp/item/8051513",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nヨルシカ LIVE「盗作」 [3Blu-ray Disc+絵本2冊]＜初回限定盤＞\n¥12,650／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 137,
+        "lenNoLink": 147,
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G3933515W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8140841",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "HIGH BEAM [CD+フォトブック+グッズ]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8140841",
+        "rawUrl": "https://tower.jp/item/8140841",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3941500W.JPG",
+        "price": 3850,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-23T07:31:24.425Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nHIGH BEAM [CD+フォトブック+グッズ]＜初回限定盤＞\n¥3,850／タワレコ\nhttps://tower.jp/item/8140841",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nHIGH BEAM [CD+フォトブック+グッズ]＜初回限定盤＞\n¥3,850／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 125,
+        "lenNoLink": 135,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3941500W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {
