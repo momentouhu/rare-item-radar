@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "clabo:294882:new",
+      "detectedAt": "2026-09-23T21:16:04.191Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/294882",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294882",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:294889:new",
+      "detectedAt": "2026-09-23T21:16:04.191Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033",
+      "url": "https://www.c-labo-online.jp/product/294889",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 2780,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294889",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8051513:new",
       "detectedAt": "2026-09-23T07:31:24.425Z",
       "watchLabel": "限定盤・グッズ",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]\n¥5,280／タワレコ\nhttps://tower.jp/item/8157317",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nラブリーズン ＜初回限定盤/リリース記念 特典会応募用シリアルナンバー付き＞ [CD+Blu-ray Disc+グッズ]\n¥5,280／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8055457:restock",
-      "detectedAt": "2026-09-11T08:49:28.583Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "bouquet [2CD+フォトブック]＜初回限定盤＞",
-      "url": "https://tower.jp/item/8055457",
-      "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3939217W.JPG",
-      "price": 6600,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nbouquet [2CD+フォトブック]＜初回限定盤＞\n¥6,600／タワレコ\nhttps://tower.jp/item/8055457",
-      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nbouquet [2CD+フォトブック]＜初回限定盤＞\n¥6,600／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8060218:new",
-      "detectedAt": "2026-09-10T23:56:11.420Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "ポケモン空想科学読本 4巻セット (4巻セット)",
-      "url": "https://tower.jp/item/8060218",
-      "image": "https://cdn.tower.jp/80/m/18/8060218.jpg",
-      "price": 2904,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン空想科学読本 4巻セット (4巻セット)\n¥2,904／タワレコ\nhttps://tower.jp/item/8060218",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン空想科学読本 4巻セット (4巻セット)\n¥2,904／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
