@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "tower:8155356:new",
+      "detectedAt": "2026-09-24T18:37:46.550Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "旅＜通常盤＞",
+      "url": "https://tower.jp/item/8155356",
+      "image": "https://cdn.tower.jp/za/m/06/4580831099306.jpg",
+      "price": 2750,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜通常盤＞\n¥2,750／タワレコ\nhttps://tower.jp/item/8155356",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜通常盤＞\n¥2,750／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "hobbysearch:11471587:new",
       "detectedAt": "2026-09-24T09:06:13.032Z",
       "watchLabel": "フィギュア・ホビー",
@@ -1482,21 +1497,6 @@
       "price": 5808,
       "sourceLabel": "カードラボ",
       "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/408050",
-      "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:383773:restock",
-      "detectedAt": "2026-09-11T22:23:02.057Z",
-      "watchLabel": "ガンダムカードゲーム",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]",
-      "url": "https://www.c-labo-online.jp/product/383773",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-      "price": 5808,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/383773",
       "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }

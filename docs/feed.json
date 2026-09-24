@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-24T14:21:36.905Z",
+  "updatedAt": "2026-09-24T18:37:46.591Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8155356",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "旅＜通常盤＞",
+        "url": "https://tower.jp/item/8155356",
+        "rawUrl": "https://tower.jp/item/8155356",
+        "image": "https://cdn.tower.jp/za/m/06/4580831099306.jpg",
+        "price": 2750,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-24T18:37:46.550Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜通常盤＞\n¥2,750／タワレコ\nhttps://tower.jp/item/8155356",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜通常盤＞\n¥2,750／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 89,
+        "lenNoLink": 99,
+        "image": "https://cdn.tower.jp/za/m/06/4580831099306.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
