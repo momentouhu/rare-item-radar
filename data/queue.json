@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:294881:new",
+      "detectedAt": "2026-09-24T22:06:14.633Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+      "url": "https://www.c-labo-online.jp/product/294881",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2780,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294881",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8155356:new",
       "detectedAt": "2026-09-24T18:37:46.550Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294893",
       "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:408050:restock",
-      "detectedAt": "2026-09-12T18:39:21.417Z",
-      "watchLabel": "ガンダムカードゲーム",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]",
-      "url": "https://www.c-labo-online.jp/product/408050",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-      "price": 5808,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/408050",
-      "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
