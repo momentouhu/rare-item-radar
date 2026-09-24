@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-09-24T03:42:33.030Z",
+  "updatedAt": "2026-09-24T09:07:14.081Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11471588",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "ポケモンスケールワールド ミアレシティ セット (食玩)",
+        "url": "https://www.1999.co.jp/11471588",
+        "rawUrl": "https://www.1999.co.jp/11471588",
+        "image": "https://www.1999.co.jp/itbig147/11471588.jpg",
+        "price": 3590,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "1月 発売予定"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-24T09:06:12.653Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンスケールワールド ミアレシティ セット (食玩)\n¥3,590／ホビーサーチ\nhttps://www.1999.co.jp/11471588",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンスケールワールド ミアレシティ セット (食玩)\n¥3,590／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 136,
+        "lenNoLink": 146,
+        "image": "https://www.1999.co.jp/itbig147/11471588.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11471587",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "ポケモンスケールワールド ミアレシティ (10個セット) (食玩)",
+        "url": "https://www.1999.co.jp/11471587",
+        "rawUrl": "https://www.1999.co.jp/11471587",
+        "image": "https://www.1999.co.jp/itbig147/11471587.jpg",
+        "price": 5984,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "1月 発売予定"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-24T09:06:13.032Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンスケールワールド ミアレシティ (10個セット) (食玩)\n¥5,984／ホビーサーチ\nhttps://www.1999.co.jp/11471587",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンスケールワールド ミアレシティ (10個セット) (食玩)\n¥5,984／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.1999.co.jp/itbig147/11471587.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
