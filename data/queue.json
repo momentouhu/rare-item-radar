@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:294906:restock",
+      "detectedAt": "2026-09-25T19:55:33.721Z",
+      "watchLabel": "遊戯王",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/294906",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 3180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🔥【在庫復活】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294906",
+      "textNoLink": "🔥【在庫復活】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8127591:restock",
       "detectedAt": "2026-09-25T05:58:54.751Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】ワンピースカード\nカードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/408352\n#ワンピカード #ONEPIECEカードゲーム",
       "textNoLink": "🆕【新着・予約開始】ワンピースカード\nカードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから\n#ワンピカード #ONEPIECEカードゲーム",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294947:new",
-      "detectedAt": "2026-09-13T01:21:50.286Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033",
-      "url": "https://www.c-labo-online.jp/product/294947",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-      "price": 2780,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294947",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
