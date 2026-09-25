@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-09-25T00:44:11.188Z",
+  "updatedAt": "2026-09-25T05:58:54.751Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8127593",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "BUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞",
+        "url": "https://tower.jp/item/8127593",
+        "rawUrl": "https://tower.jp/item/8127593",
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1378373W.JPG",
+        "price": 2200,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-25T05:58:54.448Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞\n¥2,200／タワレコ\nhttps://tower.jp/item/8127593",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞\n¥2,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 123,
+        "lenNoLink": 133,
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1378373W.JPG"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8127590",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "REBON/BUGS LIFE/DIGITAL GIRL [CD+DVD]＜初回限定盤A＞",
+        "url": "https://tower.jp/item/8127590",
+        "rawUrl": "https://tower.jp/item/8127590",
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_H1378368W.JPG",
+        "price": 2200,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-25T05:58:54.750Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nREBON/BUGS LIFE/DIGITAL GIRL [CD+DVD]＜初回限定盤A＞\n¥2,200／タワレコ\nhttps://tower.jp/item/8127590",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nREBON/BUGS LIFE/DIGITAL GIRL [CD+DVD]＜初回限定盤A＞\n¥2,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 123,
+        "lenNoLink": 133,
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_H1378368W.JPG"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8127591",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "BUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞",
+        "url": "https://tower.jp/item/8127591",
+        "rawUrl": "https://tower.jp/item/8127591",
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1378363W.JPG",
+        "price": 2420,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-25T05:58:54.751Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,420／タワレコ\nhttps://tower.jp/item/8127591",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,420／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 132,
+        "lenNoLink": 142,
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1378363W.JPG"
+      }
+    },
     {
       "type": "new",
       "item": {

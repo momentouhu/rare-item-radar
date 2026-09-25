@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "tower:8127591:restock",
+      "detectedAt": "2026-09-25T05:58:54.751Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "BUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞",
+      "url": "https://tower.jp/item/8127591",
+      "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1378363W.JPG",
+      "price": 2420,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,420／タワレコ\nhttps://tower.jp/item/8127591",
+      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,420／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "tower:8127590:restock",
+      "detectedAt": "2026-09-25T05:58:54.750Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "REBON/BUGS LIFE/DIGITAL GIRL [CD+DVD]＜初回限定盤A＞",
+      "url": "https://tower.jp/item/8127590",
+      "image": "https://cdn.tower.jp/za/m/8W/zaP5_H1378368W.JPG",
+      "price": 2200,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nREBON/BUGS LIFE/DIGITAL GIRL [CD+DVD]＜初回限定盤A＞\n¥2,200／タワレコ\nhttps://tower.jp/item/8127590",
+      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nREBON/BUGS LIFE/DIGITAL GIRL [CD+DVD]＜初回限定盤A＞\n¥2,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "tower:8127593:restock",
+      "detectedAt": "2026-09-25T05:58:54.448Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "BUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞",
+      "url": "https://tower.jp/item/8127593",
+      "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1378373W.JPG",
+      "price": 2200,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞\n¥2,200／タワレコ\nhttps://tower.jp/item/8127593",
+      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞\n¥2,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8176028:new",
       "detectedAt": "2026-09-25T00:44:11.188Z",
       "watchLabel": "限定盤・グッズ",
@@ -1453,51 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294947",
       "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294885:new",
-      "detectedAt": "2026-09-13T01:21:50.285Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043",
-      "url": "https://www.c-labo-online.jp/product/294885",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-      "price": 2180,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294885",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294909:new",
-      "detectedAt": "2026-09-13T01:21:50.254Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042",
-      "url": "https://www.c-labo-online.jp/product/294909",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2480,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/294909",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294905:new",
-      "detectedAt": "2026-09-12T23:12:37.791Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024",
-      "url": "https://www.c-labo-online.jp/product/294905",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-      "price": 2580,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294905",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
