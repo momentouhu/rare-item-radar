@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-09-25T23:12:05.451Z",
+  "updatedAt": "2026-09-26T01:52:58.679Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8138152",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "The Way of L.O.V-E [CD+DVD]＜初回限定盤B＞",
+        "url": "https://tower.jp/item/8138152",
+        "rawUrl": "https://tower.jp/item/8138152",
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G4886671W.JPG",
+        "price": 4620,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-26T01:52:58.186Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138152",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 119,
+        "lenNoLink": 129,
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G4886671W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8138149",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "The Way of L.O.V-E [CD+DVD]＜初回限定盤A＞",
+        "url": "https://tower.jp/item/8138149",
+        "rawUrl": "https://tower.jp/item/8138149",
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_G4886669W.JPG",
+        "price": 4620,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-26T01:52:58.679Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤A＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138149",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤A＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 119,
+        "lenNoLink": 129,
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_G4886669W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {

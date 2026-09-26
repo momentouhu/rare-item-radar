@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "tower:8138149:new",
+      "detectedAt": "2026-09-26T01:52:58.679Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "The Way of L.O.V-E [CD+DVD]＜初回限定盤A＞",
+      "url": "https://tower.jp/item/8138149",
+      "image": "https://cdn.tower.jp/za/m/9W/zaP5_G4886669W.JPG",
+      "price": 4620,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤A＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138149",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤A＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "tower:8138152:new",
+      "detectedAt": "2026-09-26T01:52:58.186Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "The Way of L.O.V-E [CD+DVD]＜初回限定盤B＞",
+      "url": "https://tower.jp/item/8138152",
+      "image": "https://cdn.tower.jp/za/m/1W/zaP5_G4886671W.JPG",
+      "price": 4620,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138152",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294906:restock",
       "detectedAt": "2026-09-25T19:55:33.721Z",
       "watchLabel": "遊戯王",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356637",
       "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:407334:restock",
-      "detectedAt": "2026-09-13T12:37:13.467Z",
-      "watchLabel": "ガンダムカードゲーム",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "カードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]",
-      "url": "https://www.c-labo-online.jp/product/407334",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a706700333230000074006669745f686569676874.jpg",
-      "price": 0,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\nカードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/407334",
-      "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\nカードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:408352:new",
-      "detectedAt": "2026-09-13T12:36:06.218Z",
-      "watchLabel": "ワンピースカード",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "カードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]",
-      "url": "https://www.c-labo-online.jp/product/408352",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-      "price": 0,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】ワンピースカード\nカードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/408352\n#ワンピカード #ONEPIECEカードゲーム",
-      "textNoLink": "🆕【新着・予約開始】ワンピースカード\nカードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから\n#ワンピカード #ONEPIECEカードゲーム",
       "posted": {}
     }
   ]
