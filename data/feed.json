@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-27T23:20:00.808Z",
+  "updatedAt": "2026-09-28T01:56:30.621Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8168538",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Live In London 1979＜初回限定盤＞",
+        "url": "https://tower.jp/item/8168538",
+        "rawUrl": "https://tower.jp/item/8168538",
+        "image": "https://cdn.tower.jp/za/m/14/4997184225014.jpg",
+        "price": 2790,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-28T01:56:30.172Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nLive In London 1979＜初回限定盤＞\n¥2,790／タワレコ\nhttps://tower.jp/item/8168538",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nLive In London 1979＜初回限定盤＞\n¥2,790／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 110,
+        "lenNoLink": 120,
+        "image": "https://cdn.tower.jp/za/m/14/4997184225014.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
