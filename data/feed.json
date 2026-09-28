@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-09-28T16:58:03.950Z",
+  "updatedAt": "2026-09-28T22:29:22.435Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:10079253",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "ドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)",
+        "url": "https://www.1999.co.jp/10079253",
+        "rawUrl": "https://www.1999.co.jp/10079253",
+        "image": "https://www.1999.co.jp/itbig07/10079253.jpg",
+        "price": 6358,
+        "inStock": false,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2009年3月下旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-28T22:28:19.848Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)\n¥6,358／ホビーサーチ\nhttps://www.1999.co.jp/10079253",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)\n¥6,358／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 159,
+        "lenNoLink": 169,
+        "image": "https://www.1999.co.jp/itbig07/10079253.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {

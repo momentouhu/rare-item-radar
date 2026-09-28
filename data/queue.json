@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "hobbysearch:10079253:new",
+      "detectedAt": "2026-09-28T22:28:19.848Z",
+      "watchLabel": "フィギュア・ホビー",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)",
+      "url": "https://www.1999.co.jp/10079253",
+      "image": "https://www.1999.co.jp/itbig07/10079253.jpg",
+      "price": 6358,
+      "sourceLabel": "ホビーサーチ",
+      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)\n¥6,358／ホビーサーチ\nhttps://www.1999.co.jp/10079253",
+      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)\n¥6,358／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:356610:new",
       "detectedAt": "2026-09-28T08:24:12.760Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\nhttps://tower.jp/item/7966171",
       "textNoLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:356615:new",
-      "detectedAt": "2026-09-14T23:23:26.939Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-      "url": "https://www.c-labo-online.jp/product/356615",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2180,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/356615",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
