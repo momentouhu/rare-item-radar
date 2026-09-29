@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "tower:8056609:new",
+      "detectedAt": "2026-09-29T15:29:11.811Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "《3種同時購入特典トレカ付セット》KO1KEYZ ＜初回限定盤A＞+＜初回限定盤B＞+＜通常盤＞",
+      "url": "https://tower.jp/item/8056609",
+      "image": "https://cdn.tower.jp/za/m/27/2050269079727.jpg",
+      "price": 5200,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《3種同時購入特典トレカ付セット》KO1KEYZ ＜初回限定盤A＞+＜初回限定盤B＞+＜通常盤＞\n¥5,200／タワレコ\nhttps://tower.jp/item/8056609",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《3種同時購入特典トレカ付セット》KO1KEYZ ＜初回限定盤A＞+＜初回限定盤B＞+＜通常盤＞\n¥5,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "hobbysearch:10079252:new",
+      "detectedAt": "2026-09-29T15:28:11.915Z",
+      "watchLabel": "フィギュア・ホビー",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空Ver.. (フィギュア)",
+      "url": "https://www.1999.co.jp/10079252",
+      "image": "https://www.1999.co.jp/itbig07/10079252.jpg",
+      "price": 6358,
+      "sourceLabel": "ホビーサーチ",
+      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空Ver.. (フィギュア)\n¥6,358／ホビーサーチ\nhttps://www.1999.co.jp/10079252",
+      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空Ver.. (フィギュア)\n¥6,358／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "hobbysearch:11357570:new",
       "detectedAt": "2026-09-29T02:14:42.614Z",
       "watchLabel": "フィギュア・ホビー",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nREBON/BUGS LIFE/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤A＞\n¥2,420／タワレコ\nhttps://tower.jp/item/8127589",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nREBON/BUGS LIFE/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤A＞\n¥2,420／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8127591:new",
-      "detectedAt": "2026-09-15T17:33:43.080Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "BUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞",
-      "url": "https://tower.jp/item/8127591",
-      "image": "https://cdn.tower.jp/za/m/79/4943674458479.jpg",
-      "price": 2420,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,420／タワレコ\nhttps://tower.jp/item/8127591",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,420／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8127593:new",
-      "detectedAt": "2026-09-15T17:33:43.055Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "BUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞",
-      "url": "https://tower.jp/item/8127593",
-      "image": "https://cdn.tower.jp/za/m/93/4943674458493.jpg",
-      "price": 2200,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞\n¥2,200／タワレコ\nhttps://tower.jp/item/8127593",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞\n¥2,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]

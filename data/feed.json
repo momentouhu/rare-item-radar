@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-09-29T08:56:54.306Z",
+  "updatedAt": "2026-09-29T15:29:11.811Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:10079252",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "ドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空Ver.. (フィギュア)",
+        "url": "https://www.1999.co.jp/10079252",
+        "rawUrl": "https://www.1999.co.jp/10079252",
+        "image": "https://www.1999.co.jp/itbig07/10079252.jpg",
+        "price": 6358,
+        "inStock": false,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2009年3月下旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-29T15:28:11.915Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空Ver.. (フィギュア)\n¥6,358／ホビーサーチ\nhttps://www.1999.co.jp/10079252",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空Ver.. (フィギュア)\n¥6,358／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 157,
+        "lenNoLink": 167,
+        "image": "https://www.1999.co.jp/itbig07/10079252.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8056609",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《3種同時購入特典トレカ付セット》KO1KEYZ ＜初回限定盤A＞+＜初回限定盤B＞+＜通常盤＞",
+        "url": "https://tower.jp/item/8056609",
+        "rawUrl": "https://tower.jp/item/8056609",
+        "image": "https://cdn.tower.jp/za/m/27/2050269079727.jpg",
+        "price": 5200,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-09-29T15:29:11.811Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《3種同時購入特典トレカ付セット》KO1KEYZ ＜初回限定盤A＞+＜初回限定盤B＞+＜通常盤＞\n¥5,200／タワレコ\nhttps://tower.jp/item/8056609",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《3種同時購入特典トレカ付セット》KO1KEYZ ＜初回限定盤A＞+＜初回限定盤B＞+＜通常盤＞\n¥5,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 160,
+        "lenNoLink": 170,
+        "image": "https://cdn.tower.jp/za/m/27/2050269079727.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {

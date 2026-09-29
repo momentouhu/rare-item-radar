@@ -1,38 +1,38 @@
 {
   "sevennet": {
     "consecutiveEmpty": 0,
-    "lastOkAt": "2026-09-29T08:56:54.306Z",
+    "lastOkAt": "2026-09-29T15:29:11.812Z",
     "lastError": null,
-    "lastRunAt": "2026-09-29T08:56:54.306Z"
+    "lastRunAt": "2026-09-29T15:29:11.812Z"
   },
   "surugaya": {
     "consecutiveEmpty": 0,
     "lastOkAt": null,
     "lastError": "HTTP 403",
-    "lastRunAt": "2026-09-29T08:56:54.307Z"
+    "lastRunAt": "2026-09-29T15:29:11.812Z"
   },
   "hobbysearch": {
     "consecutiveEmpty": 0,
-    "lastOkAt": "2026-09-29T08:56:54.308Z",
+    "lastOkAt": "2026-09-29T15:29:11.813Z",
     "lastError": null,
-    "lastRunAt": "2026-09-29T08:56:54.308Z"
+    "lastRunAt": "2026-09-29T15:29:11.813Z"
   },
   "tower": {
     "consecutiveEmpty": 0,
-    "lastOkAt": "2026-09-29T08:56:54.309Z",
+    "lastOkAt": "2026-09-29T15:29:11.814Z",
     "lastError": null,
-    "lastRunAt": "2026-09-29T08:56:54.309Z"
+    "lastRunAt": "2026-09-29T15:29:11.814Z"
   },
   "clabo": {
     "consecutiveEmpty": 0,
-    "lastOkAt": "2026-09-29T08:56:54.307Z",
+    "lastOkAt": "2026-09-29T15:29:11.813Z",
     "lastError": null,
-    "lastRunAt": "2026-09-29T08:56:54.307Z"
+    "lastRunAt": "2026-09-29T15:29:11.813Z"
   },
   "hareruya2": {
-    "consecutiveEmpty": 88,
+    "consecutiveEmpty": 89,
     "lastOkAt": "2026-09-14T04:04:02.630Z",
     "lastError": null,
-    "lastRunAt": "2026-09-29T08:56:54.308Z"
+    "lastRunAt": "2026-09-29T15:29:11.813Z"
   }
 }
