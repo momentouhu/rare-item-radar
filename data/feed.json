@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-09-28T22:29:22.435Z",
+  "updatedAt": "2026-09-29T02:15:42.435Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11357570",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "ポケモンキッズ 30周年スペシャル vol.3編 (21個セット) (食玩)",
+        "url": "https://www.1999.co.jp/11357570",
+        "rawUrl": "https://www.1999.co.jp/11357570",
+        "image": "https://www.1999.co.jp/itbig135/11357570.jpg",
+        "price": 4620,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2026年8月下旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-09-29T02:14:42.614Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンキッズ 30周年スペシャル vol.3編 (21個セット) (食玩)\n¥4,620／ホビーサーチ\nhttps://www.1999.co.jp/11357570",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンキッズ 30周年スペシャル vol.3編 (21個セット) (食玩)\n¥4,620／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://www.1999.co.jp/itbig135/11357570.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {

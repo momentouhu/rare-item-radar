@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "hobbysearch:11357570:new",
+      "detectedAt": "2026-09-29T02:14:42.614Z",
+      "watchLabel": "フィギュア・ホビー",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ポケモンキッズ 30周年スペシャル vol.3編 (21個セット) (食玩)",
+      "url": "https://www.1999.co.jp/11357570",
+      "image": "https://www.1999.co.jp/itbig135/11357570.jpg",
+      "price": 4620,
+      "sourceLabel": "ホビーサーチ",
+      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンキッズ 30周年スペシャル vol.3編 (21個セット) (食玩)\n¥4,620／ホビーサーチ\nhttps://www.1999.co.jp/11357570",
+      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンキッズ 30周年スペシャル vol.3編 (21個セット) (食玩)\n¥4,620／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "hobbysearch:10079253:new",
       "detectedAt": "2026-09-28T22:28:19.848Z",
       "watchLabel": "フィギュア・ホビー",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞\n¥2,200／タワレコ\nhttps://tower.jp/item/8127593",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞\n¥2,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:7966171:restock",
-      "detectedAt": "2026-09-15T07:23:53.245Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "Nintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート",
-      "url": "https://tower.jp/item/7966171",
-      "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3912098W.JPG",
-      "price": 5830,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\nhttps://tower.jp/item/7966171",
-      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
