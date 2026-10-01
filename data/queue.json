@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sevennet:2190051597:new",
+      "detectedAt": "2026-10-01T19:45:25.865Z",
+      "watchLabel": "ゲーム機・限定版",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "Nintendo Switch 2（日本語・国内専用） モンスターハンターワイルズ セット",
+      "url": "https://7net.omni7.jp/detail/2190051597.html",
+      "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw8d360941/033022/4902370555103.jpg?sw=640",
+      "price": 61980,
+      "sourceLabel": "セブンネット",
+      "textWithLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch 2（日本語・国内専用） モンスターハンターワイルズ セット\n¥61,980／セブンネット\nhttps://7net.omni7.jp/detail/2190051597.html",
+      "textNoLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch 2（日本語・国内専用） モンスターハンターワイルズ セット\n¥61,980／セブンネット\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:294960:new",
+      "detectedAt": "2026-10-01T19:45:23.040Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024",
+      "url": "https://www.c-labo-online.jp/product/294960",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 2580,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294960",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8176021:restock",
       "detectedAt": "2026-10-01T14:25:27.244Z",
       "watchLabel": "限定盤・グッズ",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "ホビーサーチ",
       "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど がんばリーリエ (フィギュア)\n¥4,155／ホビーサーチ\nhttps://www.1999.co.jp/10537956",
       "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど がんばリーリエ (フィギュア)\n¥4,155／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "hobbysearch:11363218:new",
-      "detectedAt": "2026-09-18T09:11:00.886Z",
-      "watchLabel": "フィギュア・ホビー",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "S.H.フィギュアーツ サー・クロコダイル -マリンフォード頂上決戦- (完成品)",
-      "url": "https://www.1999.co.jp/11363218",
-      "image": "https://www.1999.co.jp/itbig136/11363218.jpg",
-      "price": 12100,
-      "sourceLabel": "ホビーサーチ",
-      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ サー・クロコダイル -マリンフォード頂上決戦- (完成品)\n¥12,100／ホビーサーチ\nhttps://www.1999.co.jp/11363218",
-      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ サー・クロコダイル -マリンフォード頂上決戦- (完成品)\n¥12,100／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8117291:new",
-      "detectedAt": "2026-09-18T04:30:34.052Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "OPTIMIZE = OPTDEMISE [CD+Blu-ray Disc]＜初回生産限定盤＞",
-      "url": "https://tower.jp/item/8117291",
-      "image": "https://cdn.tower.jp/za/m/4W/zaP5_H1371484W.JPG",
-      "price": 7700,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nOPTIMIZE = OPTDEMISE [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\nhttps://tower.jp/item/8117291",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nOPTIMIZE = OPTDEMISE [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
