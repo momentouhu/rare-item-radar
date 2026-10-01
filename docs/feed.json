@@ -1,6 +1,576 @@
 {
-  "updatedAt": "2026-09-30T21:20:07.113Z",
+  "updatedAt": "2026-10-01T00:45:46.981Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294982",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+        "url": "https://www.c-labo-online.jp/product/294982",
+        "rawUrl": "https://www.c-labo-online.jp/product/294982",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-01T00:44:58.244Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294982",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:6832014",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモン生態図鑑",
+        "url": "https://tower.jp/item/6832014",
+        "rawUrl": "https://tower.jp/item/6832014",
+        "image": "https://cdn.tower.jp/za/m/66/9784092274266.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.980Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン生態図鑑\n価格未定／タワレコ\nhttps://tower.jp/item/6832014",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン生態図鑑\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 94,
+        "lenNoLink": 104,
+        "image": "https://cdn.tower.jp/za/m/66/9784092274266.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:5305434",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンTVアニメ主題歌 BEST 2019-2022＜通常盤＞",
+        "url": "https://tower.jp/item/5305434",
+        "rawUrl": "https://tower.jp/item/5305434",
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3748738W.JPG",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.980Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンTVアニメ主題歌 BEST 2019-2022＜通常盤＞\n価格未定／タワレコ\nhttps://tower.jp/item/5305434",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンTVアニメ主題歌 BEST 2019-2022＜通常盤＞\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 125,
+        "lenNoLink": 135,
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3748738W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:6273710",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケットモンスター スカーレット・バイオレット ゼロの秘宝 オフィシャルファンブック ワンダーライフスペシャル",
+        "url": "https://tower.jp/item/6273710",
+        "rawUrl": "https://tower.jp/item/6273710",
+        "image": "https://cdn.tower.jp/62/m/10/6273710.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケットモンスター スカーレット・バイオレット ゼロの秘宝 オフィシャルファンブック ワンダーライフスペシャル\n価格未定／タワレコ\nhttps://tower.jp/item/6273710",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケットモンスター スカーレット・バイオレット ゼロの秘宝 オフィシャルファンブック ワンダーライフスペシャル\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 184,
+        "lenNoLink": 194,
+        "image": "https://cdn.tower.jp/62/m/10/6273710.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8046103",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモン サイエンスブック くさ 草、花、タネ、森…植物の不思議を解き明かす!",
+        "url": "https://tower.jp/item/8046103",
+        "rawUrl": "https://tower.jp/item/8046103",
+        "image": "https://cdn.tower.jp/80/m/03/8046103.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン サイエンスブック くさ 草、花、タネ、森…植物の不思議を解き明かす!\n価格未定／タワレコ\nhttps://tower.jp/item/8046103",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン サイエンスブック くさ 草、花、タネ、森…植物の不思議を解き明かす!\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 152,
+        "lenNoLink": 162,
+        "image": "https://cdn.tower.jp/80/m/03/8046103.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:5813205",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンをさがせ!2",
+        "url": "https://tower.jp/item/5813205",
+        "rawUrl": "https://tower.jp/item/5813205",
+        "image": "https://cdn.tower.jp/58/m/05/5813205.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンをさがせ!2\n価格未定／タワレコ\nhttps://tower.jp/item/5813205",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンをさがせ!2\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 96,
+        "lenNoLink": 106,
+        "image": "https://cdn.tower.jp/58/m/05/5813205.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8046102",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモン サイエンスブック ほのお ろうそく、火山、太陽まで 炎のパワーを大解剖!",
+        "url": "https://tower.jp/item/8046102",
+        "rawUrl": "https://tower.jp/item/8046102",
+        "image": "https://cdn.tower.jp/80/m/02/8046102.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン サイエンスブック ほのお ろうそく、火山、太陽まで 炎のパワーを大解剖!\n価格未定／タワレコ\nhttps://tower.jp/item/8046102",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン サイエンスブック ほのお ろうそく、火山、太陽まで 炎のパワーを大解剖!\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 155,
+        "lenNoLink": 165,
+        "image": "https://cdn.tower.jp/80/m/02/8046102.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:6636760",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモン ザ・ムービーXY ステッカー2015 光輪の超魔神フーパ",
+        "url": "https://tower.jp/item/6636760",
+        "rawUrl": "https://tower.jp/item/6636760",
+        "image": "https://cdn.tower.jp/66/m/60/6636760.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン ザ・ムービーXY ステッカー2015 光輪の超魔神フーパ\n価格未定／タワレコ\nhttps://tower.jp/item/6636760",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン ザ・ムービーXY ステッカー2015 光輪の超魔神フーパ\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 135,
+        "lenNoLink": 145,
+        "image": "https://cdn.tower.jp/66/m/60/6636760.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:7960360",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンずかんドリル 小学1年生 総復習ドリル",
+        "url": "https://tower.jp/item/7960360",
+        "rawUrl": "https://tower.jp/item/7960360",
+        "image": "https://cdn.tower.jp/79/m/60/7960360.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 総復習ドリル\n価格未定／タワレコ\nhttps://tower.jp/item/7960360",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 総復習ドリル\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 121,
+        "lenNoLink": 131,
+        "image": "https://cdn.tower.jp/79/m/60/7960360.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:6636703",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンをさがせ! (1)",
+        "url": "https://tower.jp/item/6636703",
+        "rawUrl": "https://tower.jp/item/6636703",
+        "image": "https://cdn.tower.jp/66/m/03/6636703.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンをさがせ! (1)\n価格未定／タワレコ\nhttps://tower.jp/item/6636703",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンをさがせ! (1)\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 99,
+        "lenNoLink": 109,
+        "image": "https://cdn.tower.jp/66/m/03/6636703.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:6292838",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンずかんドリル 小学5年生 漢字",
+        "url": "https://tower.jp/item/6292838",
+        "rawUrl": "https://tower.jp/item/6292838",
+        "image": "https://cdn.tower.jp/62/m/38/6292838.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学5年生 漢字\n価格未定／タワレコ\nhttps://tower.jp/item/6292838",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学5年生 漢字\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 113,
+        "lenNoLink": 123,
+        "image": "https://cdn.tower.jp/62/m/38/6292838.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:6766981",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンずかんドリル 小学4年生 小数・分数",
+        "url": "https://tower.jp/item/6766981",
+        "rawUrl": "https://tower.jp/item/6766981",
+        "image": "https://cdn.tower.jp/67/m/81/6766981.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学4年生 小数・分数\n価格未定／タワレコ\nhttps://tower.jp/item/6766981",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学4年生 小数・分数\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 119,
+        "lenNoLink": 129,
+        "image": "https://cdn.tower.jp/67/m/81/6766981.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:6851969",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンずかんドリル 小学3年生 文章題",
+        "url": "https://tower.jp/item/6851969",
+        "rawUrl": "https://tower.jp/item/6851969",
+        "image": "https://cdn.tower.jp/za/m/44/9784092536944.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学3年生 文章題\n価格未定／タワレコ\nhttps://tower.jp/item/6851969",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学3年生 文章題\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 115,
+        "lenNoLink": 125,
+        "image": "https://cdn.tower.jp/za/m/44/9784092536944.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:5643254",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンずかんドリル 小学2年生 かん字",
+        "url": "https://tower.jp/item/5643254",
+        "rawUrl": "https://tower.jp/item/5643254",
+        "image": "https://cdn.tower.jp/za/m/17/9784092536517.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学2年生 かん字\n価格未定／タワレコ\nhttps://tower.jp/item/5643254",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学2年生 かん字\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 115,
+        "lenNoLink": 125,
+        "image": "https://cdn.tower.jp/za/m/17/9784092536517.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:5643228",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンずかんドリル 小学1年生 たしざん・ひきざん",
+        "url": "https://tower.jp/item/5643228",
+        "rawUrl": "https://tower.jp/item/5643228",
+        "image": "https://cdn.tower.jp/za/m/70/9784092536470.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 たしざん・ひきざん\n価格未定／タワレコ\nhttps://tower.jp/item/5643228",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 たしざん・ひきざん\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 127,
+        "lenNoLink": 137,
+        "image": "https://cdn.tower.jp/za/m/70/9784092536470.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:6216179",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンずかんドリル 小学1年生 ひらがな・カタカナ",
+        "url": "https://tower.jp/item/6216179",
+        "rawUrl": "https://tower.jp/item/6216179",
+        "image": "https://cdn.tower.jp/62/m/79/6216179.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 ひらがな・カタカナ\n価格未定／タワレコ\nhttps://tower.jp/item/6216179",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 ひらがな・カタカナ\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 127,
+        "lenNoLink": 137,
+        "image": "https://cdn.tower.jp/62/m/79/6216179.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:5761807",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンずかんドリル 小学1年生 すう・ずけい・たんい",
+        "url": "https://tower.jp/item/5761807",
+        "rawUrl": "https://tower.jp/item/5761807",
+        "image": "https://cdn.tower.jp/57/m/07/5761807.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 すう・ずけい・たんい\n価格未定／タワレコ\nhttps://tower.jp/item/5761807",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 すう・ずけい・たんい\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 129,
+        "lenNoLink": 139,
+        "image": "https://cdn.tower.jp/57/m/07/5761807.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:7690139",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモン サイエンスブック みず・こおり 流れる、こおる、消える!? 水の不思議を探れ!",
+        "url": "https://tower.jp/item/7690139",
+        "rawUrl": "https://tower.jp/item/7690139",
+        "image": "https://cdn.tower.jp/76/m/39/7690139.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン サイエンスブック みず・こおり 流れる、こおる、消える!? 水の不思議を探れ!\n価格未定／タワレコ\nhttps://tower.jp/item/7690139",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン サイエンスブック みず・こおり 流れる、こおる、消える!? 水の不思議を探れ!\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 159,
+        "lenNoLink": 169,
+        "image": "https://cdn.tower.jp/76/m/39/7690139.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8041289",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "キャラぱふぇ ちいかわアクリルスタンプ特大号",
+        "url": "https://tower.jp/item/8041289",
+        "rawUrl": "https://tower.jp/item/8041289",
+        "image": "https://cdn.tower.jp/80/m/89/8041289.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T00:45:46.981Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nキャラぱふぇ ちいかわアクリルスタンプ特大号\n価格未定／タワレコ\nhttps://tower.jp/item/8041289",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nキャラぱふぇ ちいかわアクリルスタンプ特大号\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 121,
+        "lenNoLink": 131,
+        "image": "https://cdn.tower.jp/80/m/89/8041289.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
