@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-10-01T19:45:56.377Z",
+  "updatedAt": "2026-10-01T23:47:05.771Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-01T23:46:19.703Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294912",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+        "url": "https://www.c-labo-online.jp/product/294912",
+        "rawUrl": "https://www.c-labo-online.jp/product/294912",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-01T23:46:39.849Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294912",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8146700",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケットモンスター ビジュアルアートブック 30th anniversary Art Book of Pokémon Video Games developed by GAME FREAK BOOK1 (-)",
+        "url": "https://tower.jp/item/8146700",
+        "rawUrl": "https://tower.jp/item/8146700",
+        "image": "https://cdn.tower.jp/81/m/00/8146700.jpg",
+        "price": 5500,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T23:47:05.771Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケットモンスター ビジュアルアートブック 30th anniversary Art Book of Pokémon Video Games developed by GAME FREAK BOOK…\n¥5,500／タワレコ\nhttps://tower.jp/item/8146700",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケットモンスター ビジュアルアートブック 30th anniversary Art Book of Pokémon Video Games developed by GAME FREAK BOOK…\n¥5,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 199,
+        "lenNoLink": 209,
+        "image": "https://cdn.tower.jp/81/m/00/8146700.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8052873",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "UNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8052873",
+        "rawUrl": "https://tower.jp/item/8052873",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3949340W.JPG",
+        "price": 10230,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-01T23:47:05.771Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\nhttps://tower.jp/item/8052873",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 124,
+        "lenNoLink": 134,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3949340W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {
