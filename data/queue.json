@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:294890:new",
+      "detectedAt": "2026-10-02T21:14:18.129Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/294890",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 3180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294890",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8146700:new",
       "detectedAt": "2026-10-01T23:47:05.771Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294924",
       "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:356624:new",
-      "detectedAt": "2026-09-18T20:36:04.804Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031",
-      "url": "https://www.c-labo-online.jp/product/356624",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2780,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356624",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
