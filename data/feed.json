@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-02T04:37:30.468Z",
+  "updatedAt": "2026-10-02T10:58:04.907Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "sevennet:2110624349",
+        "source": "sevennet",
+        "sourceLabel": "セブンネット",
+        "title": "Nintendo Switch（有機ELモデル） Joy-Con(L)/(R) ホワイト",
+        "url": "https://7net.omni7.jp/detail/2110624349.html",
+        "rawUrl": "https://7net.omni7.jp/detail/2110624349.html",
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw18245d9b/033022/2110624349.jpg?sw=640",
+        "price": 47980,
+        "inStock": true,
+        "shop": "セブンネットショッピング",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "game-hw",
+      "watchLabel": "ゲーム機・限定版",
+      "detectedAt": "2026-10-02T10:57:40.810Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ゲーム機・限定版\nNintendo Switch（有機ELモデル） Joy-Con(L)/(R) ホワイト\n¥47,980／セブンネット\nhttps://7net.omni7.jp/detail/2110624349.html",
+        "textNoLink": "🔥【在庫復活】ゲーム機・限定版\nNintendo Switch（有機ELモデル） Joy-Con(L)/(R) ホワイト\n¥47,980／セブンネット\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 133,
+        "lenNoLink": 143,
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw18245d9b/033022/2110624349.jpg?sw=640"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8051513",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ヨルシカ LIVE「盗作」 [3Blu-ray Disc+絵本2冊]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8051513",
+        "rawUrl": "https://tower.jp/item/8051513",
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G3933515W.JPG",
+        "price": 12650,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-02T10:58:04.906Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nヨルシカ LIVE「盗作」 [3Blu-ray Disc+絵本2冊]＜初回限定盤＞\n¥12,650／タワレコ\nhttps://tower.jp/item/8051513",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nヨルシカ LIVE「盗作」 [3Blu-ray Disc+絵本2冊]＜初回限定盤＞\n¥12,650／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 131,
+        "lenNoLink": 141,
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G3933515W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {
