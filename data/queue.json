@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:294889:restock",
+      "detectedAt": "2026-10-03T22:22:26.104Z",
+      "watchLabel": "遊戯王",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042",
+      "url": "https://www.c-labo-online.jp/product/294889",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2480,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🔥【在庫復活】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/294889",
+      "textNoLink": "🔥【在庫復活】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294922:new",
       "detectedAt": "2026-10-03T19:06:19.437Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
       "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:410830:new",
-      "detectedAt": "2026-09-19T11:23:30.836Z",
-      "watchLabel": "ユニオンアリーナ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック) [2607/31]",
-      "url": "https://www.c-labo-online.jp/product/410830",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg",
-      "price": 6160,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/410830",
-      "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]

@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-03T19:06:49.381Z",
+  "updatedAt": "2026-10-03T22:22:52.413Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:294889",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042",
+        "url": "https://www.c-labo-online.jp/product/294889",
+        "rawUrl": "https://www.c-labo-online.jp/product/294889",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2480,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-03T22:22:26.104Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/294889",
+        "textNoLink": "🔥【在庫復活】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 130,
+        "lenNoLink": 140,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
