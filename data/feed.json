@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-10-02T21:14:44.222Z",
+  "updatedAt": "2026-10-03T00:41:01.256Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356749",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
+        "url": "https://www.c-labo-online.jp/product/356749",
+        "rawUrl": "https://www.c-labo-online.jp/product/356749",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-03T00:40:35.788Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356749",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8168545",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Chronicle '70s＜初回限定盤＞",
+        "url": "https://tower.jp/item/8168545",
+        "rawUrl": "https://tower.jp/item/8168545",
+        "image": "https://cdn.tower.jp/za/m/38/4997184225038.jpg",
+        "price": 3490,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-03T00:41:01.255Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nChronicle '70s＜初回限定盤＞\n¥3,490／タワレコ\nhttps://tower.jp/item/8168545",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nChronicle '70s＜初回限定盤＞\n¥3,490／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 105,
+        "lenNoLink": 115,
+        "image": "https://cdn.tower.jp/za/m/38/4997184225038.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8176170",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞",
+        "url": "https://tower.jp/item/8176170",
+        "rawUrl": "https://tower.jp/item/8176170",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_H1377624W.JPG",
+        "price": 4950,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-03T00:41:01.255Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞\n¥4,950／タワレコ\nhttps://tower.jp/item/8176170",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 145,
+        "lenNoLink": 155,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_H1377624W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8176167",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞",
+        "url": "https://tower.jp/item/8176167",
+        "rawUrl": "https://tower.jp/item/8176167",
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1377622W.JPG",
+        "price": 4950,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-03T00:41:01.255Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞\n¥4,950／タワレコ\nhttps://tower.jp/item/8176167",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 145,
+        "lenNoLink": 155,
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1377622W.JPG"
+      }
+    },
     {
       "type": "new",
       "item": {
