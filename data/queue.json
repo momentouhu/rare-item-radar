@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:356662:new",
+      "detectedAt": "2026-10-03T11:57:05.908Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031",
+      "url": "https://www.c-labo-online.jp/product/356662",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2780,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356662",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8168545:new",
       "detectedAt": "2026-10-03T00:41:01.255Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「吉田仁人」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056503",
       "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「吉田仁人」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8056500:restock",
-      "detectedAt": "2026-09-19T06:27:03.924Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「曽野舜太」盤＞",
-      "url": "https://tower.jp/item/8056500",
-      "image": "https://cdn.tower.jp/za/m/2W/zaP5_G4882772W.JPG",
-      "price": 2530,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「曽野舜太」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056500",
-      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「曽野舜太」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
