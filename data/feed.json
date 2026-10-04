@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-04T13:49:15.912Z",
+  "updatedAt": "2026-10-04T18:03:45.631Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8176169",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞ [CD+Blu-ray Disc]",
+        "url": "https://tower.jp/item/8176169",
+        "rawUrl": "https://tower.jp/item/8176169",
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1377623W.JPG",
+        "price": 4950,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-04T18:03:45.609Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\nhttps://tower.jp/item/8176169",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 163,
+        "lenNoLink": 173,
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1377623W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8176165",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞ [CD+Blu-ray Disc]",
+        "url": "https://tower.jp/item/8176165",
+        "rawUrl": "https://tower.jp/item/8176165",
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_H1377621W.JPG",
+        "price": 4950,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-04T18:03:45.630Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\nhttps://tower.jp/item/8176165",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 163,
+        "lenNoLink": 173,
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_H1377621W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {

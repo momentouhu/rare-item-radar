@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "tower:8176165:new",
+      "detectedAt": "2026-10-04T18:03:45.630Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞ [CD+Blu-ray Disc]",
+      "url": "https://tower.jp/item/8176165",
+      "image": "https://cdn.tower.jp/za/m/1W/zaP5_H1377621W.JPG",
+      "price": 4950,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\nhttps://tower.jp/item/8176165",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "tower:8176169:new",
+      "detectedAt": "2026-10-04T18:03:45.609Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞ [CD+Blu-ray Disc]",
+      "url": "https://tower.jp/item/8176169",
+      "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1377623W.JPG",
+      "price": 4950,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\nhttps://tower.jp/item/8176169",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294889:restock",
       "detectedAt": "2026-10-03T22:22:26.104Z",
       "watchLabel": "遊戯王",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356625",
       "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:339521:restock",
-      "detectedAt": "2026-09-19T22:26:34.883Z",
-      "watchLabel": "ガンダムカードゲーム",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
-      "url": "https://www.c-labo-online.jp/product/339521",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-      "price": 5808,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/339521",
-      "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:350756:restock",
-      "detectedAt": "2026-09-19T20:13:22.143Z",
-      "watchLabel": "ガンダムカードゲーム",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
-      "url": "https://www.c-labo-online.jp/product/350756",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-      "price": 5808,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
-      "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
