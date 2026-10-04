@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "clabo:294926:new",
+      "detectedAt": "2026-10-04T21:50:16.520Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/294926",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 3180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294926",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:294951:new",
+      "detectedAt": "2026-10-04T21:50:16.520Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024",
+      "url": "https://www.c-labo-online.jp/product/294951",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 2580,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294951",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:339521:restock",
+      "detectedAt": "2026-10-04T21:49:56.229Z",
+      "watchLabel": "ガンダムカードゲーム",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+      "url": "https://www.c-labo-online.jp/product/339521",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+      "price": 5808,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/339521",
+      "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8176165:new",
       "detectedAt": "2026-10-04T18:03:45.630Z",
       "watchLabel": "限定盤・グッズ",
@@ -1453,51 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294903",
       "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:6359654:restock",
-      "detectedAt": "2026-09-21T06:00:38.163Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "ポケモン feat. 初音ミク Project VOLTAGE 18 Types/Songs Collection",
-      "url": "https://tower.jp/item/6359654",
-      "image": "https://cdn.tower.jp/za/m/2W/P2_H2092072W.JPG",
-      "price": 7700,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nポケモン feat. 初音ミク Project VOLTAGE 18 Types/Songs Collection\n¥7,700／タワレコ\nhttps://tower.jp/item/6359654",
-      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nポケモン feat. 初音ミク Project VOLTAGE 18 Types/Songs Collection\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294911:new",
-      "detectedAt": "2026-09-20T22:41:35.910Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043",
-      "url": "https://www.c-labo-online.jp/product/294911",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-      "price": 2180,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294911",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:356625:new",
-      "detectedAt": "2026-09-20T20:30:22.214Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
-      "url": "https://www.c-labo-online.jp/product/356625",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2780,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356625",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
