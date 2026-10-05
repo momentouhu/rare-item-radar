@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:378688:restock",
+      "detectedAt": "2026-10-05T22:22:52.873Z",
+      "watchLabel": "ガンダムカードゲーム",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+      "url": "https://www.c-labo-online.jp/product/378688",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+      "price": 5808,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+      "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8159641:new",
       "detectedAt": "2026-10-05T15:40:48.516Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/294901",
       "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294883:new",
-      "detectedAt": "2026-09-21T22:31:22.809Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002",
-      "url": "https://www.c-labo-online.jp/product/294883",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030322e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-      "price": 3780,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\nhttps://www.c-labo-online.jp/product/294883",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
