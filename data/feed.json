@@ -1,6 +1,97 @@
 {
-  "updatedAt": "2026-10-05T06:39:22.406Z",
+  "updatedAt": "2026-10-05T15:40:48.516Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:10079254",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "ドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空幼少Ver.. (フィギュア)",
+        "url": "https://www.1999.co.jp/10079254",
+        "rawUrl": "https://www.1999.co.jp/10079254",
+        "image": "https://www.1999.co.jp/itbig07/10079254.jpg",
+        "price": 6358,
+        "inStock": false,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2009年3月下旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-10-05T15:39:48.851Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空幼少Ver.. (フィギュア)\n¥6,358／ホビーサーチ\nhttps://www.1999.co.jp/10079254",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空幼少Ver.. (フィギュア)\n¥6,358／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 161,
+        "lenNoLink": 171,
+        "image": "https://www.1999.co.jp/itbig07/10079254.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8062087",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【イベント抽選権付】One day＜初回限定盤B＞",
+        "url": "https://tower.jp/item/8062087",
+        "rawUrl": "https://tower.jp/item/8062087",
+        "image": "https://cdn.tower.jp/za/m/47/2050269082147.jpg",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-05T15:40:48.515Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント抽選権付】One day＜初回限定盤B＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8062087",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント抽選権付】One day＜初回限定盤B＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 119,
+        "lenNoLink": 129,
+        "image": "https://cdn.tower.jp/za/m/47/2050269082147.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8159641",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《2形態/特典付セット》Rock & Roll Pretty ＜初回限定盤B+通常盤＞",
+        "url": "https://tower.jp/item/8159641",
+        "rawUrl": "https://tower.jp/item/8159641",
+        "image": "",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-05T15:40:48.516Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/特典付セット》Rock & Roll Pretty ＜初回限定盤B+通常盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8159641",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/特典付セット》Rock & Roll Pretty ＜初回限定盤B+通常盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 140,
+        "lenNoLink": 150,
+        "image": ""
+      }
+    },
     {
       "type": "new",
       "item": {
