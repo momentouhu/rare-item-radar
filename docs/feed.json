@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-10-05T00:33:26.750Z",
+  "updatedAt": "2026-10-05T06:39:22.406Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hareruya2:10208000835904",
+        "source": "hareruya2",
+        "sourceLabel": "晴れる屋2",
+        "title": "【抽選販売】【MEGA】拡張パック「ストームエメラルダ」(1BOX)",
+        "url": "https://www.hareruya2.com/products/10208000835904",
+        "rawUrl": "https://www.hareruya2.com/products/10208000835904",
+        "image": "https://cdn.shopify.com/s/files/1/0763/0536/7360/files/mega1box-2-1053452.webp?v=1786945506",
+        "price": 6000,
+        "inStock": true,
+        "shop": "晴れる屋2",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2026-10-05T11:03:04+09:00"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "pokemon",
+      "watchLabel": "ポケモンカード（広め）",
+      "detectedAt": "2026-10-05T06:37:04.939Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ポケモンカード（広め）\n【抽選販売】【MEGA】拡張パック「ストームエメラルダ」(1BOX)\n¥6,000／晴れる屋2\nhttps://www.hareruya2.com/products/10208000835904\n#ポケカ #ポケモンカード",
+        "textNoLink": "🆕【新着・予約開始】ポケモンカード（広め）\n【抽選販売】【MEGA】拡張パック「ストームエメラルダ」(1BOX)\n¥6,000／晴れる屋2\n🔗 詳細はプロフィールのリンクから\n#ポケカ #ポケモンカード",
+        "lenWithLink": 168,
+        "lenNoLink": 178,
+        "image": "https://cdn.shopify.com/s/files/1/0763/0536/7360/files/mega1box-2-1053452.webp?v=1786945506"
+      }
+    },
     {
       "type": "restock",
       "item": {

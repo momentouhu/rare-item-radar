@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "hareruya2:10208000835904:new",
+      "detectedAt": "2026-10-05T06:37:04.939Z",
+      "watchLabel": "ポケモンカード（広め）",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【抽選販売】【MEGA】拡張パック「ストームエメラルダ」(1BOX)",
+      "url": "https://www.hareruya2.com/products/10208000835904",
+      "image": "https://cdn.shopify.com/s/files/1/0763/0536/7360/files/mega1box-2-1053452.webp?v=1786945506",
+      "price": 6000,
+      "sourceLabel": "晴れる屋2",
+      "textWithLink": "🆕【新着・予約開始】ポケモンカード（広め）\n【抽選販売】【MEGA】拡張パック「ストームエメラルダ」(1BOX)\n¥6,000／晴れる屋2\nhttps://www.hareruya2.com/products/10208000835904\n#ポケカ #ポケモンカード",
+      "textNoLink": "🆕【新着・予約開始】ポケモンカード（広め）\n【抽選販売】【MEGA】拡張パック「ストームエメラルダ」(1BOX)\n¥6,000／晴れる屋2\n🔗 詳細はプロフィールのリンクから\n#ポケカ #ポケモンカード",
+      "posted": {}
+    },
+    {
       "id": "clabo:294926:new",
       "detectedAt": "2026-10-04T21:50:16.520Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356756",
       "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294903:new",
-      "detectedAt": "2026-09-21T18:33:35.597Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-      "url": "https://www.c-labo-online.jp/product/294903",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-      "price": 3180,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294903",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
