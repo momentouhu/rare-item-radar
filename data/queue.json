@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "tower:8162276:new",
+      "detectedAt": "2026-10-06T02:28:31.110Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "MEGA GOLDEN＜初回限定盤B＞",
+      "url": "https://tower.jp/item/8162276",
+      "image": "https://cdn.tower.jp/za/m/4W/zaP5_H1377624W.JPG",
+      "price": 4950,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nMEGA GOLDEN＜初回限定盤B＞\n¥4,950／タワレコ\nhttps://tower.jp/item/8162276",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nMEGA GOLDEN＜初回限定盤B＞\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:378688:restock",
       "detectedAt": "2026-10-05T22:22:52.873Z",
       "watchLabel": "ガンダムカードゲーム",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "ホビーサーチ",
       "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nパフスリーブワンピース(ブラック)(ドール用) (フィギュア)\n¥3,465／ホビーサーチ\nhttps://www.1999.co.jp/11298581",
       "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nパフスリーブワンピース(ブラック)(ドール用) (フィギュア)\n¥3,465／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294901:new",
-      "detectedAt": "2026-09-21T22:31:22.810Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042",
-      "url": "https://www.c-labo-online.jp/product/294901",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2480,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/294901",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】宵星の騎士ギルス【クォーターセンチュリー/効果】QCTB-JP042\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
