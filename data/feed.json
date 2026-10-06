@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-06T02:28:31.497Z",
+  "updatedAt": "2026-10-06T09:17:35.819Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8052873",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "UNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8052873",
+        "rawUrl": "https://tower.jp/item/8052873",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3949340W.JPG",
+        "price": 10230,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-06T09:17:35.788Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\nhttps://tower.jp/item/8052873",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 118,
+        "lenNoLink": 128,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3949340W.JPG"
+      }
+    },
     {
       "type": "new",
       "item": {

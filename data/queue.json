@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "tower:8052873:restock",
+      "detectedAt": "2026-10-06T09:17:35.788Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "UNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞",
+      "url": "https://tower.jp/item/8052873",
+      "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3949340W.JPG",
+      "price": 10230,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\nhttps://tower.jp/item/8052873",
+      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8162276:new",
       "detectedAt": "2026-10-06T02:28:31.110Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "ホビーサーチ",
       "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)\n¥8,910／ホビーサーチ\nhttps://www.1999.co.jp/11442585",
       "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)\n¥8,910／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "hobbysearch:11298581:new",
-      "detectedAt": "2026-09-22T01:06:31.910Z",
-      "watchLabel": "フィギュア・ホビー",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "パフスリーブワンピース(ブラック)(ドール用) (フィギュア)",
-      "url": "https://www.1999.co.jp/11298581",
-      "image": "https://www.1999.co.jp/itbig129/11298581.jpg",
-      "price": 3465,
-      "sourceLabel": "ホビーサーチ",
-      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nパフスリーブワンピース(ブラック)(ドール用) (フィギュア)\n¥3,465／ホビーサーチ\nhttps://www.1999.co.jp/11298581",
-      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nパフスリーブワンピース(ブラック)(ドール用) (フィギュア)\n¥3,465／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
