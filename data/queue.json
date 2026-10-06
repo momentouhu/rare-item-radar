@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sevennet:2190052484:new",
+      "detectedAt": "2026-10-06T21:10:08.310Z",
+      "watchLabel": "ゲーム機・限定版",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "Nintendo Switch 2（日本語・国内専用） 選べるソフト セット(マリオカート ワールド/Nintendo Switch Sports Resort/トモダチコレクション わくわく生活)",
+      "url": "https://7net.omni7.jp/detail/2190052484.html",
+      "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw56df53f0/033022/4902370555257.jpg?sw=640",
+      "price": 63980,
+      "sourceLabel": "セブンネット",
+      "textWithLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch 2（日本語・国内専用） 選べるソフト セット(マリオカート ワールド/Nintendo Switch Sports Resort/トモダチコ…\n¥63,980／セブンネット\nhttps://7net.omni7.jp/detail/2190052484.html",
+      "textNoLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch 2（日本語・国内専用） 選べるソフト セット(マリオカート ワールド/Nintendo Switch Sports Resort/トモダチコ…\n¥63,980／セブンネット\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:356763:new",
+      "detectedAt": "2026-10-06T21:10:05.344Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/356763",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/356763",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8143018:new",
       "detectedAt": "2026-10-06T16:11:35.832Z",
       "watchLabel": "限定盤・グッズ",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "ホビーサーチ",
       "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nモンコレボックス 夢見のノクターン (10個セット) (食玩)\n¥4,752／ホビーサーチ\nhttps://www.1999.co.jp/11449688",
       "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nモンコレボックス 夢見のノクターン (10個セット) (食玩)\n¥4,752／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "hobbysearch:11347807:new",
-      "detectedAt": "2026-09-22T06:38:51.041Z",
-      "watchLabel": "フィギュア・ホビー",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "S.H.フィギュアーツ サンジ(A Netflix Series: ONE PIECE) (完成品)",
-      "url": "https://www.1999.co.jp/11347807",
-      "image": "https://www.1999.co.jp/itbig134/11347807.jpg",
-      "price": 8118,
-      "sourceLabel": "ホビーサーチ",
-      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ サンジ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\nhttps://www.1999.co.jp/11347807",
-      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ サンジ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "hobbysearch:11347806:new",
-      "detectedAt": "2026-09-22T06:38:51.041Z",
-      "watchLabel": "フィギュア・ホビー",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "S.H.フィギュアーツ ウソップ(A Netflix Series: ONE PIECE) (完成品)",
-      "url": "https://www.1999.co.jp/11347806",
-      "image": "https://www.1999.co.jp/itbig134/11347806.jpg",
-      "price": 8118,
-      "sourceLabel": "ホビーサーチ",
-      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ ウソップ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\nhttps://www.1999.co.jp/11347806",
-      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ ウソップ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]

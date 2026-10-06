@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-06T16:11:35.858Z",
+  "updatedAt": "2026-10-06T21:10:31.774Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356763",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/356763",
+        "rawUrl": "https://www.c-labo-online.jp/product/356763",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-06T21:10:05.344Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/356763",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 160,
+        "lenNoLink": 170,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "sevennet:2190052484",
+        "source": "sevennet",
+        "sourceLabel": "セブンネット",
+        "title": "Nintendo Switch 2（日本語・国内専用） 選べるソフト セット(マリオカート ワールド/Nintendo Switch Sports Resort/トモダチコレクション わくわく生活)",
+        "url": "https://7net.omni7.jp/detail/2190052484.html",
+        "rawUrl": "https://7net.omni7.jp/detail/2190052484.html",
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw56df53f0/033022/4902370555257.jpg?sw=640",
+        "price": 63980,
+        "inStock": true,
+        "shop": "セブンネットショッピング",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "game-hw",
+      "watchLabel": "ゲーム機・限定版",
+      "detectedAt": "2026-10-06T21:10:08.310Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch 2（日本語・国内専用） 選べるソフト セット(マリオカート ワールド/Nintendo Switch Sports Resort/トモダチコ…\n¥63,980／セブンネット\nhttps://7net.omni7.jp/detail/2190052484.html",
+        "textNoLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch 2（日本語・国内専用） 選べるソフト セット(マリオカート ワールド/Nintendo Switch Sports Resort/トモダチコ…\n¥63,980／セブンネット\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 206,
+        "lenNoLink": 216,
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw56df53f0/033022/4902370555257.jpg?sw=640"
+      }
+    },
     {
       "type": "new",
       "item": {
