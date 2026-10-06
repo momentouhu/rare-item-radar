@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "tower:8143018:new",
+      "detectedAt": "2026-10-06T16:11:35.832Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "JOY 2＜初回生産限定盤＞",
+      "url": "https://tower.jp/item/8143018",
+      "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1375993W.JPG",
+      "price": 6900,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nJOY 2＜初回生産限定盤＞\n¥6,900／タワレコ\nhttps://tower.jp/item/8143018",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nJOY 2＜初回生産限定盤＞\n¥6,900／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8052873:restock",
       "detectedAt": "2026-10-06T09:17:35.788Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "ホビーサーチ",
       "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ ウソップ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\nhttps://www.1999.co.jp/11347806",
       "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ ウソップ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "hobbysearch:11442585:new",
-      "detectedAt": "2026-09-22T06:38:50.949Z",
-      "watchLabel": "フィギュア・ホビー",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "S.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)",
-      "url": "https://www.1999.co.jp/11442585",
-      "image": "https://www.1999.co.jp/itbig144/11442585.jpg",
-      "price": 8910,
-      "sourceLabel": "ホビーサーチ",
-      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)\n¥8,910／ホビーサーチ\nhttps://www.1999.co.jp/11442585",
-      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)\n¥8,910／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
