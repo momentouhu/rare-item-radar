@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-10-07T14:28:20.498Z",
+  "updatedAt": "2026-10-07T20:08:11.272Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11480980",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "ヴァリアブルアクション Heroes ONE PIECE `白ひげ` エドワード・ニューゲートVer.1.5 (フィギュア)",
+        "url": "https://www.1999.co.jp/11480980",
+        "rawUrl": "https://www.1999.co.jp/11480980",
+        "image": "https://www.1999.co.jp/itbig148/11480980.jpg",
+        "price": 18700,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2027年5月 発売予定"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-10-07T20:07:07.682Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nヴァリアブルアクション Heroes ONE PIECE `白ひげ` エドワード・ニューゲートVer.1.5 (フィギュア)\n¥18,700／ホビーサーチ\nhttps://www.1999.co.jp/11480980",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nヴァリアブルアクション Heroes ONE PIECE `白ひげ` エドワード・ニューゲートVer.1.5 (フィギュア)\n¥18,700／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 179,
+        "lenNoLink": 189,
+        "image": "https://www.1999.co.jp/itbig148/11480980.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294959",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/294959",
+        "rawUrl": "https://www.c-labo-online.jp/product/294959",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 3180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-07T20:07:41.873Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294959",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {

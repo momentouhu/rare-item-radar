@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "clabo:294959:new",
+      "detectedAt": "2026-10-07T20:07:41.873Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/294959",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 3180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294959",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "hobbysearch:11480980:new",
+      "detectedAt": "2026-10-07T20:07:07.682Z",
+      "watchLabel": "フィギュア・ホビー",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ヴァリアブルアクション Heroes ONE PIECE `白ひげ` エドワード・ニューゲートVer.1.5 (フィギュア)",
+      "url": "https://www.1999.co.jp/11480980",
+      "image": "https://www.1999.co.jp/itbig148/11480980.jpg",
+      "price": 18700,
+      "sourceLabel": "ホビーサーチ",
+      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nヴァリアブルアクション Heroes ONE PIECE `白ひげ` エドワード・ニューゲートVer.1.5 (フィギュア)\n¥18,700／ホビーサーチ\nhttps://www.1999.co.jp/11480980",
+      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nヴァリアブルアクション Heroes ONE PIECE `白ひげ` エドワード・ニューゲートVer.1.5 (フィギュア)\n¥18,700／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8168603:new",
       "detectedAt": "2026-10-07T00:58:28.849Z",
       "watchLabel": "限定盤・グッズ",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138151",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8134568:new",
-      "detectedAt": "2026-09-22T17:13:03.032Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "Lonely...But not Alone/YesかNoか私か [CD+Blu-ray Disc]＜初回生産限定盤SP＞",
-      "url": "https://tower.jp/item/8134568",
-      "image": "https://cdn.tower.jp/za/m/51/4942463526351.jpg",
-      "price": 3850,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nLonely...But not Alone/YesかNoか私か [CD+Blu-ray Disc]＜初回生産限定盤SP＞\n¥3,850／タワレコ\nhttps://tower.jp/item/8134568",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nLonely...But not Alone/YesかNoか私か [CD+Blu-ray Disc]＜初回生産限定盤SP＞\n¥3,850／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8052193:new",
-      "detectedAt": "2026-09-22T17:13:03.001Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "POPS [CD+DVD]＜初回限定盤＞",
-      "url": "https://tower.jp/item/8052193",
-      "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3944708W.JPG",
-      "price": 4400,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nPOPS [CD+DVD]＜初回限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8052193",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nPOPS [CD+DVD]＜初回限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
