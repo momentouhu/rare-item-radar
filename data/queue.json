@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "tower:8168603:new",
+      "detectedAt": "2026-10-07T00:58:28.849Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "TMG III SAYONARA [CD+Blu-ray Disc]＜初回限定盤＞",
+      "url": "https://tower.jp/item/8168603",
+      "image": "https://cdn.tower.jp/za/m/70/4580740639570.jpg",
+      "price": 7000,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nTMG III SAYONARA [CD+Blu-ray Disc]＜初回限定盤＞\n¥7,000／タワレコ\nhttps://tower.jp/item/8168603",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nTMG III SAYONARA [CD+Blu-ray Disc]＜初回限定盤＞\n¥7,000／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "sevennet:2190052484:new",
       "detectedAt": "2026-10-06T21:10:08.310Z",
       "watchLabel": "ゲーム機・限定版",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nPOPS [CD+DVD]＜初回限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8052193",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nPOPS [CD+DVD]＜初回限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "hobbysearch:11449688:new",
-      "detectedAt": "2026-09-22T12:27:15.464Z",
-      "watchLabel": "フィギュア・ホビー",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "モンコレボックス 夢見のノクターン (10個セット) (食玩)",
-      "url": "https://www.1999.co.jp/11449688",
-      "image": "https://www.1999.co.jp/itbig144/11449688.jpg",
-      "price": 4752,
-      "sourceLabel": "ホビーサーチ",
-      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nモンコレボックス 夢見のノクターン (10個セット) (食玩)\n¥4,752／ホビーサーチ\nhttps://www.1999.co.jp/11449688",
-      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nモンコレボックス 夢見のノクターン (10個セット) (食玩)\n¥4,752／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]

@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-06T21:10:31.774Z",
+  "updatedAt": "2026-10-07T00:58:29.157Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8168603",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "TMG III SAYONARA [CD+Blu-ray Disc]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8168603",
+        "rawUrl": "https://tower.jp/item/8168603",
+        "image": "https://cdn.tower.jp/za/m/70/4580740639570.jpg",
+        "price": 7000,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-07T00:58:28.849Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nTMG III SAYONARA [CD+Blu-ray Disc]＜初回限定盤＞\n¥7,000／タワレコ\nhttps://tower.jp/item/8168603",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nTMG III SAYONARA [CD+Blu-ray Disc]＜初回限定盤＞\n¥7,000／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 125,
+        "lenNoLink": 135,
+        "image": "https://cdn.tower.jp/za/m/70/4580740639570.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
