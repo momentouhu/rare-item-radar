@@ -1,6 +1,336 @@
 {
-  "updatedAt": "2026-10-07T20:08:11.272Z",
+  "updatedAt": "2026-10-08T00:23:23.458Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8162272",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "MEGA GOLDEN＜初回限定盤A＞",
+        "url": "https://tower.jp/item/8162272",
+        "rawUrl": "https://tower.jp/item/8162272",
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1377622W.JPG",
+        "price": 4950,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.429Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nMEGA GOLDEN＜初回限定盤A＞\n¥4,950／タワレコ\nhttps://tower.jp/item/8162272",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nMEGA GOLDEN＜初回限定盤A＞\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 103,
+        "lenNoLink": 113,
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1377622W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8164297",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Cheetah＜初回限定盤 Digipak＞",
+        "url": "https://tower.jp/item/8164297",
+        "rawUrl": "https://tower.jp/item/8164297",
+        "image": "",
+        "price": 3850,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.458Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nCheetah＜初回限定盤 Digipak＞\n¥3,850／タワレコ\nhttps://tower.jp/item/8164297",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nCheetah＜初回限定盤 Digipak＞\n¥3,850／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 106,
+        "lenNoLink": 116,
+        "image": ""
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8039611",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "GOSPEL＜初回限定盤＞",
+        "url": "https://tower.jp/item/8039611",
+        "rawUrl": "https://tower.jp/item/8039611",
+        "image": "https://cdn.tower.jp/za/m/7W/zaP5_H1371577W.JPG",
+        "price": 3960,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.458Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nGOSPEL＜初回限定盤＞\n¥3,960／タワレコ\nhttps://tower.jp/item/8039611",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nGOSPEL＜初回限定盤＞\n¥3,960／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 97,
+        "lenNoLink": 107,
+        "image": "https://cdn.tower.jp/za/m/7W/zaP5_H1371577W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8174090",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《3種同時購入特典 \"2026 JO1 NORTH AMERICAN TOUR ‘ANIMAL’開催記念セルカトレカ\"付セット》AAO＜初回限定盤A+初回限定盤B+通常盤＞",
+        "url": "https://tower.jp/item/8174090",
+        "rawUrl": "https://tower.jp/item/8174090",
+        "image": "https://cdn.tower.jp/za/m/54/2050269098254.jpg",
+        "price": 5200,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.458Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《3種同時購入特典 \"2026 JO1 NORTH AMERICAN TOUR ‘ANIMAL’開催記念セルカトレカ\"付セット》AAO＜初回限定盤A+初回限定盤B+通…\n¥5,200／タワレコ\nhttps://tower.jp/item/8174090",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《3種同時購入特典 \"2026 JO1 NORTH AMERICAN TOUR ‘ANIMAL’開催記念セルカトレカ\"付セット》AAO＜初回限定盤A+初回限定盤B+通…\n¥5,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 199,
+        "lenNoLink": 209,
+        "image": "https://cdn.tower.jp/za/m/54/2050269098254.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8149566",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《3形態同時購入特典トレカ付セット》AAO＜初回限定盤A+初回限定盤B+通常盤＞",
+        "url": "https://tower.jp/item/8149566",
+        "rawUrl": "https://tower.jp/item/8149566",
+        "image": "https://cdn.tower.jp/za/m/21/2050269090821.jpg",
+        "price": 5200,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.458Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《3形態同時購入特典トレカ付セット》AAO＜初回限定盤A+初回限定盤B+通常盤＞\n¥5,200／タワレコ\nhttps://tower.jp/item/8149566",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《3形態同時購入特典トレカ付セット》AAO＜初回限定盤A+初回限定盤B+通常盤＞\n¥5,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 149,
+        "lenNoLink": 159,
+        "image": "https://cdn.tower.jp/za/m/21/2050269090821.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8171014",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "NASCENCE＜初回限定盤C＞",
+        "url": "https://tower.jp/item/8171014",
+        "rawUrl": "https://tower.jp/item/8171014",
+        "image": "",
+        "price": 3850,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.458Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nNASCENCE＜初回限定盤C＞\n¥3,850／タワレコ\nhttps://tower.jp/item/8171014",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nNASCENCE＜初回限定盤C＞\n¥3,850／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 100,
+        "lenNoLink": 110,
+        "image": ""
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8171854",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤B+通常盤/オンライン限定/\"リリース記念SHOWCASE\"ご招待エントリーコード×2付＞",
+        "url": "https://tower.jp/item/8171854",
+        "rawUrl": "https://tower.jp/item/8171854",
+        "image": "",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.458Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤B+通常盤/オンライン限定/\"リリース記…\n¥3,300／タワレコ\nhttps://tower.jp/item/8171854",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤B+通常盤/オンライン限定/\"リリース記…\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 198,
+        "lenNoLink": 208,
+        "image": ""
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8057897",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "One day＜初回限定盤B＞",
+        "url": "https://tower.jp/item/8057897",
+        "rawUrl": "https://tower.jp/item/8057897",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G3934814W.JPG",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.458Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nOne day＜初回限定盤B＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8057897",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nOne day＜初回限定盤B＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 99,
+        "lenNoLink": 109,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G3934814W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8173052",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《3形態同時購入特典予約キャンペーン限定トレカ付セット》AAO＜初回限定盤A+初回限定盤B+通常盤/11TH SINGLE \"AAO\" 発売記念全員トレカお渡し会ご招待エントリーコード付＞",
+        "url": "https://tower.jp/item/8173052",
+        "rawUrl": "https://tower.jp/item/8173052",
+        "image": "https://cdn.tower.jp/za/m/51/2050269097851.jpg",
+        "price": 5200,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.458Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《3形態同時購入特典予約キャンペーン限定トレカ付セット》AAO＜初回限定盤A+初回限定盤B+通常盤/11TH SINGLE \"AAO\" 発売記念全…\n¥5,200／タワレコ\nhttps://tower.jp/item/8173052",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《3形態同時購入特典予約キャンペーン限定トレカ付セット》AAO＜初回限定盤A+初回限定盤B+通常盤/11TH SINGLE \"AAO\" 発売記念全…\n¥5,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 198,
+        "lenNoLink": 208,
+        "image": "https://cdn.tower.jp/za/m/51/2050269097851.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8155309",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "SUIATSU＜初回生産限定盤B＞",
+        "url": "https://tower.jp/item/8155309",
+        "rawUrl": "https://tower.jp/item/8155309",
+        "image": "",
+        "price": 3900,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.458Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nSUIATSU＜初回生産限定盤B＞\n¥3,900／タワレコ\nhttps://tower.jp/item/8155309",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nSUIATSU＜初回生産限定盤B＞\n¥3,900／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 103,
+        "lenNoLink": 113,
+        "image": ""
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8155497",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Touch [CD+DVD]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8155497",
+        "rawUrl": "https://tower.jp/item/8155497",
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3946916W.JPG",
+        "price": 3850,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-08T00:23:23.458Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nTouch [CD+DVD]＜初回限定盤＞\n¥3,850／タワレコ\nhttps://tower.jp/item/8155497",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nTouch [CD+DVD]＜初回限定盤＞\n¥3,850／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 105,
+        "lenNoLink": 115,
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3946916W.JPG"
+      }
+    },
     {
       "type": "new",
       "item": {
