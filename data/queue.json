@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:356670:new",
+      "detectedAt": "2026-10-08T19:47:51.038Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
+      "url": "https://www.c-labo-online.jp/product/356670",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2780,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356670",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8164297:new",
       "detectedAt": "2026-10-08T00:23:23.458Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/410830",
       "textNoLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294882:new",
-      "detectedAt": "2026-09-23T21:16:04.191Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-      "url": "https://www.c-labo-online.jp/product/294882",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2180,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294882",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
