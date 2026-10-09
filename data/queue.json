@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "tower:8171852:new",
+      "detectedAt": "2026-10-09T23:54:22.187Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤/オンライン限定/\"リリース記念SHOWCASE\"ご招待エントリーコード×2付＞",
+      "url": "https://tower.jp/item/8171852",
+      "image": "",
+      "price": 3300,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤/オンライン限定/\"リリース記…\n¥3,300／タワレコ\nhttps://tower.jp/item/8171852",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤/オンライン限定/\"リリース記…\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "tower:8186624:new",
+      "detectedAt": "2026-10-09T23:54:22.186Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【イベント応募用シリアルコード付き】無限大LOVE!!! [CD+Blu-ray Disc]＜初回生産限定盤＞",
+      "url": "https://tower.jp/item/8186624",
+      "image": "https://cdn.tower.jp/za/m/99/4547366846799.jpg",
+      "price": 4400,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント応募用シリアルコード付き】無限大LOVE!!! [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8186624",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント応募用シリアルコード付き】無限大LOVE!!! [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:356628:new",
       "detectedAt": "2026-10-09T19:40:33.002Z",
       "watchLabel": "遊戯王",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+DVD］\n¥4,500／タワレコ\nhttps://tower.jp/item/8176022",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+DVD］\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294881:new",
-      "detectedAt": "2026-09-24T22:06:14.633Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
-      "url": "https://www.c-labo-online.jp/product/294881",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2780,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294881",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8155356:new",
-      "detectedAt": "2026-09-24T18:37:46.550Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "旅＜通常盤＞",
-      "url": "https://tower.jp/item/8155356",
-      "image": "https://cdn.tower.jp/za/m/06/4580831099306.jpg",
-      "price": 2750,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜通常盤＞\n¥2,750／タワレコ\nhttps://tower.jp/item/8155356",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜通常盤＞\n¥2,750／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]

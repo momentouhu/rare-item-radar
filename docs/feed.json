@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-10-09T19:40:59.040Z",
+  "updatedAt": "2026-10-09T23:54:22.187Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-09T23:53:36.907Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8186624",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【イベント応募用シリアルコード付き】無限大LOVE!!! [CD+Blu-ray Disc]＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8186624",
+        "rawUrl": "https://tower.jp/item/8186624",
+        "image": "https://cdn.tower.jp/za/m/99/4547366846799.jpg",
+        "price": 4400,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-09T23:54:22.186Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント応募用シリアルコード付き】無限大LOVE!!! [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8186624",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント応募用シリアルコード付き】無限大LOVE!!! [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 162,
+        "lenNoLink": 172,
+        "image": "https://cdn.tower.jp/za/m/99/4547366846799.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8171852",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤/オンライン限定/\"リリース記念SHOWCASE\"ご招待エントリーコード×2付＞",
+        "url": "https://tower.jp/item/8171852",
+        "rawUrl": "https://tower.jp/item/8171852",
+        "image": "",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-09T23:54:22.187Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤/オンライン限定/\"リリース記…\n¥3,300／タワレコ\nhttps://tower.jp/item/8171852",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤/オンライン限定/\"リリース記…\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 198,
+        "lenNoLink": 208,
+        "image": ""
+      }
+    },
     {
       "type": "restock",
       "item": {
