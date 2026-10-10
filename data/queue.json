@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "clabo:356746:new",
+      "detectedAt": "2026-10-10T11:02:17.615Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/356746",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 3180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/356746",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:414221:new",
+      "detectedAt": "2026-10-10T11:01:47.361Z",
+      "watchLabel": "ユニオンアリーナ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【予約】[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 「マクロス」シリーズ 【UA36BT】(1 BOX =16パック) [第二版/2610]",
+      "url": "https://www.c-labo-online.jp/product/414221",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313031305f6461343930362e706e6700333230000074006669745f686569676874.jpg",
+      "price": 0,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n【予約】[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 「マクロス」シリーズ 【UA36BT】(1 BOX =16パック) [第…\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/414221",
+      "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n【予約】[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 「マクロス」シリーズ 【UA36BT】(1 BOX =16パック) [第…\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:414224:new",
+      "detectedAt": "2026-10-10T11:01:47.083Z",
+      "watchLabel": "ユニオンアリーナ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 天元突破グレンラガン【UA56BT】(1 BOX =16パック) [2608/28]",
+      "url": "https://www.c-labo-online.jp/product/414224",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303831335f3437363263342e706e670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 6160,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 天元突破グレンラガン【UA56BT】(1 BOX =16パック) [2608/28]\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/414224",
+      "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 天元突破グレンラガン【UA56BT】(1 BOX =16パック) [2608/28]\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8171852:new",
       "detectedAt": "2026-10-09T23:54:22.187Z",
       "watchLabel": "限定盤・グッズ",
@@ -1453,51 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+DVD］\n¥4,500／タワレコ\nhttps://tower.jp/item/8176028",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+DVD］\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8176021:new",
-      "detectedAt": "2026-09-25T00:44:11.188Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+Blu-ray Disc］",
-      "url": "https://tower.jp/item/8176021",
-      "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3949216W.JPG",
-      "price": 4500,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+Blu-ray Disc］\n¥4,500／タワレコ\nhttps://tower.jp/item/8176021",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+Blu-ray Disc］\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8176024:new",
-      "detectedAt": "2026-09-25T00:44:11.188Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+Blu-ray Disc］",
-      "url": "https://tower.jp/item/8176024",
-      "image": "https://cdn.tower.jp/za/m/4W/zaP5_G3949214W.JPG",
-      "price": 4500,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+Blu-ray Disc］\n¥4,500／タワレコ\nhttps://tower.jp/item/8176024",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+Blu-ray Disc］\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8176022:new",
-      "detectedAt": "2026-09-25T00:44:11.154Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+DVD］",
-      "url": "https://tower.jp/item/8176022",
-      "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3949217W.JPG",
-      "price": 4500,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+DVD］\n¥4,500／タワレコ\nhttps://tower.jp/item/8176022",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+DVD］\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]

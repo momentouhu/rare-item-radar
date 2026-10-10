@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-10-10T04:53:23.197Z",
+  "updatedAt": "2026-10-10T11:03:20.956Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:414224",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 天元突破グレンラガン【UA56BT】(1 BOX =16パック) [2608/28]",
+        "url": "https://www.c-labo-online.jp/product/414224",
+        "rawUrl": "https://www.c-labo-online.jp/product/414224",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303831335f3437363263342e706e670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 6160,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "unionarena",
+      "watchLabel": "ユニオンアリーナ",
+      "detectedAt": "2026-10-10T11:01:47.083Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 天元突破グレンラガン【UA56BT】(1 BOX =16パック) [2608/28]\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/414224",
+        "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 天元突破グレンラガン【UA56BT】(1 BOX =16パック) [2608/28]\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 198,
+        "lenNoLink": 208,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303831335f3437363263342e706e670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:414221",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【予約】[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 「マクロス」シリーズ 【UA36BT】(1 BOX =16パック) [第二版/2610]",
+        "url": "https://www.c-labo-online.jp/product/414221",
+        "rawUrl": "https://www.c-labo-online.jp/product/414221",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313031305f6461343930362e706e6700333230000074006669745f686569676874.jpg",
+        "price": 0,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "unionarena",
+      "watchLabel": "ユニオンアリーナ",
+      "detectedAt": "2026-10-10T11:01:47.361Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n【予約】[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 「マクロス」シリーズ 【UA36BT】(1 BOX =16パック) [第…\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/414221",
+        "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n【予約】[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 「マクロス」シリーズ 【UA36BT】(1 BOX =16パック) [第…\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 204,
+        "lenNoLink": 214,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313031305f6461343930362e706e6700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356746",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/356746",
+        "rawUrl": "https://www.c-labo-online.jp/product/356746",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 3180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-10T11:02:17.615Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/356746",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
