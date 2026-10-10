@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-10T20:17:00.861Z",
+  "updatedAt": "2026-10-10T23:46:28.407Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8165014",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Blue Rose＜初回限定盤＞",
+        "url": "https://tower.jp/item/8165014",
+        "rawUrl": "https://tower.jp/item/8165014",
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4893973W.JPG",
+        "price": 4950,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-10T23:46:28.373Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nBlue Rose＜初回限定盤＞\n¥4,950／タワレコ\nhttps://tower.jp/item/8165014",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nBlue Rose＜初回限定盤＞\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 100,
+        "lenNoLink": 110,
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4893973W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {

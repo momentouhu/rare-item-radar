@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "tower:8165014:new",
+      "detectedAt": "2026-10-10T23:46:28.373Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "Blue Rose＜初回限定盤＞",
+      "url": "https://tower.jp/item/8165014",
+      "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4893973W.JPG",
+      "price": 4950,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nBlue Rose＜初回限定盤＞\n¥4,950／タワレコ\nhttps://tower.jp/item/8165014",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nBlue Rose＜初回限定盤＞\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294882:restock",
       "detectedAt": "2026-10-10T20:16:33.678Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🔥【在庫復活】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294906",
       "textNoLink": "🔥【在庫復活】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8127591:restock",
-      "detectedAt": "2026-09-25T05:58:54.751Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "BUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞",
-      "url": "https://tower.jp/item/8127591",
-      "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1378363W.JPG",
-      "price": 2420,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,420／タワレコ\nhttps://tower.jp/item/8127591",
-      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,420／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]

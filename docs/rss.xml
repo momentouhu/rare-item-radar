@@ -3,7 +3,14 @@
   <title>レアもの速報</title>
   <link>https://momentouhu.github.io/rare-item-radar/</link>
   <description>トレカ再販・予約開始・在庫復活を自動で見張るレーダー</description>
-  <lastBuildDate>Sat, 10 Oct 2026 20:17:00 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 23:46:28 GMT</lastBuildDate>
+  <item>
+    <title>🆕【新着・予約開始】Blue Rose＜初回限定盤＞</title>
+    <link>https://tower.jp/item/8165014</link>
+    <guid isPermaLink="false">tower:8165014:new</guid>
+    <pubDate>Sat, 10 Oct 2026 23:46:28 GMT</pubDate>
+    <description>¥4,950 / タワレコ</description>
+  </item>
   <item>
     <title>🔥【在庫復活】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]</title>
     <link>https://www.c-labo-online.jp/product/339521</link>
@@ -346,12 +353,5 @@
     <guid isPermaLink="false">clabo:356749:new</guid>
     <pubDate>Sat, 03 Oct 2026 00:40:35 GMT</pubDate>
     <description>¥2,780 / カードラボ</description>
-  </item>
-  <item>
-    <title>🆕【新着・予約開始】Chronicle '70s＜初回限定盤＞</title>
-    <link>https://tower.jp/item/8168545</link>
-    <guid isPermaLink="false">tower:8168545:new</guid>
-    <pubDate>Sat, 03 Oct 2026 00:41:01 GMT</pubDate>
-    <description>¥3,490 / タワレコ</description>
   </item>
 </channel></rss>
