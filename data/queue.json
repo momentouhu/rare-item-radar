@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "clabo:294906:pricedrop",
+      "detectedAt": "2026-10-11T20:51:50.630Z",
+      "watchLabel": "遊戯王",
+      "label": "19%値下げ",
+      "emoji": "📉",
+      "title": "【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024",
+      "url": "https://www.c-labo-online.jp/product/294906",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 2580,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "📉【19%値下げ】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥3,180 → ¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294906",
+      "textNoLink": "📉【19%値下げ】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥3,180 → ¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:350756:restock",
+      "detectedAt": "2026-10-11T20:51:30.164Z",
+      "watchLabel": "ガンダムカードゲーム",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+      "url": "https://www.c-labo-online.jp/product/350756",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+      "price": 5808,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
+      "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8165014:new",
       "detectedAt": "2026-10-10T23:46:28.373Z",
       "watchLabel": "限定盤・グッズ",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤A＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138149",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤A＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8138152:new",
-      "detectedAt": "2026-09-26T01:52:58.186Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "The Way of L.O.V-E [CD+DVD]＜初回限定盤B＞",
-      "url": "https://tower.jp/item/8138152",
-      "image": "https://cdn.tower.jp/za/m/1W/zaP5_G4886671W.JPG",
-      "price": 4620,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138152",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+DVD]＜初回限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294906:restock",
-      "detectedAt": "2026-09-25T19:55:33.721Z",
-      "watchLabel": "遊戯王",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-      "url": "https://www.c-labo-online.jp/product/294906",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-      "price": 3180,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🔥【在庫復活】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294906",
-      "textNoLink": "🔥【在庫復活】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
