@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-12T06:23:08.099Z",
+  "updatedAt": "2026-10-12T15:57:19.822Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8143792",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "《2形態同時購入特典付セット》COMING SOON＜初回限定盤A+通常盤/応募シリアルナンバー×2付＞",
+        "url": "https://tower.jp/item/8143792",
+        "rawUrl": "https://tower.jp/item/8143792",
+        "image": "https://cdn.tower.jp/za/m/42/2050269089542.jpg",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-12T15:57:19.796Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態同時購入特典付セット》COMING SOON＜初回限定盤A+通常盤/応募シリアルナンバー×2付＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8143792",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態同時購入特典付セット》COMING SOON＜初回限定盤A+通常盤/応募シリアルナンバー×2付＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 165,
+        "lenNoLink": 175,
+        "image": "https://cdn.tower.jp/za/m/42/2050269089542.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {

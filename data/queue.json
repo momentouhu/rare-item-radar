@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "tower:8143792:new",
+      "detectedAt": "2026-10-12T15:57:19.796Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "《2形態同時購入特典付セット》COMING SOON＜初回限定盤A+通常盤/応募シリアルナンバー×2付＞",
+      "url": "https://tower.jp/item/8143792",
+      "image": "https://cdn.tower.jp/za/m/42/2050269089542.jpg",
+      "price": 3300,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態同時購入特典付セット》COMING SOON＜初回限定盤A+通常盤/応募シリアルナンバー×2付＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8143792",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態同時購入特典付セット》COMING SOON＜初回限定盤A+通常盤/応募シリアルナンバー×2付＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:378334:new",
       "detectedAt": "2026-10-12T00:18:40.901Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック ソードアート・オンラインVol.2【EX08BT】(1 BOX =16パック) [11…\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/411098",
       "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック ソードアート・オンラインVol.2【EX08BT】(1 BOX =16パック) [11…\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294996:new",
-      "detectedAt": "2026-09-26T22:29:33.391Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-      "url": "https://www.c-labo-online.jp/product/294996",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2180,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294996",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
