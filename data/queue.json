@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:295031:new",
+      "detectedAt": "2026-10-13T23:02:46.442Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/295031",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/295031",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8140769:new",
       "detectedAt": "2026-10-13T18:05:04.861Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "ホビーサーチ",
       "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)\n¥6,358／ホビーサーチ\nhttps://www.1999.co.jp/10079253",
       "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)\n¥6,358／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:356610:new",
-      "detectedAt": "2026-09-28T08:24:12.760Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
-      "url": "https://www.c-labo-online.jp/product/356610",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2780,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356610",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
