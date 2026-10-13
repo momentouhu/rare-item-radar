@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-13T10:58:14.257Z",
+  "updatedAt": "2026-10-13T18:05:04.861Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8064522",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "よだか [Blu-ray Disc+フォトブック+グッズ]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8064522",
+        "rawUrl": "https://tower.jp/item/8064522",
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G3935553W.JPG",
+        "price": 11000,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-13T18:05:04.684Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nよだか [Blu-ray Disc+フォトブック+グッズ]＜初回限定盤＞\n¥11,000／タワレコ\nhttps://tower.jp/item/8064522",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nよだか [Blu-ray Disc+フォトブック+グッズ]＜初回限定盤＞\n¥11,000／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 133,
+        "lenNoLink": 143,
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G3935553W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8140769",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "愛のダバダ [CD+Blu-ray Disc]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8140769",
+        "rawUrl": "https://tower.jp/item/8140769",
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_G3943732W.JPG",
+        "price": 4800,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-13T18:05:04.861Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n愛のダバダ [CD+Blu-ray Disc]＜初回限定盤＞\n¥4,800／タワレコ\nhttps://tower.jp/item/8140769",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n愛のダバダ [CD+Blu-ray Disc]＜初回限定盤＞\n¥4,800／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 119,
+        "lenNoLink": 129,
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_G3943732W.JPG"
+      }
+    },
     {
       "type": "pricedrop",
       "item": {
