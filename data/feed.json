@@ -1,6 +1,186 @@
 {
-  "updatedAt": "2026-10-13T23:03:12.185Z",
+  "updatedAt": "2026-10-14T02:07:21.638Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:4347948",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ニンテンドー3DS ポケモン サン・ムーン スーパーミュージック・コンプリート",
+        "url": "https://tower.jp/item/4347948",
+        "rawUrl": "https://tower.jp/item/4347948",
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G8282435W.JPG",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-14T02:07:21.335Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nニンテンドー3DS ポケモン サン・ムーン スーパーミュージック・コンプリート\n¥3,300／タワレコ\nhttps://tower.jp/item/4347948",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nニンテンドー3DS ポケモン サン・ムーン スーパーミュージック・コンプリート\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 149,
+        "lenNoLink": 159,
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G8282435W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8148897",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "FULL CIRCLE [CD+DVD+ブックレット+トレーディングカード]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8148897",
+        "rawUrl": "https://tower.jp/item/8148897",
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_H1375935W.JPG",
+        "price": 7040,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-14T02:07:21.637Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nFULL CIRCLE [CD+DVD+ブックレット+トレーディングカード]＜初回限定盤＞\n¥7,040／タワレコ\nhttps://tower.jp/item/8148897",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nFULL CIRCLE [CD+DVD+ブックレット+トレーディングカード]＜初回限定盤＞\n¥7,040／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 145,
+        "lenNoLink": 155,
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_H1375935W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8153611",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "最後に熱い日々を狂わしき想いで [CD+DVD]＜初回限定仕様盤B＞",
+        "url": "https://tower.jp/item/8153611",
+        "rawUrl": "https://tower.jp/item/8153611",
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G4888601W.JPG",
+        "price": 6160,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-14T02:07:21.638Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n最後に熱い日々を狂わしき想いで [CD+DVD]＜初回限定仕様盤B＞\n¥6,160／タワレコ\nhttps://tower.jp/item/8153611",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n最後に熱い日々を狂わしき想いで [CD+DVD]＜初回限定仕様盤B＞\n¥6,160／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 135,
+        "lenNoLink": 145,
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G4888601W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8153607",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "最後に熱い日々を狂わしき想いで [CD+Blu-ray Disc]＜初回限定仕様盤A＞",
+        "url": "https://tower.jp/item/8153607",
+        "rawUrl": "https://tower.jp/item/8153607",
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_G4888599W.JPG",
+        "price": 6160,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-14T02:07:21.638Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n最後に熱い日々を狂わしき想いで [CD+Blu-ray Disc]＜初回限定仕様盤A＞\n¥6,160／タワレコ\nhttps://tower.jp/item/8153607",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n最後に熱い日々を狂わしき想いで [CD+Blu-ray Disc]＜初回限定仕様盤A＞\n¥6,160／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_G4888599W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8135065",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ファーストキス [CD+Blu-ray Disc]＜初回生産限定盤(ライブ盤)＞",
+        "url": "https://tower.jp/item/8135065",
+        "rawUrl": "https://tower.jp/item/8135065",
+        "image": "https://cdn.tower.jp/za/m/44/4547366843644.jpg",
+        "price": 7900,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-14T02:07:21.638Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nファーストキス [CD+Blu-ray Disc]＜初回生産限定盤(ライブ盤)＞\n¥7,900／タワレコ\nhttps://tower.jp/item/8135065",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nファーストキス [CD+Blu-ray Disc]＜初回生産限定盤(ライブ盤)＞\n¥7,900／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 137,
+        "lenNoLink": 147,
+        "image": "https://cdn.tower.jp/za/m/44/4547366843644.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8138192",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "あたえてこ [CD+Blu-ray Disc]＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8138192",
+        "rawUrl": "https://tower.jp/item/8138192",
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G3949221W.JPG",
+        "price": 6490,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-14T02:07:21.638Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nあたえてこ [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥6,490／タワレコ\nhttps://tower.jp/item/8138192",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nあたえてこ [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥6,490／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 123,
+        "lenNoLink": 133,
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G3949221W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {
