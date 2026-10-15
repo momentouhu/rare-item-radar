@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:356704:new",
+      "detectedAt": "2026-10-15T22:37:14.310Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
+      "url": "https://www.c-labo-online.jp/product/356704",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2780,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356704",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:359940:new",
       "detectedAt": "2026-10-15T19:21:04.799Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 ひらがな・カタカナ\n価格未定／タワレコ\nhttps://tower.jp/item/6216179",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 ひらがな・カタカナ\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:5761807:new",
-      "detectedAt": "2026-10-01T00:45:46.981Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "ポケモンずかんドリル 小学1年生 すう・ずけい・たんい",
-      "url": "https://tower.jp/item/5761807",
-      "image": "https://cdn.tower.jp/57/m/07/5761807.jpg",
-      "price": 0,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 すう・ずけい・たんい\n価格未定／タワレコ\nhttps://tower.jp/item/5761807",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 すう・ずけい・たんい\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
