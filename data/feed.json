@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-10-15T05:03:12.464Z",
+  "updatedAt": "2026-10-15T10:14:34.924Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "sevennet:2190052375",
+        "source": "sevennet",
+        "sourceLabel": "セブンネット",
+        "title": "ワンピースカードゲーム EXブースター ONE PIECE Heroines Edition vol.2[EB-05]",
+        "url": "https://7net.omni7.jp/detail/2190052375.html",
+        "rawUrl": "https://7net.omni7.jp/detail/2190052375.html",
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw6da69b91/033024/4500000612921.jpg?sw=640",
+        "price": 5782,
+        "inStock": true,
+        "shop": "セブンネットショッピング",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "onepiece",
+      "watchLabel": "ワンピースカード",
+      "detectedAt": "2026-10-15T10:12:41.866Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ワンピースカード\nワンピースカードゲーム EXブースター ONE PIECE Heroines Edition vol.2[EB-05]\n¥5,782／セブンネット\nhttps://7net.omni7.jp/detail/2190052375.html\n#ワンピカード #ONEPIECEカードゲーム",
+        "textNoLink": "🆕【新着・予約開始】ワンピースカード\nワンピースカードゲーム EXブースター ONE PIECE Heroines Edition vol.2[EB-05]\n¥5,782／セブンネット\n🔗 詳細はプロフィールのリンクから\n#ワンピカード #ONEPIECEカードゲーム",
+        "lenWithLink": 194,
+        "lenNoLink": 204,
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw6da69b91/033024/4500000612921.jpg?sw=640"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "sevennet:2190052374",
+        "source": "sevennet",
+        "sourceLabel": "セブンネット",
+        "title": "ガンダムカードゲーム ブースターパック Stardust Trails[GD06]",
+        "url": "https://7net.omni7.jp/detail/2190052374.html",
+        "rawUrl": "https://7net.omni7.jp/detail/2190052374.html",
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw0d6c21d7/033024/4500000612891.jpg?sw=640",
+        "price": 6019,
+        "inStock": true,
+        "shop": "セブンネットショッピング",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-15T10:13:49.229Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ガンダムカードゲーム\nガンダムカードゲーム ブースターパック Stardust Trails[GD06]\n¥6,019／セブンネット\nhttps://7net.omni7.jp/detail/2190052374.html",
+        "textNoLink": "🆕【新着・予約開始】ガンダムカードゲーム\nガンダムカードゲーム ブースターパック Stardust Trails[GD06]\n¥6,019／セブンネット\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 146,
+        "lenNoLink": 156,
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw0d6c21d7/033024/4500000612891.jpg?sw=640"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "sevennet:2190053048",
+        "source": "sevennet",
+        "sourceLabel": "セブンネット",
+        "title": "ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック REACH THE GOD [FB12]",
+        "url": "https://7net.omni7.jp/detail/2190053048.html",
+        "rawUrl": "https://7net.omni7.jp/detail/2190053048.html",
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw80196ad8/033024/4500000612907.jpg?sw=640",
+        "price": 5782,
+        "inStock": true,
+        "shop": "セブンネットショッピング",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "dragonball-fw",
+      "watchLabel": "ドラゴンボール フュージョンワールド",
+      "detectedAt": "2026-10-15T10:13:59.092Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ドラゴンボール フュージョンワールド\nドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック REACH THE GOD [FB12]\n¥5,782／セブンネット\nhttps://7net.omni7.jp/detail/2190053048.html",
+        "textNoLink": "🆕【新着・予約開始】ドラゴンボール フュージョンワールド\nドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック REACH THE GOD [FB12]\n¥5,782／セブンネット\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 195,
+        "lenNoLink": 205,
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw80196ad8/033024/4500000612907.jpg?sw=640"
+      }
+    },
     {
       "type": "new",
       "item": {

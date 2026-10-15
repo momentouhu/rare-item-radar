@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "sevennet:2190053048:new",
+      "detectedAt": "2026-10-15T10:13:59.092Z",
+      "watchLabel": "ドラゴンボール フュージョンワールド",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック REACH THE GOD [FB12]",
+      "url": "https://7net.omni7.jp/detail/2190053048.html",
+      "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw80196ad8/033024/4500000612907.jpg?sw=640",
+      "price": 5782,
+      "sourceLabel": "セブンネット",
+      "textWithLink": "🆕【新着・予約開始】ドラゴンボール フュージョンワールド\nドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック REACH THE GOD [FB12]\n¥5,782／セブンネット\nhttps://7net.omni7.jp/detail/2190053048.html",
+      "textNoLink": "🆕【新着・予約開始】ドラゴンボール フュージョンワールド\nドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック REACH THE GOD [FB12]\n¥5,782／セブンネット\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "sevennet:2190052374:new",
+      "detectedAt": "2026-10-15T10:13:49.229Z",
+      "watchLabel": "ガンダムカードゲーム",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ガンダムカードゲーム ブースターパック Stardust Trails[GD06]",
+      "url": "https://7net.omni7.jp/detail/2190052374.html",
+      "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw0d6c21d7/033024/4500000612891.jpg?sw=640",
+      "price": 6019,
+      "sourceLabel": "セブンネット",
+      "textWithLink": "🆕【新着・予約開始】ガンダムカードゲーム\nガンダムカードゲーム ブースターパック Stardust Trails[GD06]\n¥6,019／セブンネット\nhttps://7net.omni7.jp/detail/2190052374.html",
+      "textNoLink": "🆕【新着・予約開始】ガンダムカードゲーム\nガンダムカードゲーム ブースターパック Stardust Trails[GD06]\n¥6,019／セブンネット\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "sevennet:2190052375:new",
+      "detectedAt": "2026-10-15T10:12:41.866Z",
+      "watchLabel": "ワンピースカード",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "ワンピースカードゲーム EXブースター ONE PIECE Heroines Edition vol.2[EB-05]",
+      "url": "https://7net.omni7.jp/detail/2190052375.html",
+      "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw6da69b91/033024/4500000612921.jpg?sw=640",
+      "price": 5782,
+      "sourceLabel": "セブンネット",
+      "textWithLink": "🆕【新着・予約開始】ワンピースカード\nワンピースカードゲーム EXブースター ONE PIECE Heroines Edition vol.2[EB-05]\n¥5,782／セブンネット\nhttps://7net.omni7.jp/detail/2190052375.html\n#ワンピカード #ONEPIECEカードゲーム",
+      "textNoLink": "🆕【新着・予約開始】ワンピースカード\nワンピースカードゲーム EXブースター ONE PIECE Heroines Edition vol.2[EB-05]\n¥5,782／セブンネット\n🔗 詳細はプロフィールのリンクから\n#ワンピカード #ONEPIECEカードゲーム",
+      "posted": {}
+    },
+    {
       "id": "clabo:356672:new",
       "detectedAt": "2026-10-15T00:21:37.199Z",
       "watchLabel": "遊戯王",
@@ -1453,51 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン サイエンスブック みず・こおり 流れる、こおる、消える!? 水の不思議を探れ!\n価格未定／タワレコ\nhttps://tower.jp/item/7690139",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン サイエンスブック みず・こおり 流れる、こおる、消える!? 水の不思議を探れ!\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8041289:new",
-      "detectedAt": "2026-10-01T00:45:46.981Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "キャラぱふぇ ちいかわアクリルスタンプ特大号",
-      "url": "https://tower.jp/item/8041289",
-      "image": "https://cdn.tower.jp/80/m/89/8041289.jpg",
-      "price": 0,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nキャラぱふぇ ちいかわアクリルスタンプ特大号\n価格未定／タワレコ\nhttps://tower.jp/item/8041289",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nキャラぱふぇ ちいかわアクリルスタンプ特大号\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:6832014:new",
-      "detectedAt": "2026-10-01T00:45:46.980Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "ポケモン生態図鑑",
-      "url": "https://tower.jp/item/6832014",
-      "image": "https://cdn.tower.jp/za/m/66/9784092274266.jpg",
-      "price": 0,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン生態図鑑\n価格未定／タワレコ\nhttps://tower.jp/item/6832014",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン生態図鑑\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:5305434:new",
-      "detectedAt": "2026-10-01T00:45:46.980Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "ポケモンTVアニメ主題歌 BEST 2019-2022＜通常盤＞",
-      "url": "https://tower.jp/item/5305434",
-      "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3748738W.JPG",
-      "price": 0,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンTVアニメ主題歌 BEST 2019-2022＜通常盤＞\n価格未定／タワレコ\nhttps://tower.jp/item/5305434",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンTVアニメ主題歌 BEST 2019-2022＜通常盤＞\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
