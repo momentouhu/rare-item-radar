@@ -1,6 +1,216 @@
 {
-  "updatedAt": "2026-10-15T22:37:40.321Z",
+  "updatedAt": "2026-10-16T01:04:27.832Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-16T01:03:41.049Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:409898",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - コレクター・ブースター 日本語版（1 BOX =12パック入り） [再入荷/26年11月下旬予定]",
+        "url": "https://www.c-labo-online.jp/product/409898",
+        "rawUrl": "https://www.c-labo-online.jp/product/409898",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313030335f3964393437312e6a706700333230000074006669745f686569676874.jpg",
+        "price": 38544,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "mtg",
+      "watchLabel": "マジック：ザ・ギャザリング",
+      "detectedAt": "2026-10-16T01:02:52.583Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - コレクター・ブースター 日本語版…\n¥38,544／カードラボ\nhttps://www.c-labo-online.jp/product/409898\n#MTG",
+        "textNoLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - コレクター・ブースター 日本語版…\n¥38,544／カードラボ\n🔗 詳細はプロフィールのリンクから\n#MTG",
+        "lenWithLink": 218,
+        "lenNoLink": 228,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313030335f3964393437312e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:413590",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Freedom Ascension【GD05】(1 BOX =24パック) [2607/25]",
+        "url": "https://www.c-labo-online.jp/product/413590",
+        "rawUrl": "https://www.c-labo-online.jp/product/413590",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303531325f3437616635662e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 6000,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-16T01:03:41.050Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Freedom Ascension【GD05】(1 BOX =24パック) [2607/25]\n¥6,000／カードラボ\nhttps://www.c-labo-online.jp/product/413590",
+        "textNoLink": "🆕【新着・予約開始】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Freedom Ascension【GD05】(1 BOX =24パック) [2607/25]\n¥6,000／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 190,
+        "lenNoLink": 200,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303531325f3437616635662e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8189999",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【視聴用シリアルコード付き】SALT BOY ＜初回限定盤B＞ [CD+DVD]",
+        "url": "https://tower.jp/item/8189999",
+        "rawUrl": "https://tower.jp/item/8189999",
+        "image": "",
+        "price": 2200,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-16T01:04:27.832Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤B＞ [CD+DVD]\n¥2,200／タワレコ\nhttps://tower.jp/item/8189999",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤B＞ [CD+DVD]\n¥2,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 138,
+        "lenNoLink": 148,
+        "image": ""
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8189997",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【視聴用シリアルコード付き】SALT BOY ＜初回限定盤A＞ [CD+DVD]",
+        "url": "https://tower.jp/item/8189997",
+        "rawUrl": "https://tower.jp/item/8189997",
+        "image": "",
+        "price": 2200,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-16T01:04:27.832Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤A＞ [CD+DVD]\n¥2,200／タワレコ\nhttps://tower.jp/item/8189997",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤A＞ [CD+DVD]\n¥2,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 138,
+        "lenNoLink": 148,
+        "image": ""
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8189996",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【視聴用シリアルコード付き】SALT BOY ＜初回限定盤A＞ [CD+Blu-ray Disc]",
+        "url": "https://tower.jp/item/8189996",
+        "rawUrl": "https://tower.jp/item/8189996",
+        "image": "",
+        "price": 2530,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-16T01:04:27.832Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤A＞ [CD+Blu-ray Disc]\n¥2,530／タワレコ\nhttps://tower.jp/item/8189996",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤A＞ [CD+Blu-ray Disc]\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 147,
+        "lenNoLink": 157,
+        "image": ""
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8189998",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【視聴用シリアルコード付き】SALT BOY ＜初回限定盤B＞ [CD+Blu-ray Disc]",
+        "url": "https://tower.jp/item/8189998",
+        "rawUrl": "https://tower.jp/item/8189998",
+        "image": "",
+        "price": 2530,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-16T01:04:27.832Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤B＞ [CD+Blu-ray Disc]\n¥2,530／タワレコ\nhttps://tower.jp/item/8189998",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤B＞ [CD+Blu-ray Disc]\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 147,
+        "lenNoLink": 157,
+        "image": ""
+      }
+    },
     {
       "type": "restock",
       "item": {
