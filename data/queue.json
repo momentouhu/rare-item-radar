@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "clabo:294921:new",
+      "detectedAt": "2026-10-18T13:04:59.054Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+      "url": "https://www.c-labo-online.jp/product/294921",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2580,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294921",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:294919:new",
+      "detectedAt": "2026-10-18T13:04:59.028Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/294919",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294919",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:356626:new",
       "detectedAt": "2026-10-16T22:40:38.871Z",
       "watchLabel": "遊戯王",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケットモンスター スカーレット・バイオレット ゼロの秘宝 オフィシャルファンブック ワンダーライフスペシャル\n価格未定／タワレコ\nhttps://tower.jp/item/6273710",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケットモンスター スカーレット・バイオレット ゼロの秘宝 オフィシャルファンブック ワンダーライフスペシャル\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8046103:new",
-      "detectedAt": "2026-10-01T00:45:46.981Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "ポケモン サイエンスブック くさ 草、花、タネ、森…植物の不思議を解き明かす!",
-      "url": "https://tower.jp/item/8046103",
-      "image": "https://cdn.tower.jp/80/m/03/8046103.jpg",
-      "price": 0,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン サイエンスブック くさ 草、花、タネ、森…植物の不思議を解き明かす!\n価格未定／タワレコ\nhttps://tower.jp/item/8046103",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン サイエンスブック くさ 草、花、タネ、森…植物の不思議を解き明かす!\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:5813205:new",
-      "detectedAt": "2026-10-01T00:45:46.981Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "ポケモンをさがせ!2",
-      "url": "https://tower.jp/item/5813205",
-      "image": "https://cdn.tower.jp/58/m/05/5813205.jpg",
-      "price": 0,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンをさがせ!2\n価格未定／タワレコ\nhttps://tower.jp/item/5813205",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンをさがせ!2\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
