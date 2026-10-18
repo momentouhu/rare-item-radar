@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-10-18T19:19:11.292Z",
+  "updatedAt": "2026-10-18T21:43:46.679Z",
   "events": [
+    {
+      "type": "pricedrop",
+      "item": {
+        "id": "clabo:294901",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033",
+        "url": "https://www.c-labo-online.jp/product/294901",
+        "rawUrl": "https://www.c-labo-online.jp/product/294901",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "26%値下げ",
+      "emoji": "📉",
+      "score": 106.45502645502646,
+      "prevPrice": 3780,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-18T21:43:18.723Z",
+      "post": {
+        "textWithLink": "📉【26%値下げ】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥3,780 → ¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294901",
+        "textNoLink": "📉【26%値下げ】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥3,780 → ¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 155,
+        "lenNoLink": 165,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
