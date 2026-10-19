@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:294900:new",
+      "detectedAt": "2026-10-19T21:42:13.843Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/294900",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294900",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "hobbysearch:11488445:new",
       "detectedAt": "2026-10-19T10:10:53.165Z",
       "watchLabel": "フィギュア・ホビー",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLive In London 1979＜初回限定盤＞\n¥2,790／タワレコ\nhttps://tower.jp/item/8168538",
       "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLive In London 1979＜初回限定盤＞\n¥2,790／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8037199:restock",
-      "detectedAt": "2026-10-01T06:59:50.974Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "ポケモン公式ぜんこく図鑑 1996-2026 (-)",
-      "url": "https://tower.jp/item/8037199",
-      "image": "https://cdn.tower.jp/80/m/99/8037199.jpg",
-      "price": 2750,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nポケモン公式ぜんこく図鑑 1996-2026 (-)\n¥2,750／タワレコ\nhttps://tower.jp/item/8037199",
-      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nポケモン公式ぜんこく図鑑 1996-2026 (-)\n¥2,750／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
