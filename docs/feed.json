@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-10-19T04:27:50.640Z",
+  "updatedAt": "2026-10-19T10:11:53.922Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11488446",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "TENITOL TALL フェルン クラシカルワンピースver. (フィギュア)",
+        "url": "https://www.1999.co.jp/11488446",
+        "rawUrl": "https://www.1999.co.jp/11488446",
+        "image": "https://www.1999.co.jp/itbig148/11488446.jpg",
+        "price": 10450,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2027年6月 発売予定"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-10-19T10:10:53.140Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nTENITOL TALL フェルン クラシカルワンピースver. (フィギュア)\n¥10,450／ホビーサーチ\nhttps://www.1999.co.jp/11488446",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nTENITOL TALL フェルン クラシカルワンピースver. (フィギュア)\n¥10,450／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 145,
+        "lenNoLink": 155,
+        "image": "https://www.1999.co.jp/itbig148/11488446.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11488445",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "TENITOL TALL フリーレン クラシカルワンピースver. (フィギュア)",
+        "url": "https://www.1999.co.jp/11488445",
+        "rawUrl": "https://www.1999.co.jp/11488445",
+        "image": "https://www.1999.co.jp/itbig148/11488445.jpg",
+        "price": 10450,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2027年6月 発売予定"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-10-19T10:10:53.165Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nTENITOL TALL フリーレン クラシカルワンピースver. (フィギュア)\n¥10,450／ホビーサーチ\nhttps://www.1999.co.jp/11488445",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nTENITOL TALL フリーレン クラシカルワンピースver. (フィギュア)\n¥10,450／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 147,
+        "lenNoLink": 157,
+        "image": "https://www.1999.co.jp/itbig148/11488445.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
