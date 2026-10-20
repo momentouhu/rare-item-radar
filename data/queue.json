@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "tower:8152868:new",
+      "detectedAt": "2026-10-20T19:55:20.601Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "椎名林檎 党大会 令和八年列島巡回 [Blu-ray Disc+ブックレット]＜初回限定盤＞",
+      "url": "https://tower.jp/item/8152868",
+      "image": "https://cdn.tower.jp/za/m/0W/zaP5_H1375320W.JPG",
+      "price": 7700,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n椎名林檎 党大会 令和八年列島巡回 [Blu-ray Disc+ブックレット]＜初回限定盤＞\n¥7,700／タワレコ\nhttps://tower.jp/item/8152868",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n椎名林檎 党大会 令和八年列島巡回 [Blu-ray Disc+ブックレット]＜初回限定盤＞\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8162861:new",
       "detectedAt": "2026-10-20T15:48:20.139Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\nhttps://tower.jp/item/8052873",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294912:new",
-      "detectedAt": "2026-10-01T23:46:39.849Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
-      "url": "https://www.c-labo-online.jp/product/294912",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2780,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294912",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
