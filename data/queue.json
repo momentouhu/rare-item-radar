@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "tower:8145475:new",
+      "detectedAt": "2026-10-21T01:29:44.551Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "Firestarter [CD+DVD]＜初回生産限定盤＞",
+      "url": "https://tower.jp/item/8145475",
+      "image": "https://cdn.tower.jp/za/m/76/4547366846676.jpg",
+      "price": 2500,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nFirestarter [CD+DVD]＜初回生産限定盤＞\n¥2,500／タワレコ\nhttps://tower.jp/item/8145475",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nFirestarter [CD+DVD]＜初回生産限定盤＞\n¥2,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "tower:8158091:new",
+      "detectedAt": "2026-10-21T01:29:44.220Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "KOIAI LIVE TOUR 2026 「Starting Over」in TOKYO -HEAVY KAWAII FES 2026-＜初回限定盤＞",
+      "url": "https://tower.jp/item/8158091",
+      "image": "https://cdn.tower.jp/za/m/6W/zaP5_G4893946W.JPG",
+      "price": 9500,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nKOIAI LIVE TOUR 2026 「Starting Over」in TOKYO -HEAVY KAWAII FES 2026-＜初回限定盤＞\n¥9,500／タワレコ\nhttps://tower.jp/item/8158091",
+      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nKOIAI LIVE TOUR 2026 「Starting Over」in TOKYO -HEAVY KAWAII FES 2026-＜初回限定盤＞\n¥9,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8152868:new",
       "detectedAt": "2026-10-20T19:55:20.601Z",
       "watchLabel": "限定盤・グッズ",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294890",
       "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8146700:new",
-      "detectedAt": "2026-10-01T23:47:05.771Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "ポケットモンスター ビジュアルアートブック 30th anniversary Art Book of Pokémon Video Games developed by GAME FREAK BOOK1 (-)",
-      "url": "https://tower.jp/item/8146700",
-      "image": "https://cdn.tower.jp/81/m/00/8146700.jpg",
-      "price": 5500,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケットモンスター ビジュアルアートブック 30th anniversary Art Book of Pokémon Video Games developed by GAME FREAK BOOK…\n¥5,500／タワレコ\nhttps://tower.jp/item/8146700",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケットモンスター ビジュアルアートブック 30th anniversary Art Book of Pokémon Video Games developed by GAME FREAK BOOK…\n¥5,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8052873:new",
-      "detectedAt": "2026-10-01T23:47:05.771Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "UNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞",
-      "url": "https://tower.jp/item/8052873",
-      "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3949340W.JPG",
-      "price": 10230,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\nhttps://tower.jp/item/8052873",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
