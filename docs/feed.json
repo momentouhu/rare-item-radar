@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-22T15:34:18.016Z",
+  "updatedAt": "2026-10-22T19:50:50.309Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:350756",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/350756",
+        "rawUrl": "https://www.c-labo-online.jp/product/350756",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-22T19:50:03.652Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8993,36 +9023,6 @@
         "lenWithLink": 138,
         "lenNoLink": 148,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:408352",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "カードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]",
-        "url": "https://www.c-labo-online.jp/product/408352",
-        "rawUrl": "https://www.c-labo-online.jp/product/408352",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-        "price": 0,
-        "inStock": false,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "onepiece",
-      "watchLabel": "ワンピースカード",
-      "detectedAt": "2026-09-13T12:36:06.218Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】ワンピースカード\nカードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/408352\n#ワンピカード #ONEPIECEカードゲーム",
-        "textNoLink": "🆕【新着・予約開始】ワンピースカード\nカードラボオンラインショップ 夏福袋[2] 【2026】[ 予約 /2609]\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから\n#ワンピカード #ONEPIECEカードゲーム",
-        "lenWithLink": 178,
-        "lenNoLink": 188,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
       }
     }
   ]
