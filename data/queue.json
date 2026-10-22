@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "clabo:294942:new",
+      "detectedAt": "2026-10-22T23:03:11.745Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002",
+      "url": "https://www.c-labo-online.jp/product/294942",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030322e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 3780,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\nhttps://www.c-labo-online.jp/product/294942",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:295010:new",
+      "detectedAt": "2026-10-22T23:03:11.745Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043",
+      "url": "https://www.c-labo-online.jp/product/295010",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 2180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/295010",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8064522:restock",
       "detectedAt": "2026-10-22T10:30:06.150Z",
       "watchLabel": "限定盤・グッズ",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nChronicle '70s＜初回限定盤＞\n¥3,490／タワレコ\nhttps://tower.jp/item/8168545",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nChronicle '70s＜初回限定盤＞\n¥3,490／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8176170:new",
-      "detectedAt": "2026-10-03T00:41:01.255Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞",
-      "url": "https://tower.jp/item/8176170",
-      "image": "https://cdn.tower.jp/za/m/4W/zaP5_H1377624W.JPG",
-      "price": 4950,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞\n¥4,950／タワレコ\nhttps://tower.jp/item/8176170",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8176167:new",
-      "detectedAt": "2026-10-03T00:41:01.255Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞",
-      "url": "https://tower.jp/item/8176167",
-      "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1377622W.JPG",
-      "price": 4950,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞\n¥4,950／タワレコ\nhttps://tower.jp/item/8176167",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]

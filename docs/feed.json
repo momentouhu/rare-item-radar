@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-10-22T19:50:50.309Z",
+  "updatedAt": "2026-10-22T23:03:37.514Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:339521",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/339521",
+        "rawUrl": "https://www.c-labo-online.jp/product/339521",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-22T23:02:50.715Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/339521",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294942",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002",
+        "url": "https://www.c-labo-online.jp/product/294942",
+        "rawUrl": "https://www.c-labo-online.jp/product/294942",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030322e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 3780,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-22T23:03:11.745Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\nhttps://www.c-labo-online.jp/product/294942",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030322e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:295010",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043",
+        "url": "https://www.c-labo-online.jp/product/295010",
+        "rawUrl": "https://www.c-labo-online.jp/product/295010",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-22T23:03:11.745Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/295010",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 133,
+        "lenNoLink": 143,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8933,96 +9023,6 @@
         "lenWithLink": 142,
         "lenNoLink": 152,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:383773",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]",
-        "url": "https://www.c-labo-online.jp/product/383773",
-        "rawUrl": "https://www.c-labo-online.jp/product/383773",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-        "price": 5808,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-13T19:14:55.497Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/383773",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 188,
-        "lenNoLink": 198,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:407334",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "カードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]",
-        "url": "https://www.c-labo-online.jp/product/407334",
-        "rawUrl": "https://www.c-labo-online.jp/product/407334",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a706700333230000074006669745f686569676874.jpg",
-        "price": 0,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-13T16:54:14.668Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\nカードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/407334",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\nカードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 138,
-        "lenNoLink": 148,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:407334",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "カードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]",
-        "url": "https://www.c-labo-online.jp/product/407334",
-        "rawUrl": "https://www.c-labo-online.jp/product/407334",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a706700333230000074006669745f686569676874.jpg",
-        "price": 0,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-13T12:37:13.467Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\nカードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/407334",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\nカードラボオンラインショップ 夏福袋[3] 【2026】[予約/2609]\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 138,
-        "lenNoLink": 148,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303234303631345f3261626463312e6a706700333230000074006669745f686569676874.jpg"
       }
     }
   ]
