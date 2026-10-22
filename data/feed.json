@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-22T05:15:46.326Z",
+  "updatedAt": "2026-10-22T10:30:06.150Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8155497",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Touch [CD+DVD]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8155497",
+        "rawUrl": "https://tower.jp/item/8155497",
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3946916W.JPG",
+        "price": 3850,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-22T10:30:06.116Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nTouch [CD+DVD]＜初回限定盤＞\n¥3,850／タワレコ\nhttps://tower.jp/item/8155497",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nTouch [CD+DVD]＜初回限定盤＞\n¥3,850／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 99,
+        "lenNoLink": 109,
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3946916W.JPG"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8064522",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "よだか [Blu-ray Disc+フォトブック+グッズ]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8064522",
+        "rawUrl": "https://tower.jp/item/8064522",
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G3935553W.JPG",
+        "price": 11000,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-22T10:30:06.150Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nよだか [Blu-ray Disc+フォトブック+グッズ]＜初回限定盤＞\n¥11,000／タワレコ\nhttps://tower.jp/item/8064522",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nよだか [Blu-ray Disc+フォトブック+グッズ]＜初回限定盤＞\n¥11,000／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 127,
+        "lenNoLink": 137,
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G3935553W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8963,66 +9023,6 @@
         "lenWithLink": 136,
         "lenNoLink": 146,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031362e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:294885",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043",
-        "url": "https://www.c-labo-online.jp/product/294885",
-        "rawUrl": "https://www.c-labo-online.jp/product/294885",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-        "price": 2180,
-        "inStock": false,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-13T01:21:50.285Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294885",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 133,
-        "lenNoLink": 143,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:294947",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033",
-        "url": "https://www.c-labo-online.jp/product/294947",
-        "rawUrl": "https://www.c-labo-online.jp/product/294947",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-        "price": 2780,
-        "inStock": false,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-13T01:21:50.286Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294947",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 149,
-        "lenNoLink": 159,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
       }
     }
   ]
