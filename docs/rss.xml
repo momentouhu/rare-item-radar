@@ -3,7 +3,14 @@
   <title>レアもの速報</title>
   <link>https://momentouhu.github.io/rare-item-radar/</link>
   <description>トレカ再販・予約開始・在庫復活を自動で見張るレーダー</description>
-  <lastBuildDate>Fri, 23 Oct 2026 01:48:02 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 07:09:13 GMT</lastBuildDate>
+  <item>
+    <title>🔥【在庫復活】よだか [Blu-ray Disc+フォトブック+グッズ]＜初回限定盤＞</title>
+    <link>https://tower.jp/item/8064522</link>
+    <guid isPermaLink="false">tower:8064522:restock</guid>
+    <pubDate>Fri, 23 Oct 2026 07:09:13 GMT</pubDate>
+    <description>¥11,000 / タワレコ</description>
+  </item>
   <item>
     <title>🔥【在庫復活】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]</title>
     <link>https://www.c-labo-online.jp/product/339521</link>
@@ -346,12 +353,5 @@
     <guid isPermaLink="false">clabo:359940:new</guid>
     <pubDate>Thu, 15 Oct 2026 19:21:04 GMT</pubDate>
     <description>¥2,180 / カードラボ</description>
-  </item>
-  <item>
-    <title>🆕【新着・予約開始】ワンピースカードゲーム EXブースター ONE PIECE Heroines Edition vol.2[EB-05]</title>
-    <link>https://7net.omni7.jp/detail/2190052375.html</link>
-    <guid isPermaLink="false">sevennet:2190052375:new</guid>
-    <pubDate>Thu, 15 Oct 2026 10:12:41 GMT</pubDate>
-    <description>¥5,782 / セブンネット</description>
   </item>
 </channel></rss>
