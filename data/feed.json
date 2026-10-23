@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-10-23T07:09:13.921Z",
+  "updatedAt": "2026-10-23T12:48:23.536Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11149211",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "フィギュアーツZERO ［超激戦］コビー -実直拳骨- (完成品)",
+        "url": "https://www.1999.co.jp/11149211",
+        "rawUrl": "https://www.1999.co.jp/11149211",
+        "image": "https://www.1999.co.jp/itbig114/11149211.jpg",
+        "price": 9020,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2025年6月中旬 発売"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-10-23T12:47:21.576Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nフィギュアーツZERO ［超激戦］コビー -実直拳骨- (完成品)\n¥9,020／ホビーサーチ\nhttps://www.1999.co.jp/11149211",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nフィギュアーツZERO ［超激戦］コビー -実直拳骨- (完成品)\n¥9,020／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 140,
+        "lenNoLink": 150,
+        "image": "https://www.1999.co.jp/itbig114/11149211.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8993,36 +9024,6 @@
         "lenWithLink": 142,
         "lenNoLink": 152,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:408050",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]",
-        "url": "https://www.c-labo-online.jp/product/408050",
-        "rawUrl": "https://www.c-labo-online.jp/product/408050",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-        "price": 5808,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-13T21:36:47.016Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/408050",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n【予約】[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [再販/2609]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 188,
-        "lenNoLink": 198,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
       }
     }
   ]
