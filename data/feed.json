@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-23T21:09:46.213Z",
+  "updatedAt": "2026-10-23T23:57:52.489Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294957",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033",
+        "url": "https://www.c-labo-online.jp/product/294957",
+        "rawUrl": "https://www.c-labo-online.jp/product/294957",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-23T23:57:26.610Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294957",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 149,
+        "lenNoLink": 159,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8994,36 +9024,6 @@
         "lenWithLink": 142,
         "lenNoLink": 152,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "tower:8060290",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "CURVE [CD+フォトカードC ver.]＜通常盤＞",
-        "url": "https://tower.jp/item/8060290",
-        "rawUrl": "https://tower.jp/item/8060290",
-        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1372362W.JPG",
-        "price": 3520,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-14T04:04:02.599Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nCURVE [CD+フォトカードC ver.]＜通常盤＞\n¥3,520／タワレコ\nhttps://tower.jp/item/8060290",
-        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nCURVE [CD+フォトカードC ver.]＜通常盤＞\n¥3,520／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 110,
-        "lenNoLink": 120,
-        "image": "https://cdn.tower.jp/za/m/2W/zaP5_H1372362W.JPG"
       }
     }
   ]
