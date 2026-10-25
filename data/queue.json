@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:356671:new",
+      "detectedAt": "2026-10-25T23:05:11.755Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
+      "url": "https://www.c-labo-online.jp/product/356671",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2480,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/356671",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:295000:new",
       "detectedAt": "2026-10-24T21:47:48.447Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\nhttps://tower.jp/item/8176165",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤A＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8176169:new",
-      "detectedAt": "2026-10-04T18:03:45.609Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞ [CD+Blu-ray Disc]",
-      "url": "https://tower.jp/item/8176169",
-      "image": "https://cdn.tower.jp/za/m/3W/zaP5_H1377623W.JPG",
-      "price": 4950,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\nhttps://tower.jp/item/8176169",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【2ショット撮影会応募シリアルナンバー付】MEGA GOLDEN ＜初回限定盤B＞ [CD+Blu-ray Disc]\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
