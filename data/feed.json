@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-26T01:32:35.125Z",
+  "updatedAt": "2026-10-26T06:55:21.828Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:418062",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2611/13]",
+        "url": "https://www.c-labo-online.jp/product/418062",
+        "rawUrl": "https://www.c-labo-online.jp/product/418062",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313032365f3137396231662e706e6700333230000074006669745f686569676874.jpg",
+        "price": 21000,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "mtg",
+      "watchLabel": "マジック：ザ・ギャザリング",
+      "detectedAt": "2026-10-26T06:53:46.189Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パ…\n¥21,000／カードラボ\nhttps://www.c-labo-online.jp/product/418062\n#MTG",
+        "textNoLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パ…\n¥21,000／カードラボ\n🔗 詳細はプロフィールのリンクから\n#MTG",
+        "lenWithLink": 218,
+        "lenNoLink": 228,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313032365f3137396231662e706e6700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:415216",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - コレクター・ブースター 日本語版(1 BOX =12パック入り) [2611/13]",
+        "url": "https://www.c-labo-online.jp/product/415216",
+        "rawUrl": "https://www.c-labo-online.jp/product/415216",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313032365f3161343938302e6a706700333230000074006669745f686569676874.jpg",
+        "price": 55440,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "mtg",
+      "watchLabel": "マジック：ザ・ギャザリング",
+      "detectedAt": "2026-10-26T06:53:46.225Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - コレクター・ブースター 日本語版(1 BOX =1…\n¥55,440／カードラボ\nhttps://www.c-labo-online.jp/product/415216\n#MTG",
+        "textNoLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - コレクター・ブースター 日本語版(1 BOX =1…\n¥55,440／カードラボ\n🔗 詳細はプロフィールのリンクから\n#MTG",
+        "lenWithLink": 219,
+        "lenNoLink": 229,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313032365f3161343938302e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8963,66 +9023,6 @@
         "lenWithLink": 138,
         "lenNoLink": 148,
         "image": "https://cdn.tower.jp/za/m/62/4943674458462.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8127591",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "BUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞",
-        "url": "https://tower.jp/item/8127591",
-        "rawUrl": "https://tower.jp/item/8127591",
-        "image": "https://cdn.tower.jp/za/m/79/4943674458479.jpg",
-        "price": 2420,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-15T17:33:43.080Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,420／タワレコ\nhttps://tower.jp/item/8127591",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,420／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 138,
-        "lenNoLink": 148,
-        "image": "https://cdn.tower.jp/za/m/79/4943674458479.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "tower:7966171",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "Nintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート",
-        "url": "https://tower.jp/item/7966171",
-        "rawUrl": "https://tower.jp/item/7966171",
-        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3912098W.JPG",
-        "price": 5830,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-15T07:23:53.245Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\nhttps://tower.jp/item/7966171",
-        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 155,
-        "lenNoLink": 165,
-        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3912098W.JPG"
       }
     }
   ]
