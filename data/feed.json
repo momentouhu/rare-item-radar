@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-26T19:53:08.914Z",
+  "updatedAt": "2026-10-26T23:39:52.254Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:350756",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/350756",
+        "rawUrl": "https://www.c-labo-online.jp/product/350756",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-26T23:39:05.633Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356693",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031",
+        "url": "https://www.c-labo-online.jp/product/356693",
+        "rawUrl": "https://www.c-labo-online.jp/product/356693",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-26T23:39:26.050Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356693",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 136,
+        "lenNoLink": 146,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8963,66 +9023,6 @@
         "lenWithLink": 129,
         "lenNoLink": 139,
         "image": "https://cdn.tower.jp/za/m/93/4943674458493.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8127590",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "REBON/BUGS LIFE/DIGITAL GIRL [CD+DVD]＜初回限定盤A＞",
-        "url": "https://tower.jp/item/8127590",
-        "rawUrl": "https://tower.jp/item/8127590",
-        "image": "https://cdn.tower.jp/za/m/86/4943674458486.jpg",
-        "price": 2200,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-15T17:33:43.080Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nREBON/BUGS LIFE/DIGITAL GIRL [CD+DVD]＜初回限定盤A＞\n¥2,200／タワレコ\nhttps://tower.jp/item/8127590",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nREBON/BUGS LIFE/DIGITAL GIRL [CD+DVD]＜初回限定盤A＞\n¥2,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 129,
-        "lenNoLink": 139,
-        "image": "https://cdn.tower.jp/za/m/86/4943674458486.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8127589",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "REBON/BUGS LIFE/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤A＞",
-        "url": "https://tower.jp/item/8127589",
-        "rawUrl": "https://tower.jp/item/8127589",
-        "image": "https://cdn.tower.jp/za/m/62/4943674458462.jpg",
-        "price": 2420,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-15T17:33:43.080Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nREBON/BUGS LIFE/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤A＞\n¥2,420／タワレコ\nhttps://tower.jp/item/8127589",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nREBON/BUGS LIFE/DIGITAL GIRL [CD+Blu-ray Disc]＜初回限定盤A＞\n¥2,420／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 138,
-        "lenNoLink": 148,
-        "image": "https://cdn.tower.jp/za/m/62/4943674458462.jpg"
       }
     }
   ]
