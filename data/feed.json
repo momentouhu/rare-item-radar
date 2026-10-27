@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-10-27T04:09:59.924Z",
+  "updatedAt": "2026-10-27T10:00:48.474Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hobbysearch:11403573",
+        "source": "hobbysearch",
+        "sourceLabel": "ホビーサーチ",
+        "title": "るかっぷ ONE PIECE シャンクス 幼少期Ver. (フィギュア)",
+        "url": "https://www.1999.co.jp/11403573",
+        "rawUrl": "https://www.1999.co.jp/11403573",
+        "image": "https://www.1999.co.jp/itbig140/11403573.jpg",
+        "price": 3740,
+        "inStock": true,
+        "shop": "ホビーサーチ",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2026年12月下旬 発売予定"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "figure",
+      "watchLabel": "フィギュア・ホビー",
+      "detectedAt": "2026-10-27T09:59:43.808Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nるかっぷ ONE PIECE シャンクス 幼少期Ver. (フィギュア)\n¥3,740／ホビーサーチ\nhttps://www.1999.co.jp/11403573",
+        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nるかっぷ ONE PIECE シャンクス 幼少期Ver. (フィギュア)\n¥3,740／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 138,
+        "lenNoLink": 148,
+        "image": "https://www.1999.co.jp/itbig140/11403573.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8993,36 +9024,6 @@
         "lenWithLink": 142,
         "lenNoLink": 152,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8127593",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "BUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞",
-        "url": "https://tower.jp/item/8127593",
-        "rawUrl": "https://tower.jp/item/8127593",
-        "image": "https://cdn.tower.jp/za/m/93/4943674458493.jpg",
-        "price": 2200,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-15T17:33:43.055Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞\n¥2,200／タワレコ\nhttps://tower.jp/item/8127593",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nBUGS LIFE/REBON/DIGITAL GIRL [CD+DVD]＜初回限定盤B＞\n¥2,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 129,
-        "lenNoLink": 139,
-        "image": "https://cdn.tower.jp/za/m/93/4943674458493.jpg"
       }
     }
   ]

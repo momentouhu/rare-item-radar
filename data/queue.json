@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "hobbysearch:11403573:new",
+      "detectedAt": "2026-10-27T09:59:43.808Z",
+      "watchLabel": "フィギュア・ホビー",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "るかっぷ ONE PIECE シャンクス 幼少期Ver. (フィギュア)",
+      "url": "https://www.1999.co.jp/11403573",
+      "image": "https://www.1999.co.jp/itbig140/11403573.jpg",
+      "price": 3740,
+      "sourceLabel": "ホビーサーチ",
+      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nるかっぷ ONE PIECE シャンクス 幼少期Ver. (フィギュア)\n¥3,740／ホビーサーチ\nhttps://www.1999.co.jp/11403573",
+      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nるかっぷ ONE PIECE シャンクス 幼少期Ver. (フィギュア)\n¥3,740／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:356693:new",
       "detectedAt": "2026-10-26T23:39:26.050Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "晴れる屋2",
       "textWithLink": "🆕【新着・予約開始】ポケモンカード（広め）\n【抽選販売】【MEGA】拡張パック「ストームエメラルダ」(1BOX)\n¥6,000／晴れる屋2\nhttps://www.hareruya2.com/products/10208000835904\n#ポケカ #ポケモンカード",
       "textNoLink": "🆕【新着・予約開始】ポケモンカード（広め）\n【抽選販売】【MEGA】拡張パック「ストームエメラルダ」(1BOX)\n¥6,000／晴れる屋2\n🔗 詳細はプロフィールのリンクから\n#ポケカ #ポケモンカード",
-      "posted": {}
-    },
-    {
-      "id": "clabo:294926:new",
-      "detectedAt": "2026-10-04T21:50:16.520Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-      "url": "https://www.c-labo-online.jp/product/294926",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-      "price": 3180,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\nhttps://www.c-labo-online.jp/product/294926",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥3,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
