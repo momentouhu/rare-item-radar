@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-10-27T10:00:48.474Z",
+  "updatedAt": "2026-10-27T15:52:20.410Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356634",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/356634",
+        "rawUrl": "https://www.c-labo-online.jp/product/356634",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-27T15:51:54.308Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/356634",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 160,
+        "lenNoLink": 170,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8158276",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "恋愛小説5-my white days＜初回限定盤＞",
+        "url": "https://tower.jp/item/8158276",
+        "rawUrl": "https://tower.jp/item/8158276",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4892000W.JPG",
+        "price": 4620,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-27T15:52:20.409Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n恋愛小説5-my white days＜初回限定盤＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8158276",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n恋愛小説5-my white days＜初回限定盤＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 114,
+        "lenNoLink": 124,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4892000W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8154728",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Emotion [CD+Blu-ray Disc]＜初回限定盤A＞",
+        "url": "https://tower.jp/item/8154728",
+        "rawUrl": "https://tower.jp/item/8154728",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3943090W.JPG",
+        "price": 2130,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-27T15:52:20.409Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nEmotion [CD+Blu-ray Disc]＜初回限定盤A＞\n¥2,130／タワレコ\nhttps://tower.jp/item/8154728",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nEmotion [CD+Blu-ray Disc]＜初回限定盤A＞\n¥2,130／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 117,
+        "lenNoLink": 127,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3943090W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8154734",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Emotion [CD+Blu-ray Disc]＜初回限定盤C＞",
+        "url": "https://tower.jp/item/8154734",
+        "rawUrl": "https://tower.jp/item/8154734",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G3943094W.JPG",
+        "price": 2130,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-27T15:52:20.409Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nEmotion [CD+Blu-ray Disc]＜初回限定盤C＞\n¥2,130／タワレコ\nhttps://tower.jp/item/8154734",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nEmotion [CD+Blu-ray Disc]＜初回限定盤C＞\n¥2,130／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 117,
+        "lenNoLink": 127,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G3943094W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8154730",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Emotion [CD+Blu-ray Disc]＜初回限定盤B＞",
+        "url": "https://tower.jp/item/8154730",
+        "rawUrl": "https://tower.jp/item/8154730",
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_G3943092W.JPG",
+        "price": 2130,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-27T15:52:20.409Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nEmotion [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,130／タワレコ\nhttps://tower.jp/item/8154730",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nEmotion [CD+Blu-ray Disc]＜初回限定盤B＞\n¥2,130／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 117,
+        "lenNoLink": 127,
+        "image": "https://cdn.tower.jp/za/m/2W/zaP5_G3943092W.JPG"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8874,156 +9024,6 @@
         "lenWithLink": 219,
         "lenNoLink": 229,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303931365f3061373536372e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "tower:7966171",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "Nintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート",
-        "url": "https://tower.jp/item/7966171",
-        "rawUrl": "https://tower.jp/item/7966171",
-        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3912098W.JPG",
-        "price": 5830,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-16T01:38:20.683Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\nhttps://tower.jp/item/7966171",
-        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nNintendo Switch Pokemon LEGENDS Z-A+M次元ラッシュ スーパーミュージック・コンプリート\n¥5,830／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 155,
-        "lenNoLink": 165,
-        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G3912098W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8134516",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "QUANTUM [Blu-spec CD2+BOOKLET+GOODS]＜初回生産限定盤＞",
-        "url": "https://tower.jp/item/8134516",
-        "rawUrl": "https://tower.jp/item/8134516",
-        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4888563W.JPG",
-        "price": 6930,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-16T01:38:20.710Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nQUANTUM [Blu-spec CD2+BOOKLET+GOODS]＜初回生産限定盤＞\n¥6,930／タワレコ\nhttps://tower.jp/item/8134516",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nQUANTUM [Blu-spec CD2+BOOKLET+GOODS]＜初回生産限定盤＞\n¥6,930／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 131,
-        "lenNoLink": 141,
-        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4888563W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:294906",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024",
-        "url": "https://www.c-labo-online.jp/product/294906",
-        "rawUrl": "https://www.c-labo-online.jp/product/294906",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-        "price": 2580,
-        "inStock": false,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-15T23:31:38.042Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294906",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 139,
-        "lenNoLink": 149,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:315368",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-        "url": "https://www.c-labo-online.jp/product/315368",
-        "rawUrl": "https://www.c-labo-online.jp/product/315368",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-        "price": 2180,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-15T20:59:56.938Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/315368",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 160,
-        "lenNoLink": 170,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:356642",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
-        "url": "https://www.c-labo-online.jp/product/356642",
-        "rawUrl": "https://www.c-labo-online.jp/product/356642",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
-        "price": 2780,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-15T20:59:56.967Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356642",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 142,
-        "lenNoLink": 152,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg"
       }
     }
   ]
