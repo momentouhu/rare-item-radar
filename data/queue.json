@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "clabo:294964:new",
+      "detectedAt": "2026-10-27T20:31:03.400Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+      "url": "https://www.c-labo-online.jp/product/294964",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2580,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294964",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:378688:restock",
+      "detectedAt": "2026-10-27T20:30:42.950Z",
+      "watchLabel": "ガンダムカードゲーム",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+      "url": "https://www.c-labo-online.jp/product/378688",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+      "price": 5808,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+      "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8158276:new",
       "detectedAt": "2026-10-27T15:52:20.409Z",
       "watchLabel": "限定盤・グッズ",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nJOY 2＜初回生産限定盤＞\n¥6,900／タワレコ\nhttps://tower.jp/item/8143018",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nJOY 2＜初回生産限定盤＞\n¥6,900／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8052873:restock",
-      "detectedAt": "2026-10-06T09:17:35.788Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "title": "UNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞",
-      "url": "https://tower.jp/item/8052873",
-      "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3949340W.JPG",
-      "price": 10230,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\nhttps://tower.jp/item/8052873",
-      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nUNBOUND [CD+Blu-ray Disc+タオル]＜初回限定盤＞\n¥10,230／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8162276:new",
-      "detectedAt": "2026-10-06T02:28:31.110Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "MEGA GOLDEN＜初回限定盤B＞",
-      "url": "https://tower.jp/item/8162276",
-      "image": "https://cdn.tower.jp/za/m/4W/zaP5_H1377624W.JPG",
-      "price": 4950,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nMEGA GOLDEN＜初回限定盤B＞\n¥4,950／タワレコ\nhttps://tower.jp/item/8162276",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nMEGA GOLDEN＜初回限定盤B＞\n¥4,950／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]

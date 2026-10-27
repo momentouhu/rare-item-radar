@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-27T15:52:20.410Z",
+  "updatedAt": "2026-10-27T20:31:29.529Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-27T20:30:42.950Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294964",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+        "url": "https://www.c-labo-online.jp/product/294964",
+        "rawUrl": "https://www.c-labo-online.jp/product/294964",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2580,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-27T20:31:03.400Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294964",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8964,66 +9024,6 @@
         "lenWithLink": 197,
         "lenNoLink": 207,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:294907",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
-        "url": "https://www.c-labo-online.jp/product/294907",
-        "rawUrl": "https://www.c-labo-online.jp/product/294907",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
-        "price": 2780,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-16T21:01:54.300Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294907",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 144,
-        "lenNoLink": 154,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:369668",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2610/02]",
-        "url": "https://www.c-labo-online.jp/product/369668",
-        "rawUrl": "https://www.c-labo-online.jp/product/369668",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303931365f3061373536372e6a706700333230000074006669745f686569676874.jpg",
-        "price": 18500,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "mtg",
-      "watchLabel": "マジック：ザ・ギャザリング",
-      "detectedAt": "2026-09-16T12:45:42.310Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - プレイ・ブースター 日本語版(1 BO…\n¥18,500／カードラボ\nhttps://www.c-labo-online.jp/product/369668\n#MTG",
-        "textNoLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - プレイ・ブースター 日本語版(1 BO…\n¥18,500／カードラボ\n🔗 詳細はプロフィールのリンクから\n#MTG",
-        "lenWithLink": 219,
-        "lenNoLink": 229,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303931365f3061373536372e6a706700333230000074006669745f686569676874.jpg"
       }
     }
   ]
