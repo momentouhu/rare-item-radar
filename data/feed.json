@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-10-27T20:31:29.529Z",
+  "updatedAt": "2026-10-27T23:59:13.632Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:339521",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/339521",
+        "rawUrl": "https://www.c-labo-online.jp/product/339521",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-27T23:58:27.561Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/339521",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8191824",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "『ぽこ あ ポケモン』オフィシャル攻略ガイド",
+        "url": "https://tower.jp/item/8191824",
+        "rawUrl": "https://tower.jp/item/8191824",
+        "image": "https://cdn.tower.jp/za/m/85/9784092274785.jpg",
+        "price": 2640,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-27T23:59:13.631Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n『ぽこ あ ポケモン』オフィシャル攻略ガイド\n¥2,640／タワレコ\nhttps://tower.jp/item/8191824",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n『ぽこ あ ポケモン』オフィシャル攻略ガイド\n¥2,640／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 119,
+        "lenNoLink": 129,
+        "image": "https://cdn.tower.jp/za/m/85/9784092274785.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8162306",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Da-iCE ARENA TOUR 2026 -TERMiNaL-＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8162306",
+        "rawUrl": "https://tower.jp/item/8162306",
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G4894728W.JPG",
+        "price": 27700,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-27T23:59:13.631Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nDa-iCE ARENA TOUR 2026 -TERMiNaL-＜初回生産限定盤＞\n¥27,700／タワレコ\nhttps://tower.jp/item/8162306",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nDa-iCE ARENA TOUR 2026 -TERMiNaL-＜初回生産限定盤＞\n¥27,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 129,
+        "lenNoLink": 139,
+        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G4894728W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8152506",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "M25 [CD+Blu-ray Disc]＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8152506",
+        "rawUrl": "https://tower.jp/item/8152506",
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_H9015129W.JPG",
+        "price": 8800,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-27T23:59:13.631Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nM25 [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥8,800／タワレコ\nhttps://tower.jp/item/8152506",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nM25 [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥8,800／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 116,
+        "lenNoLink": 126,
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_H9015129W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8154807",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Blank Canvas [CD+DVD]＜初回限定:映像盤＞",
+        "url": "https://tower.jp/item/8154807",
+        "rawUrl": "https://tower.jp/item/8154807",
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_G3948409W.JPG",
+        "price": 5000,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-27T23:59:13.631Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nBlank Canvas [CD+DVD]＜初回限定:映像盤＞\n¥5,000／タワレコ\nhttps://tower.jp/item/8154807",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nBlank Canvas [CD+DVD]＜初回限定:映像盤＞\n¥5,000／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 117,
+        "lenNoLink": 127,
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_G3948409W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8874,156 +9024,6 @@
         "lenWithLink": 99,
         "lenNoLink": 109,
         "image": ""
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8148567",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "Tier１＜初回限定盤＞",
-        "url": "https://tower.jp/item/8148567",
-        "rawUrl": "https://tower.jp/item/8148567",
-        "image": "https://cdn.tower.jp/za/m/04/4580888322204.jpg",
-        "price": 4400,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-17T03:58:16.131Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nTier１＜初回限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8148567",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nTier１＜初回限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 97,
-        "lenNoLink": 107,
-        "image": "https://cdn.tower.jp/za/m/04/4580888322204.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8155354",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "旅＜初回限定盤B＞",
-        "url": "https://tower.jp/item/8155354",
-        "rawUrl": "https://tower.jp/item/8155354",
-        "image": "https://cdn.tower.jp/za/m/65/4580831073665.jpg",
-        "price": 4400,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-17T03:58:16.131Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜初回限定盤B＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8155354",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜初回限定盤B＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 94,
-        "lenNoLink": 104,
-        "image": "https://cdn.tower.jp/za/m/65/4580831073665.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:408049",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック) [2607/31]",
-        "url": "https://www.c-labo-online.jp/product/408049",
-        "rawUrl": "https://www.c-labo-online.jp/product/408049",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg",
-        "price": 6160,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "unionarena",
-      "watchLabel": "ユニオンアリーナ",
-      "detectedAt": "2026-09-16T23:39:13.038Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/408049",
-        "textNoLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 197,
-        "lenNoLink": 207,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:295028",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-        "url": "https://www.c-labo-online.jp/product/295028",
-        "rawUrl": "https://www.c-labo-online.jp/product/295028",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-        "price": 2180,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-16T23:39:43.529Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/295028",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 160,
-        "lenNoLink": 170,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:403972",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック) [2607/31]",
-        "url": "https://www.c-labo-online.jp/product/403972",
-        "rawUrl": "https://www.c-labo-online.jp/product/403972",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg",
-        "price": 6160,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "unionarena",
-      "watchLabel": "ユニオンアリーナ",
-      "detectedAt": "2026-09-16T21:01:24.207Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/403972",
-        "textNoLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 197,
-        "lenNoLink": 207,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg"
       }
     }
   ]
