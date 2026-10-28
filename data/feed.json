@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-28T05:04:55.072Z",
+  "updatedAt": "2026-10-28T11:32:44.649Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-28T11:31:58.224Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8993,36 +9023,6 @@
         "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/特典付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
         "lenWithLink": 140,
         "lenNoLink": 150,
-        "image": ""
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8148583",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "ECLIPSE＜初回限定盤B＞",
-        "url": "https://tower.jp/item/8148583",
-        "rawUrl": "https://tower.jp/item/8148583",
-        "image": "",
-        "price": 2750,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-17T03:58:16.131Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nECLIPSE＜初回限定盤B＞\n¥2,750／タワレコ\nhttps://tower.jp/item/8148583",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nECLIPSE＜初回限定盤B＞\n¥2,750／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 99,
-        "lenNoLink": 109,
         "image": ""
       }
     }
