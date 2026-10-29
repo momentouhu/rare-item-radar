@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-10-29T01:39:45.705Z",
+  "updatedAt": "2026-10-29T08:12:23.403Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8152868",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "椎名林檎 党大会 令和八年列島巡回 [Blu-ray Disc+ブックレット]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8152868",
+        "rawUrl": "https://tower.jp/item/8152868",
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_H1375320W.JPG",
+        "price": 7700,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-29T08:12:23.402Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\n椎名林檎 党大会 令和八年列島巡回 [Blu-ray Disc+ブックレット]＜初回限定盤＞\n¥7,700／タワレコ\nhttps://tower.jp/item/8152868",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\n椎名林檎 党大会 令和八年列島巡回 [Blu-ray Disc+ブックレット]＜初回限定盤＞\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 145,
+        "lenNoLink": 155,
+        "image": "https://cdn.tower.jp/za/m/0W/zaP5_H1375320W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:415465",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Freedom Ascension【GD05】(1 BOX =24パック) [2607/25]",
+        "url": "https://www.c-labo-online.jp/product/415465",
+        "rawUrl": "https://www.c-labo-online.jp/product/415465",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303531325f3437616635662e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 6000,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-10-29T08:11:48.034Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Freedom Ascension【GD05】(1 BOX =24パック) [2607/25]\n¥6,000／カードラボ\nhttps://www.c-labo-online.jp/product/415465",
+        "textNoLink": "🆕【新着・予約開始】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Freedom Ascension【GD05】(1 BOX =24パック) [2607/25]\n¥6,000／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 190,
+        "lenNoLink": 200,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303531325f3437616635662e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8182421",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Live 1975/76 (John Wetton Years)＜初回限定盤＞",
+        "url": "https://tower.jp/item/8182421",
+        "rawUrl": "https://tower.jp/item/8182421",
+        "image": "https://cdn.tower.jp/za/m/25/4997184226325.jpg",
+        "price": 2790,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-29T08:12:23.402Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nLive 1975/76 (John Wetton Years)＜初回限定盤＞\n¥2,790／タワレコ\nhttps://tower.jp/item/8182421",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nLive 1975/76 (John Wetton Years)＜初回限定盤＞\n¥2,790／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 123,
+        "lenNoLink": 133,
+        "image": "https://cdn.tower.jp/za/m/25/4997184226325.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8182398",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Live In Amsterdam 1969＜初回限定盤＞",
+        "url": "https://tower.jp/item/8182398",
+        "rawUrl": "https://tower.jp/item/8182398",
+        "image": "https://cdn.tower.jp/za/m/64/4997184226264.jpg",
+        "price": 2790,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-29T08:12:23.403Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nLive In Amsterdam 1969＜初回限定盤＞\n¥2,790／タワレコ\nhttps://tower.jp/item/8182398",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nLive In Amsterdam 1969＜初回限定盤＞\n¥2,790／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 113,
+        "lenNoLink": 123,
+        "image": "https://cdn.tower.jp/za/m/64/4997184226264.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8182403",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Live In England 1972＜初回限定盤＞",
+        "url": "https://tower.jp/item/8182403",
+        "rawUrl": "https://tower.jp/item/8182403",
+        "image": "https://cdn.tower.jp/za/m/88/4997184226288.jpg",
+        "price": 2790,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-29T08:12:23.403Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nLive In England 1972＜初回限定盤＞\n¥2,790／タワレコ\nhttps://tower.jp/item/8182403",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nLive In England 1972＜初回限定盤＞\n¥2,790／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 111,
+        "lenNoLink": 121,
+        "image": "https://cdn.tower.jp/za/m/88/4997184226288.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8874,156 +9024,6 @@
         "lenWithLink": 144,
         "lenNoLink": 154,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:309360",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-        "url": "https://www.c-labo-online.jp/product/309360",
-        "rawUrl": "https://www.c-labo-online.jp/product/309360",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-        "price": 2180,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-17T18:29:04.312Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/309360",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 160,
-        "lenNoLink": 170,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "sevennet:1106011031",
-        "source": "sevennet",
-        "sourceLabel": "セブンネット",
-        "title": "ジェットコースターにもほどがある",
-        "url": "https://7net.omni7.jp/detail/1106011031.html",
-        "rawUrl": "https://7net.omni7.jp/detail/1106011031.html",
-        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-book-m-catalog/ja_JP/dw18042d77/131409/1106011031.jpg?sw=640",
-        "price": 681,
-        "inStock": true,
-        "shop": "セブンネットショッピング",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "chinhin",
-      "watchLabel": "珍商品・変わり種",
-      "detectedAt": "2026-09-17T14:25:40.629Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】珍商品・変わり種\nジェットコースターにもほどがある\n¥681／セブンネット\nhttps://7net.omni7.jp/detail/1106011031.html\n#変わり種 #面白グッズ",
-        "textNoLink": "🔥【在庫復活】珍商品・変わり種\nジェットコースターにもほどがある\n¥681／セブンネット\n🔗 詳細はプロフィールのリンクから\n#変わり種 #面白グッズ",
-        "lenWithLink": 129,
-        "lenNoLink": 139,
-        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-book-m-catalog/ja_JP/dw18042d77/131409/1106011031.jpg?sw=640"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8069400",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "【イベント抽選権付】EVOLVE＜初回生産限定盤B＞",
-        "url": "https://tower.jp/item/8069400",
-        "rawUrl": "https://tower.jp/item/8069400",
-        "image": "https://cdn.tower.jp/za/m/97/2050269084097.jpg",
-        "price": 4620,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-17T14:26:51.178Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント抽選権付】EVOLVE＜初回生産限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8069400",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント抽選権付】EVOLVE＜初回生産限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 122,
-        "lenNoLink": 132,
-        "image": "https://cdn.tower.jp/za/m/97/2050269084097.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8155352",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "旅＜初回限定盤A＞",
-        "url": "https://tower.jp/item/8155352",
-        "rawUrl": "https://tower.jp/item/8155352",
-        "image": "https://cdn.tower.jp/za/m/87/4580831054787.jpg",
-        "price": 5500,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-17T09:20:51.941Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜初回限定盤A＞\n¥5,500／タワレコ\nhttps://tower.jp/item/8155352",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜初回限定盤A＞\n¥5,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 94,
-        "lenNoLink": 104,
-        "image": "https://cdn.tower.jp/za/m/87/4580831054787.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8134519",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "THE RCA & MIDI YEARS (1980-1990) #CityPopEssentials＜初回生産限定盤＞",
-        "url": "https://tower.jp/item/8134519",
-        "rawUrl": "https://tower.jp/item/8134519",
-        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4888560W.JPG",
-        "price": 8800,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-17T03:58:16.106Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nTHE RCA & MIDI YEARS (1980-1990) #CityPopEssentials＜初回生産限定盤＞\n¥8,800／タワレコ\nhttps://tower.jp/item/8134519",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nTHE RCA & MIDI YEARS (1980-1990) #CityPopEssentials＜初回生産限定盤＞\n¥8,800／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 146,
-        "lenNoLink": 156,
-        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4888560W.JPG"
       }
     }
   ]
