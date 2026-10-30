@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-10-29T20:31:08.451Z",
+  "updatedAt": "2026-10-30T00:15:05.342Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294888",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/294888",
+        "rawUrl": "https://www.c-labo-online.jp/product/294888",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2980,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-10-30T00:14:48.407Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,980／カードラボ\nhttps://www.c-labo-online.jp/product/294888",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,980／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:4207801",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモン 赤・緑 スーパーミュージック・コレクション",
+        "url": "https://tower.jp/item/4207801",
+        "rawUrl": "https://tower.jp/item/4207801",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G8193914W.JPG",
+        "price": 2750,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-30T00:15:05.342Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン 赤・緑 スーパーミュージック・コレクション\n¥2,750／タワレコ\nhttps://tower.jp/item/4207801",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモン 赤・緑 スーパーミュージック・コレクション\n¥2,750／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 127,
+        "lenNoLink": 137,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G8193914W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8141469",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ベルリン芸術週間のセルジュ・チェリビダッケ＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8141469",
+        "rawUrl": "https://tower.jp/item/8141469",
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G3948431W.JPG",
+        "price": 12100,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-30T00:15:05.342Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nベルリン芸術週間のセルジュ・チェリビダッケ＜初回生産限定盤＞\n¥12,100／タワレコ\nhttps://tower.jp/item/8141469",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nベルリン芸術週間のセルジュ・チェリビダッケ＜初回生産限定盤＞\n¥12,100／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 138,
+        "lenNoLink": 148,
+        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G3948431W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8171912",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ブラザーズ・イン・アームス＜生産限定盤＞",
+        "url": "https://tower.jp/item/8171912",
+        "rawUrl": "https://tower.jp/item/8171912",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4893694W.JPG",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-10-30T00:15:05.342Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nブラザーズ・イン・アームス＜生産限定盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8171912",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nブラザーズ・イン・アームス＜生産限定盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 117,
+        "lenNoLink": 127,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4893694W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8904,126 +9024,6 @@
         "lenWithLink": 109,
         "lenNoLink": 119,
         "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3941080W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8143002",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "ライヴ・リックス＜生産限定盤＞",
-        "url": "https://tower.jp/item/8143002",
-        "rawUrl": "https://tower.jp/item/8143002",
-        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G3941081W.JPG",
-        "price": 4400,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-18T04:30:34.052Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nライヴ・リックス＜生産限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8143002",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nライヴ・リックス＜生産限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 107,
-        "lenNoLink": 117,
-        "image": "https://cdn.tower.jp/za/m/1W/zaP5_G3941081W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8142997",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "ストリップト＜生産限定盤＞",
-        "url": "https://tower.jp/item/8142997",
-        "rawUrl": "https://tower.jp/item/8142997",
-        "image": "https://cdn.tower.jp/za/m/9W/zaP5_G3941079W.JPG",
-        "price": 3300,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-18T04:30:34.052Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nストリップト＜生産限定盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8142997",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nストリップト＜生産限定盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 103,
-        "lenNoLink": 113,
-        "image": "https://cdn.tower.jp/za/m/9W/zaP5_G3941079W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8171849",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤A+通常盤＞",
-        "url": "https://tower.jp/item/8171849",
-        "rawUrl": "https://tower.jp/item/8171849",
-        "image": "",
-        "price": 3300,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-18T04:30:34.052Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤A+通常盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8171849",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤A+通常盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 141,
-        "lenNoLink": 151,
-        "image": ""
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:294932",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
-        "url": "https://www.c-labo-online.jp/product/294932",
-        "rawUrl": "https://www.c-labo-online.jp/product/294932",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
-        "price": 2780,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-17T21:41:03.008Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294932",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 144,
-        "lenNoLink": 154,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
       }
     }
   ]
