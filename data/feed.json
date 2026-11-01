@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-01T20:25:01.985Z",
+  "updatedAt": "2026-11-01T23:49:43.749Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:295012",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/295012",
+        "rawUrl": "https://www.c-labo-online.jp/product/295012",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-01T23:49:26.727Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/295012",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 160,
+        "lenNoLink": 170,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8992,37 +9022,6 @@
         "lenWithLink": 125,
         "lenNoLink": 135,
         "image": "https://www.1999.co.jp/itbig53/10537956.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:11336988",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "★特価品 Netflix ONE PIECE ミニフィギュア (24個セット) (キャラクタートイ)",
-        "url": "https://www.1999.co.jp/11336988",
-        "rawUrl": "https://www.1999.co.jp/11336988",
-        "image": "https://www.1999.co.jp/itbig133/11336988.jpg",
-        "price": 19641,
-        "inStock": true,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "2026年3月中旬 発売"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-18T17:35:46.534Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\n★特価品 Netflix ONE PIECE ミニフィギュア (24個セット) (キャラクタートイ)\n¥19,641／ホビーサーチ\nhttps://www.1999.co.jp/11336988",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\n★特価品 Netflix ONE PIECE ミニフィギュア (24個セット) (キャラクタートイ)\n¥19,641／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 159,
-        "lenNoLink": 169,
-        "image": "https://www.1999.co.jp/itbig133/11336988.jpg"
       }
     }
   ]
