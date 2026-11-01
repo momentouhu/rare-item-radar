@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-01T15:58:43.456Z",
+  "updatedAt": "2026-11-01T20:25:01.985Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:339521",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/339521",
+        "rawUrl": "https://www.c-labo-online.jp/product/339521",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-01T20:24:26.399Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/339521",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8993,37 +9023,6 @@
         "lenWithLink": 159,
         "lenNoLink": 169,
         "image": "https://www.1999.co.jp/itbig133/11336988.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:11363218",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "S.H.フィギュアーツ サー・クロコダイル -マリンフォード頂上決戦- (完成品)",
-        "url": "https://www.1999.co.jp/11363218",
-        "rawUrl": "https://www.1999.co.jp/11363218",
-        "image": "https://www.1999.co.jp/itbig136/11363218.jpg",
-        "price": 12100,
-        "inStock": true,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "9月 発売予定"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-18T09:11:00.886Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ サー・クロコダイル -マリンフォード頂上決戦- (完成品)\n¥12,100／ホビーサーチ\nhttps://www.1999.co.jp/11363218",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ サー・クロコダイル -マリンフォード頂上決戦- (完成品)\n¥12,100／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 157,
-        "lenNoLink": 167,
-        "image": "https://www.1999.co.jp/itbig136/11363218.jpg"
       }
     }
   ]
