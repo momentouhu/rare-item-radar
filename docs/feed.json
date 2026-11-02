@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-02T04:57:49.818Z",
+  "updatedAt": "2026-11-02T13:15:48.554Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "tower:8060681",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "EVOLVE＜初回生産限定盤B＞",
+        "url": "https://tower.jp/item/8060681",
+        "rawUrl": "https://tower.jp/item/8060681",
+        "image": "https://cdn.tower.jp/za/m/44/4570221691944.jpg",
+        "price": 4620,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-02T13:15:48.525Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nEVOLVE＜初回生産限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8060681",
+        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nEVOLVE＜初回生産限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 96,
+        "lenNoLink": 106,
+        "image": "https://cdn.tower.jp/za/m/44/4570221691944.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8991,37 +9021,6 @@
         "lenWithLink": 126,
         "lenNoLink": 136,
         "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4882773W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:10537956",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "ねんどろいど がんばリーリエ (フィギュア)",
-        "url": "https://www.1999.co.jp/10537956",
-        "rawUrl": "https://www.1999.co.jp/10537956",
-        "image": "https://www.1999.co.jp/itbig53/10537956.jpg",
-        "price": 4155,
-        "inStock": false,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "2018年11月中旬 発売"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-18T17:35:46.177Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど がんばリーリエ (フィギュア)\n¥4,155／ホビーサーチ\nhttps://www.1999.co.jp/10537956",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nねんどろいど がんばリーリエ (フィギュア)\n¥4,155／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 125,
-        "lenNoLink": 135,
-        "image": "https://www.1999.co.jp/itbig53/10537956.jpg"
       }
     }
   ]

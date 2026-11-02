@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "tower:8060681:restock",
+      "detectedAt": "2026-11-02T13:15:48.525Z",
+      "watchLabel": "限定盤・グッズ",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "EVOLVE＜初回生産限定盤B＞",
+      "url": "https://tower.jp/item/8060681",
+      "image": "https://cdn.tower.jp/za/m/44/4570221691944.jpg",
+      "price": 4620,
+      "sourceLabel": "タワレコ",
+      "textWithLink": "🔥【在庫復活】限定盤・グッズ\nEVOLVE＜初回生産限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8060681",
+      "textNoLink": "🔥【在庫復活】限定盤・グッズ\nEVOLVE＜初回生産限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:295012:new",
       "detectedAt": "2026-11-01T23:49:26.727Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント応募用シリアルコード付き】無限大LOVE!!! [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥4,400／タワレコ\nhttps://tower.jp/item/8186624",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【イベント応募用シリアルコード付き】無限大LOVE!!! [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥4,400／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:356628:new",
-      "detectedAt": "2026-10-09T19:40:33.002Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031",
-      "url": "https://www.c-labo-online.jp/product/356628",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2780,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356628",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
