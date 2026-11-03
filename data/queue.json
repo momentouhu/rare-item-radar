@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:315397:new",
+      "detectedAt": "2026-11-03T03:40:40.158Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/315397",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/315397",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:295011:new",
       "detectedAt": "2026-11-02T22:28:07.029Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 天元突破グレンラガン【UA56BT】(1 BOX =16パック) [2608/28]\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/414224",
       "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 天元突破グレンラガン【UA56BT】(1 BOX =16パック) [2608/28]\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8171852:new",
-      "detectedAt": "2026-10-09T23:54:22.187Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤/オンライン限定/\"リリース記念SHOWCASE\"ご招待エントリーコード×2付＞",
-      "url": "https://tower.jp/item/8171852",
-      "image": "",
-      "price": 3300,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤/オンライン限定/\"リリース記…\n¥3,300／タワレコ\nhttps://tower.jp/item/8171852",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《2形態/予約キャンペーン限定トレカ第1弾ver.付セット》Rock & Roll Pretty ＜初回限定盤A+通常盤/オンライン限定/\"リリース記…\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
