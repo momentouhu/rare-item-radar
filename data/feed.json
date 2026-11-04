@@ -1,6 +1,276 @@
 {
-  "updatedAt": "2026-11-03T19:16:13.567Z",
+  "updatedAt": "2026-11-04T00:09:25.074Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:339521",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/339521",
+        "rawUrl": "https://www.c-labo-online.jp/product/339521",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-04T00:08:49.630Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/339521",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:295028",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/295028",
+        "rawUrl": "https://www.c-labo-online.jp/product/295028",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-04T00:09:09.982Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/295028",
+        "textNoLink": "🔥【在庫復活】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 154,
+        "lenNoLink": 164,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8176010",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Juliet [CD+DVD]＜初回限定盤1＞",
+        "url": "https://tower.jp/item/8176010",
+        "rawUrl": "https://tower.jp/item/8176010",
+        "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3949217W.JPG",
+        "price": 4500,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-04T00:09:25.073Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nJuliet [CD+DVD]＜初回限定盤1＞\n¥4,500／タワレコ\nhttps://tower.jp/item/8176010",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nJuliet [CD+DVD]＜初回限定盤1＞\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 107,
+        "lenNoLink": 117,
+        "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3949217W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8176013",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Juliet [CD+DVD]＜初回限定盤2＞",
+        "url": "https://tower.jp/item/8176013",
+        "rawUrl": "https://tower.jp/item/8176013",
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G3949215W.JPG",
+        "price": 4500,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-04T00:09:25.074Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nJuliet [CD+DVD]＜初回限定盤2＞\n¥4,500／タワレコ\nhttps://tower.jp/item/8176013",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nJuliet [CD+DVD]＜初回限定盤2＞\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 107,
+        "lenNoLink": 117,
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G3949215W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8176008",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Juliet [CD+Blu-ray Disc]＜初回限定盤1＞",
+        "url": "https://tower.jp/item/8176008",
+        "rawUrl": "https://tower.jp/item/8176008",
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3949216W.JPG",
+        "price": 4500,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-04T00:09:25.074Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nJuliet [CD+Blu-ray Disc]＜初回限定盤1＞\n¥4,500／タワレコ\nhttps://tower.jp/item/8176008",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nJuliet [CD+Blu-ray Disc]＜初回限定盤1＞\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 116,
+        "lenNoLink": 126,
+        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3949216W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8176012",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Juliet [CD+Blu-ray Disc]＜初回限定盤2＞",
+        "url": "https://tower.jp/item/8176012",
+        "rawUrl": "https://tower.jp/item/8176012",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G3949214W.JPG",
+        "price": 4500,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-04T00:09:25.074Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nJuliet [CD+Blu-ray Disc]＜初回限定盤2＞\n¥4,500／タワレコ\nhttps://tower.jp/item/8176012",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nJuliet [CD+Blu-ray Disc]＜初回限定盤2＞\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 116,
+        "lenNoLink": 126,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G3949214W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8166515",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Final Chapter [CD+Blu-ray Disc]＜初回限定盤A＞",
+        "url": "https://tower.jp/item/8166515",
+        "rawUrl": "https://tower.jp/item/8166515",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4893684W.JPG",
+        "price": 6600,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-04T00:09:25.074Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nFinal Chapter [CD+Blu-ray Disc]＜初回限定盤A＞\n¥6,600／タワレコ\nhttps://tower.jp/item/8166515",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nFinal Chapter [CD+Blu-ray Disc]＜初回限定盤A＞\n¥6,600／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 123,
+        "lenNoLink": 133,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4893684W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8148623",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ラブリーズン [CD+Blu-ray Disc+グッズ]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8148623",
+        "rawUrl": "https://tower.jp/item/8148623",
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4889134W.JPG",
+        "price": 5280,
+        "inStock": false,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-04T00:09:25.074Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nラブリーズン [CD+Blu-ray Disc+グッズ]＜初回限定盤＞\n¥5,280／タワレコ\nhttps://tower.jp/item/8148623",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nラブリーズン [CD+Blu-ray Disc+グッズ]＜初回限定盤＞\n¥5,280／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 128,
+        "lenNoLink": 138,
+        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4889134W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8176949",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "倉木麻衣×名探偵コナン COLLABORATION BEST 30 -キミがいてくれたから、歌がある。- [3CD+Blu-ray Disc]＜初回限定盤＞",
+        "url": "https://tower.jp/item/8176949",
+        "rawUrl": "https://tower.jp/item/8176949",
+        "image": "https://cdn.tower.jp/za/m/89/4571295422489.jpg",
+        "price": 5940,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-04T00:09:25.074Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n倉木麻衣×名探偵コナン COLLABORATION BEST 30 -キミがいてくれたから、歌がある。- [3CD+Blu-ray Disc]＜初回限定盤＞\n¥5,940／タワレコ\nhttps://tower.jp/item/8176949",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n倉木麻衣×名探偵コナン COLLABORATION BEST 30 -キミがいてくれたから、歌がある。- [3CD+Blu-ray Disc]＜初回限定盤＞\n¥5,940／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 189,
+        "lenNoLink": 199,
+        "image": "https://cdn.tower.jp/za/m/89/4571295422489.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8750,276 +9020,6 @@
         "lenWithLink": 142,
         "lenNoLink": 152,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:339521",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
-        "url": "https://www.c-labo-online.jp/product/339521",
-        "rawUrl": "https://www.c-labo-online.jp/product/339521",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-        "price": 5808,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-19T22:26:34.883Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/339521",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 176,
-        "lenNoLink": 186,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:350756",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
-        "url": "https://www.c-labo-online.jp/product/350756",
-        "rawUrl": "https://www.c-labo-online.jp/product/350756",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-        "price": 5808,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-19T20:13:22.143Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 176,
-        "lenNoLink": 186,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:410830",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック) [2607/31]",
-        "url": "https://www.c-labo-online.jp/product/410830",
-        "rawUrl": "https://www.c-labo-online.jp/product/410830",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg",
-        "price": 6160,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "unionarena",
-      "watchLabel": "ユニオンアリーナ",
-      "detectedAt": "2026-09-19T11:23:30.836Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/410830",
-        "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 203,
-        "lenNoLink": 213,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:378688",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
-        "url": "https://www.c-labo-online.jp/product/378688",
-        "rawUrl": "https://www.c-labo-online.jp/product/378688",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-        "price": 5808,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-19T06:26:16.965Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 176,
-        "lenNoLink": 186,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "tower:8056479",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞",
-        "url": "https://tower.jp/item/8056479",
-        "rawUrl": "https://tower.jp/item/8056479",
-        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4882770W.JPG",
-        "price": 2530,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-19T06:27:03.924Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056479",
-        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 124,
-        "lenNoLink": 134,
-        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4882770W.JPG"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "tower:8056503",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「吉田仁人」盤＞",
-        "url": "https://tower.jp/item/8056503",
-        "rawUrl": "https://tower.jp/item/8056503",
-        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4882774W.JPG",
-        "price": 2530,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-19T06:27:03.924Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「吉田仁人」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056503",
-        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「吉田仁人」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 124,
-        "lenNoLink": 134,
-        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G4882774W.JPG"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "tower:8056500",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「曽野舜太」盤＞",
-        "url": "https://tower.jp/item/8056500",
-        "rawUrl": "https://tower.jp/item/8056500",
-        "image": "https://cdn.tower.jp/za/m/2W/zaP5_G4882772W.JPG",
-        "price": 2530,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-19T06:27:03.924Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「曽野舜太」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056500",
-        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「曽野舜太」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 124,
-        "lenNoLink": 134,
-        "image": "https://cdn.tower.jp/za/m/2W/zaP5_G4882772W.JPG"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "tower:8056501",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞",
-        "url": "https://tower.jp/item/8056501",
-        "rawUrl": "https://tower.jp/item/8056501",
-        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4882773W.JPG",
-        "price": 2530,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-19T06:27:03.924Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056501",
-        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「山中柔太朗」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 126,
-        "lenNoLink": 136,
-        "image": "https://cdn.tower.jp/za/m/3W/zaP5_G4882773W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8171850",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤B+通常盤＞",
-        "url": "https://tower.jp/item/8171850",
-        "rawUrl": "https://tower.jp/item/8171850",
-        "image": "",
-        "price": 3300,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-19T06:27:03.924Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤B+通常盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8171850",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《\"デコ★トレ\"付セット》Rock & Roll Pretty＜初回限定盤B+通常盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 141,
-        "lenNoLink": 151,
-        "image": ""
       }
     }
   ]
