@@ -1,6 +1,186 @@
 {
-  "updatedAt": "2026-11-04T21:28:41.947Z",
+  "updatedAt": "2026-11-05T01:44:28.603Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:350756",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/350756",
+        "rawUrl": "https://www.c-labo-online.jp/product/350756",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-05T01:43:51.927Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8197134",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ポケモンはこあそび",
+        "url": "https://tower.jp/item/8197134",
+        "rawUrl": "https://tower.jp/item/8197134",
+        "image": "https://cdn.tower.jp/za/m/47/9784099425647.jpg",
+        "price": 3190,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-05T01:44:28.602Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンはこあそび\n¥3,190／タワレコ\nhttps://tower.jp/item/8197134",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンはこあそび\n¥3,190／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 95,
+        "lenNoLink": 105,
+        "image": "https://cdn.tower.jp/za/m/47/9784099425647.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8194013",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ぽこ あ ポケモン メッセンジャーバッグ SPECIAL BOOK",
+        "url": "https://tower.jp/item/8194013",
+        "rawUrl": "https://tower.jp/item/8194013",
+        "image": "https://cdn.tower.jp/za/m/33/tem9784299083333.jpg",
+        "price": 3960,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-05T01:44:28.602Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nぽこ あ ポケモン メッセンジャーバッグ SPECIAL BOOK\n¥3,960／タワレコ\nhttps://tower.jp/item/8194013",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nぽこ あ ポケモン メッセンジャーバッグ SPECIAL BOOK\n¥3,960／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 127,
+        "lenNoLink": 137,
+        "image": "https://cdn.tower.jp/za/m/33/tem9784299083333.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8194014",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "ぽこ あ ポケモン みみぱたぱたポーチ SPECIAL BOOK ピカチュウ(うすいろ)ver.",
+        "url": "https://tower.jp/item/8194014",
+        "rawUrl": "https://tower.jp/item/8194014",
+        "image": "https://cdn.tower.jp/za/m/57/tem9784299083357.jpg",
+        "price": 3289,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-05T01:44:28.603Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nぽこ あ ポケモン みみぱたぱたポーチ SPECIAL BOOK ピカチュウ(うすいろ)ver.\n¥3,289／タワレコ\nhttps://tower.jp/item/8194014",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nぽこ あ ポケモン みみぱたぱたポーチ SPECIAL BOOK ピカチュウ(うすいろ)ver.\n¥3,289／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 150,
+        "lenNoLink": 160,
+        "image": "https://cdn.tower.jp/za/m/57/tem9784299083357.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8182388",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "なにわ男子 1st DOME LIVE 'VoyAGE'＜初回限定盤＞",
+        "url": "https://tower.jp/item/8182388",
+        "rawUrl": "https://tower.jp/item/8182388",
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_H9013989W.JPG",
+        "price": 7280,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-05T01:44:28.603Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nなにわ男子 1st DOME LIVE 'VoyAGE'＜初回限定盤＞\n¥7,280／タワレコ\nhttps://tower.jp/item/8182388",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nなにわ男子 1st DOME LIVE 'VoyAGE'＜初回限定盤＞\n¥7,280／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 124,
+        "lenNoLink": 134,
+        "image": "https://cdn.tower.jp/za/m/9W/zaP5_H9013989W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8151314",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "Inner Ocean＜限定盤/クリアヴァイナル＞",
+        "url": "https://tower.jp/item/8151314",
+        "rawUrl": "https://tower.jp/item/8151314",
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G4886755W.JPG",
+        "price": 5500,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-05T01:44:28.603Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nInner Ocean＜限定盤/クリアヴァイナル＞\n¥5,500／タワレコ\nhttps://tower.jp/item/8151314",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nInner Ocean＜限定盤/クリアヴァイナル＞\n¥5,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 115,
+        "lenNoLink": 125,
+        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G4886755W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8840,186 +9020,6 @@
         "lenWithLink": 142,
         "lenNoLink": 152,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:294884",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024",
-        "url": "https://www.c-labo-online.jp/product/294884",
-        "rawUrl": "https://www.c-labo-online.jp/product/294884",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-        "price": 2580,
-        "inStock": false,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-21T18:33:35.598Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294884",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 139,
-        "lenNoLink": 149,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:356756",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031",
-        "url": "https://www.c-labo-online.jp/product/356756",
-        "rawUrl": "https://www.c-labo-online.jp/product/356756",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg",
-        "price": 2780,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-21T18:33:35.598Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356756",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 136,
-        "lenNoLink": 146,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:378688",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
-        "url": "https://www.c-labo-online.jp/product/378688",
-        "rawUrl": "https://www.c-labo-online.jp/product/378688",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-        "price": 5808,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-21T05:59:50.740Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 176,
-        "lenNoLink": 186,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "tower:6359654",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "ポケモン feat. 初音ミク Project VOLTAGE 18 Types/Songs Collection",
-        "url": "https://tower.jp/item/6359654",
-        "rawUrl": "https://tower.jp/item/6359654",
-        "image": "https://cdn.tower.jp/za/m/2W/P2_H2092072W.JPG",
-        "price": 7700,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-21T06:00:38.163Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nポケモン feat. 初音ミク Project VOLTAGE 18 Types/Songs Collection\n¥7,700／タワレコ\nhttps://tower.jp/item/6359654",
-        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nポケモン feat. 初音ミク Project VOLTAGE 18 Types/Songs Collection\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 136,
-        "lenNoLink": 146,
-        "image": "https://cdn.tower.jp/za/m/2W/P2_H2092072W.JPG"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "tower:8056479",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "LOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞",
-        "url": "https://tower.jp/item/8056479",
-        "rawUrl": "https://tower.jp/item/8056479",
-        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4882770W.JPG",
-        "price": 2530,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-21T06:00:38.163Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞\n¥2,530／タワレコ\nhttps://tower.jp/item/8056479",
-        "textNoLink": "🔥【在庫復活】限定盤・グッズ\nLOVE ENG!NE [CD+トレカ]＜初回生産限定「佐野勇斗」盤＞\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 124,
-        "lenNoLink": 134,
-        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4882770W.JPG"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:350756",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
-        "url": "https://www.c-labo-online.jp/product/350756",
-        "rawUrl": "https://www.c-labo-online.jp/product/350756",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-        "price": 5808,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-21T00:55:32.691Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 176,
-        "lenNoLink": 186,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
       }
     }
   ]
