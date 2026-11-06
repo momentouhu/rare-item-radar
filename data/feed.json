@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-11-05T23:26:06.075Z",
+  "updatedAt": "2026-11-06T03:36:07.408Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8202516",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "【スペシャルオンラインライブ視聴用シリアルコード付】あなたの声になれたら [CD+Blu-ray Disc+ブックレット]＜初回生産限定盤＞",
+        "url": "https://tower.jp/item/8202516",
+        "rawUrl": "https://tower.jp/item/8202516",
+        "image": "https://cdn.tower.jp/za/m/43/2050269106843.jpg",
+        "price": 6600,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-06T03:36:07.377Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【スペシャルオンラインライブ視聴用シリアルコード付】あなたの声になれたら [CD+Blu-ray Disc+ブックレット]＜初回生産限定盤…\n¥6,600／タワレコ\nhttps://tower.jp/item/8202516",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【スペシャルオンラインライブ視聴用シリアルコード付】あなたの声になれたら [CD+Blu-ray Disc+ブックレット]＜初回生産限定盤…\n¥6,600／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 198,
+        "lenNoLink": 208,
+        "image": "https://cdn.tower.jp/za/m/43/2050269106843.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8182390",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "なにわ男子 1st DOME LIVE 'VoyAGE'＜初回限定盤＞",
+        "url": "https://tower.jp/item/8182390",
+        "rawUrl": "https://tower.jp/item/8182390",
+        "image": "https://cdn.tower.jp/za/m/7W/zaP5_H9013987W.JPG",
+        "price": 7280,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-06T03:36:07.408Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nなにわ男子 1st DOME LIVE 'VoyAGE'＜初回限定盤＞\n¥7,280／タワレコ\nhttps://tower.jp/item/8182390",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nなにわ男子 1st DOME LIVE 'VoyAGE'＜初回限定盤＞\n¥7,280／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 124,
+        "lenNoLink": 134,
+        "image": "https://cdn.tower.jp/za/m/7W/zaP5_H9013987W.JPG"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "tower:8177625",
+        "source": "tower",
+        "sourceLabel": "タワレコ",
+        "title": "WAR(闘)＜完全生産限定盤＞",
+        "url": "https://tower.jp/item/8177625",
+        "rawUrl": "https://tower.jp/item/8177625",
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_H9013123W.JPG",
+        "price": 3300,
+        "inStock": true,
+        "shop": "タワーレコード",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "tower-goods",
+      "watchLabel": "限定盤・グッズ",
+      "detectedAt": "2026-11-06T03:36:07.408Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nWAR(闘)＜完全生産限定盤＞\n¥3,300／タワレコ\nhttps://tower.jp/item/8177625",
+        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nWAR(闘)＜完全生産限定盤＞\n¥3,300／タワレコ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 102,
+        "lenNoLink": 112,
+        "image": "https://cdn.tower.jp/za/m/3W/zaP5_H9013123W.JPG"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8930,96 +9020,6 @@
         "lenWithLink": 140,
         "lenNoLink": 150,
         "image": "https://www.1999.co.jp/itbig129/11298581.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:378688",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
-        "url": "https://www.c-labo-online.jp/product/378688",
-        "rawUrl": "https://www.c-labo-online.jp/product/378688",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-        "price": 5808,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-21T22:31:02.673Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 176,
-        "lenNoLink": 186,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:294883",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002",
-        "url": "https://www.c-labo-online.jp/product/294883",
-        "rawUrl": "https://www.c-labo-online.jp/product/294883",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030322e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-        "price": 3780,
-        "inStock": false,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-21T22:31:22.809Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\nhttps://www.c-labo-online.jp/product/294883",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ラティス【クォーターセンチュリー/融合】QCTB-JP002\n¥3,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 144,
-        "lenNoLink": 154,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030322e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:294908",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033",
-        "url": "https://www.c-labo-online.jp/product/294908",
-        "rawUrl": "https://www.c-labo-online.jp/product/294908",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
-        "price": 2780,
-        "inStock": false,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-21T22:31:22.809Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294908",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 149,
-        "lenNoLink": 159,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
       }
     }
   ]
