@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-06T19:02:24.570Z",
+  "updatedAt": "2026-11-06T23:48:40.917Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-06T23:48:16.103Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8989,37 +9019,6 @@
         "lenWithLink": 150,
         "lenNoLink": 160,
         "image": "https://www.1999.co.jp/itbig134/11347806.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:11298581",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "パフスリーブワンピース(ブラック)(ドール用) (フィギュア)",
-        "url": "https://www.1999.co.jp/11298581",
-        "rawUrl": "https://www.1999.co.jp/11298581",
-        "image": "https://www.1999.co.jp/itbig129/11298581.jpg",
-        "price": 3465,
-        "inStock": true,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "2026年9月中旬 発売"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-22T01:06:31.910Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nパフスリーブワンピース(ブラック)(ドール用) (フィギュア)\n¥3,465／ホビーサーチ\nhttps://www.1999.co.jp/11298581",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nパフスリーブワンピース(ブラック)(ドール用) (フィギュア)\n¥3,465／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 140,
-        "lenNoLink": 150,
-        "image": "https://www.1999.co.jp/itbig129/11298581.jpg"
       }
     }
   ]
