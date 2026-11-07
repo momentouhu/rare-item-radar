@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:356608:new",
+      "detectedAt": "2026-11-07T21:35:23.383Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031",
+      "url": "https://www.c-labo-online.jp/product/356608",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2780,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356608",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "tower:8182390:new",
       "detectedAt": "2026-11-06T03:36:07.408Z",
       "watchLabel": "限定盤・グッズ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n最後に熱い日々を狂わしき想いで [CD+DVD]＜初回限定仕様盤B＞\n¥6,160／タワレコ\nhttps://tower.jp/item/8153611",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n最後に熱い日々を狂わしき想いで [CD+DVD]＜初回限定仕様盤B＞\n¥6,160／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8153607:new",
-      "detectedAt": "2026-10-14T02:07:21.638Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "最後に熱い日々を狂わしき想いで [CD+Blu-ray Disc]＜初回限定仕様盤A＞",
-      "url": "https://tower.jp/item/8153607",
-      "image": "https://cdn.tower.jp/za/m/9W/zaP5_G4888599W.JPG",
-      "price": 6160,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n最後に熱い日々を狂わしき想いで [CD+Blu-ray Disc]＜初回限定仕様盤A＞\n¥6,160／タワレコ\nhttps://tower.jp/item/8153607",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n最後に熱い日々を狂わしき想いで [CD+Blu-ray Disc]＜初回限定仕様盤A＞\n¥6,160／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
