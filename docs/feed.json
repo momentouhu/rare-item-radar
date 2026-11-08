@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-08T07:48:45.684Z",
+  "updatedAt": "2026-11-08T14:52:27.279Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:350756",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/350756",
+        "rawUrl": "https://www.c-labo-online.jp/product/350756",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-08T14:52:03.248Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8985,37 +9015,6 @@
         "lenWithLink": 151,
         "lenNoLink": 161,
         "image": "https://cdn.tower.jp/za/m/51/4942463526351.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:11449688",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "モンコレボックス 夢見のノクターン (10個セット) (食玩)",
-        "url": "https://www.1999.co.jp/11449688",
-        "rawUrl": "https://www.1999.co.jp/11449688",
-        "image": "https://www.1999.co.jp/itbig144/11449688.jpg",
-        "price": 4752,
-        "inStock": true,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "2026年9月下旬 発売"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-22T12:27:15.464Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nモンコレボックス 夢見のノクターン (10個セット) (食玩)\n¥4,752／ホビーサーチ\nhttps://www.1999.co.jp/11449688",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nモンコレボックス 夢見のノクターン (10個セット) (食玩)\n¥4,752／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 138,
-        "lenNoLink": 148,
-        "image": "https://www.1999.co.jp/itbig144/11449688.jpg"
       }
     }
   ]
