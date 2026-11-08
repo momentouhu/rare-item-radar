@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-07T21:35:28.476Z",
+  "updatedAt": "2026-11-08T01:12:15.186Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356709",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+        "url": "https://www.c-labo-online.jp/product/356709",
+        "rawUrl": "https://www.c-labo-online.jp/product/356709",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2280,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-08T01:12:10.883Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,280／カードラボ\nhttps://www.c-labo-online.jp/product/356709",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,280／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356652",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
+        "url": "https://www.c-labo-online.jp/product/356652",
+        "rawUrl": "https://www.c-labo-online.jp/product/356652",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2480,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-08T01:12:10.922Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/356652",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8956,68 +9016,6 @@
         "lenWithLink": 138,
         "lenNoLink": 148,
         "image": "https://www.1999.co.jp/itbig144/11449688.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:11442585",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "S.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)",
-        "url": "https://www.1999.co.jp/11442585",
-        "rawUrl": "https://www.1999.co.jp/11442585",
-        "image": "https://www.1999.co.jp/itbig144/11442585.jpg",
-        "price": 8910,
-        "inStock": true,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "2027年1月 発売予定"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-22T06:38:50.949Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)\n¥8,910／ホビーサーチ\nhttps://www.1999.co.jp/11442585",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ シャンクス -マリンフォード頂上決戦- (完成品)\n¥8,910／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 148,
-        "lenNoLink": 158,
-        "image": "https://www.1999.co.jp/itbig144/11442585.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:11347807",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "S.H.フィギュアーツ サンジ(A Netflix Series: ONE PIECE) (完成品)",
-        "url": "https://www.1999.co.jp/11347807",
-        "rawUrl": "https://www.1999.co.jp/11347807",
-        "image": "https://www.1999.co.jp/itbig134/11347807.jpg",
-        "price": 8118,
-        "inStock": true,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "10月 発売予定"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-22T06:38:51.041Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ サンジ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\nhttps://www.1999.co.jp/11347807",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nS.H.フィギュアーツ サンジ(A Netflix Series: ONE PIECE) (完成品)\n¥8,118／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 148,
-        "lenNoLink": 158,
-        "image": "https://www.1999.co.jp/itbig134/11347807.jpg"
       }
     }
   ]

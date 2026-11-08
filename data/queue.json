@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "clabo:356652:new",
+      "detectedAt": "2026-11-08T01:12:10.922Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
+      "url": "https://www.c-labo-online.jp/product/356652",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2480,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/356652",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:356709:new",
+      "detectedAt": "2026-11-08T01:12:10.883Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+      "url": "https://www.c-labo-online.jp/product/356709",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2280,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,280／カードラボ\nhttps://www.c-labo-online.jp/product/356709",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,280／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:356608:new",
       "detectedAt": "2026-11-07T21:35:23.383Z",
       "watchLabel": "遊戯王",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356672",
       "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:356681:new",
-      "detectedAt": "2026-10-15T00:21:37.163Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-      "url": "https://www.c-labo-online.jp/product/356681",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2180,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/356681",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8153611:new",
-      "detectedAt": "2026-10-14T02:07:21.638Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "最後に熱い日々を狂わしき想いで [CD+DVD]＜初回限定仕様盤B＞",
-      "url": "https://tower.jp/item/8153611",
-      "image": "https://cdn.tower.jp/za/m/1W/zaP5_G4888601W.JPG",
-      "price": 6160,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n最後に熱い日々を狂わしき想いで [CD+DVD]＜初回限定仕様盤B＞\n¥6,160／タワレコ\nhttps://tower.jp/item/8153611",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n最後に熱い日々を狂わしき想いで [CD+DVD]＜初回限定仕様盤B＞\n¥6,160／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
