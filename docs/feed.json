@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-09T02:55:52.742Z",
+  "updatedAt": "2026-11-09T11:03:02.861Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-09T11:02:37.024Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8985,36 +9015,6 @@
         "lenWithLink": 128,
         "lenNoLink": 138,
         "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4886670W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8134568",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "Lonely...But not Alone/YesかNoか私か [CD+Blu-ray Disc]＜初回生産限定盤SP＞",
-        "url": "https://tower.jp/item/8134568",
-        "rawUrl": "https://tower.jp/item/8134568",
-        "image": "https://cdn.tower.jp/za/m/51/4942463526351.jpg",
-        "price": 3850,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-22T17:13:03.032Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nLonely...But not Alone/YesかNoか私か [CD+Blu-ray Disc]＜初回生産限定盤SP＞\n¥3,850／タワレコ\nhttps://tower.jp/item/8134568",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nLonely...But not Alone/YesかNoか私か [CD+Blu-ray Disc]＜初回生産限定盤SP＞\n¥3,850／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 151,
-        "lenNoLink": 161,
-        "image": "https://cdn.tower.jp/za/m/51/4942463526351.jpg"
       }
     }
   ]
