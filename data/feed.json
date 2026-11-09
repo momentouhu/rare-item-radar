@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-09T11:03:02.861Z",
+  "updatedAt": "2026-11-09T21:35:51.927Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294939",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+        "url": "https://www.c-labo-online.jp/product/294939",
+        "rawUrl": "https://www.c-labo-online.jp/product/294939",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2280,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-09T21:35:48.536Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,280／カードラボ\nhttps://www.c-labo-online.jp/product/294939",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,280／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "sevennet:2190054663",
+        "source": "sevennet",
+        "sourceLabel": "セブンネット",
+        "title": "Nintendo Switch2　トゥームレイダー：レガシー・オブ・アトランティス コレクターズ・エディション",
+        "url": "https://7net.omni7.jp/detail/2190054663.html",
+        "rawUrl": "https://7net.omni7.jp/detail/2190054663.html",
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw45bc342d/033020/4580717791485.jpg?sw=640",
+        "price": 32780,
+        "inStock": true,
+        "shop": "セブンネットショッピング",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "game-hw",
+      "watchLabel": "ゲーム機・限定版",
+      "detectedAt": "2026-11-09T21:35:51.378Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch2　トゥームレイダー：レガシー・オブ・アトランティス コレクターズ・エディション\n¥32,780／セブンネット\nhttps://7net.omni7.jp/detail/2190054663.html",
+        "textNoLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch2　トゥームレイダー：レガシー・オブ・アトランティス コレクターズ・エディション\n¥32,780／セブンネット\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 177,
+        "lenNoLink": 187,
+        "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw45bc342d/033020/4580717791485.jpg?sw=640"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8955,66 +9015,6 @@
         "lenWithLink": 121,
         "lenNoLink": 131,
         "image": "https://cdn.tower.jp/za/m/6W/zaP5_G4886646W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8138148",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "The Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤A＞",
-        "url": "https://tower.jp/item/8138148",
-        "rawUrl": "https://tower.jp/item/8138148",
-        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G4886668W.JPG",
-        "price": 4620,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-22T17:13:03.032Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤A＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138148",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤A＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 128,
-        "lenNoLink": 138,
-        "image": "https://cdn.tower.jp/za/m/8W/zaP5_G4886668W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8138151",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "The Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤B＞",
-        "url": "https://tower.jp/item/8138151",
-        "rawUrl": "https://tower.jp/item/8138151",
-        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4886670W.JPG",
-        "price": 4620,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-22T17:13:03.032Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8138151",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nThe Way of L.O.V-E [CD+Blu-ray Disc]＜初回限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 128,
-        "lenNoLink": 138,
-        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G4886670W.JPG"
       }
     }
   ]

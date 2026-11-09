@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sevennet:2190054663:new",
+      "detectedAt": "2026-11-09T21:35:51.378Z",
+      "watchLabel": "ゲーム機・限定版",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "Nintendo Switch2　トゥームレイダー：レガシー・オブ・アトランティス コレクターズ・エディション",
+      "url": "https://7net.omni7.jp/detail/2190054663.html",
+      "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw45bc342d/033020/4580717791485.jpg?sw=640",
+      "price": 32780,
+      "sourceLabel": "セブンネット",
+      "textWithLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch2　トゥームレイダー：レガシー・オブ・アトランティス コレクターズ・エディション\n¥32,780／セブンネット\nhttps://7net.omni7.jp/detail/2190054663.html",
+      "textNoLink": "🆕【新着・予約開始】ゲーム機・限定版\nNintendo Switch2　トゥームレイダー：レガシー・オブ・アトランティス コレクターズ・エディション\n¥32,780／セブンネット\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:294939:new",
+      "detectedAt": "2026-11-09T21:35:48.536Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+      "url": "https://www.c-labo-online.jp/product/294939",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2280,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,280／カードラボ\nhttps://www.c-labo-online.jp/product/294939",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,280／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:356652:new",
       "detectedAt": "2026-11-08T01:12:10.922Z",
       "watchLabel": "遊戯王",
@@ -1468,36 +1498,6 @@
       "sourceLabel": "セブンネット",
       "textWithLink": "🆕【新着・予約開始】ガンダムカードゲーム\nガンダムカードゲーム ブースターパック Stardust Trails[GD06]\n¥6,019／セブンネット\nhttps://7net.omni7.jp/detail/2190052374.html",
       "textNoLink": "🆕【新着・予約開始】ガンダムカードゲーム\nガンダムカードゲーム ブースターパック Stardust Trails[GD06]\n¥6,019／セブンネット\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "sevennet:2190052375:new",
-      "detectedAt": "2026-10-15T10:12:41.866Z",
-      "watchLabel": "ワンピースカード",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "ワンピースカードゲーム EXブースター ONE PIECE Heroines Edition vol.2[EB-05]",
-      "url": "https://7net.omni7.jp/detail/2190052375.html",
-      "image": "https://7net.omni7.jp/dw/image/v2/BLHS_PRD/on/demandware.static/-/Sites-goodsGame-m-catalog/ja_JP/dw6da69b91/033024/4500000612921.jpg?sw=640",
-      "price": 5782,
-      "sourceLabel": "セブンネット",
-      "textWithLink": "🆕【新着・予約開始】ワンピースカード\nワンピースカードゲーム EXブースター ONE PIECE Heroines Edition vol.2[EB-05]\n¥5,782／セブンネット\nhttps://7net.omni7.jp/detail/2190052375.html\n#ワンピカード #ONEPIECEカードゲーム",
-      "textNoLink": "🆕【新着・予約開始】ワンピースカード\nワンピースカードゲーム EXブースター ONE PIECE Heroines Edition vol.2[EB-05]\n¥5,782／セブンネット\n🔗 詳細はプロフィールのリンクから\n#ワンピカード #ONEPIECEカードゲーム",
-      "posted": {}
-    },
-    {
-      "id": "clabo:356672:new",
-      "detectedAt": "2026-10-15T00:21:37.199Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
-      "url": "https://www.c-labo-online.jp/product/356672",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2780,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356672",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
