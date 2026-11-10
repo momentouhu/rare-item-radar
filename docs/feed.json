@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-10T12:30:04.540Z",
+  "updatedAt": "2026-11-10T19:59:37.358Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:339521",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/339521",
+        "rawUrl": "https://www.c-labo-online.jp/product/339521",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-10T19:59:13.315Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/339521",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8985,36 +9015,6 @@
         "lenWithLink": 113,
         "lenNoLink": 123,
         "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3944707W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8134545",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "きっと! [2CD+Blu-ray Disc]＜初回生産限定盤＞",
-        "url": "https://tower.jp/item/8134545",
-        "rawUrl": "https://tower.jp/item/8134545",
-        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G4886646W.JPG",
-        "price": 7700,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-22T17:13:03.032Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nきっと! [2CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\nhttps://tower.jp/item/8134545",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nきっと! [2CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 121,
-        "lenNoLink": 131,
-        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G4886646W.JPG"
       }
     }
   ]
