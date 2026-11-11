@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-11T15:57:49.516Z",
+  "updatedAt": "2026-11-11T22:34:11.011Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-11T22:33:47.477Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356647",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
+        "url": "https://www.c-labo-online.jp/product/356647",
+        "rawUrl": "https://www.c-labo-online.jp/product/356647",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2480,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-11T22:34:07.276Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/356647",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8956,66 +9016,6 @@
         "lenWithLink": 137,
         "lenNoLink": 147,
         "image": "https://cdn.tower.jp/za/m/5W/zaP5_G3933515W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8140841",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "HIGH BEAM [CD+フォトブック+グッズ]＜初回限定盤＞",
-        "url": "https://tower.jp/item/8140841",
-        "rawUrl": "https://tower.jp/item/8140841",
-        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3941500W.JPG",
-        "price": 3850,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-23T07:31:24.425Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nHIGH BEAM [CD+フォトブック+グッズ]＜初回限定盤＞\n¥3,850／タワレコ\nhttps://tower.jp/item/8140841",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nHIGH BEAM [CD+フォトブック+グッズ]＜初回限定盤＞\n¥3,850／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 125,
-        "lenNoLink": 135,
-        "image": "https://cdn.tower.jp/za/m/0W/zaP5_G3941500W.JPG"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:350756",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
-        "url": "https://www.c-labo-online.jp/product/350756",
-        "rawUrl": "https://www.c-labo-online.jp/product/350756",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-        "price": 5808,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-22T23:12:17.672Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 176,
-        "lenNoLink": 186,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
       }
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:356647:new",
+      "detectedAt": "2026-11-11T22:34:07.276Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
+      "url": "https://www.c-labo-online.jp/product/356647",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2480,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/356647",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:418063:new",
       "detectedAt": "2026-11-11T15:56:41.455Z",
       "watchLabel": "マジック：ザ・ギャザリング",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - コレクター・ブースター 日本語版…\n¥38,544／カードラボ\nhttps://www.c-labo-online.jp/product/409898\n#MTG",
       "textNoLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - コレクター・ブースター 日本語版…\n¥38,544／カードラボ\n🔗 詳細はプロフィールのリンクから\n#MTG",
-      "posted": {}
-    },
-    {
-      "id": "clabo:356704:new",
-      "detectedAt": "2026-10-15T22:37:14.310Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
-      "url": "https://www.c-labo-online.jp/product/356704",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2780,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356704",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
