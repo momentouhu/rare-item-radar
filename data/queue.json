@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:294892:new",
+      "detectedAt": "2026-11-12T03:41:36.425Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033",
+      "url": "https://www.c-labo-online.jp/product/294892",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 2780,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/294892",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】オルフェゴール・ガラテアi【クォーターセンチュリー/リンク-1】QCTB-JP033\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:356647:new",
       "detectedAt": "2026-11-11T22:34:07.276Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "カードラボ",
       "textWithLink": "🆕【新着・予約開始】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Freedom Ascension【GD05】(1 BOX =24パック) [2607/25]\n¥6,000／カードラボ\nhttps://www.c-labo-online.jp/product/413590",
       "textNoLink": "🆕【新着・予約開始】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Freedom Ascension【GD05】(1 BOX =24パック) [2607/25]\n¥6,000／カードラボ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:409898:new",
-      "detectedAt": "2026-10-16T01:02:52.583Z",
-      "watchLabel": "マジック：ザ・ギャザリング",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - コレクター・ブースター 日本語版（1 BOX =12パック入り） [再入荷/26年11月下旬予定]",
-      "url": "https://www.c-labo-online.jp/product/409898",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313030335f3964393437312e6a706700333230000074006669745f686569676874.jpg",
-      "price": 38544,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - コレクター・ブースター 日本語版…\n¥38,544／カードラボ\nhttps://www.c-labo-online.jp/product/409898\n#MTG",
-      "textNoLink": "🆕【新着・予約開始】マジック：ザ・ギャザリング\n【 予約 】[新品ボックス] マジック ： ザ ・ギャ ザ リング 『リアリティ・フラクチャー』 - コレクター・ブースター 日本語版…\n¥38,544／カードラボ\n🔗 詳細はプロフィールのリンクから\n#MTG",
       "posted": {}
     }
   ]
