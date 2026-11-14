@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:422325:new",
+      "detectedAt": "2026-11-14T16:25:34.732Z",
+      "watchLabel": "ワンピースカード",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "[新品ボックス] ワンピースカードゲーム エクストラブースター Heroines Edition【EB-03】(1 BOX =24パック) [10/25]",
+      "url": "https://www.c-labo-online.jp/product/422325",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235313032305f3536356431302e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 0,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】ワンピースカード\n[新品ボックス] ワンピースカードゲーム エクストラブースター Heroines Edition【EB-03】(1 BOX =24パック) [10/25]\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/422325\n#ワンピカード #ONEPIECEカードゲーム",
+      "textNoLink": "🆕【新着・予約開始】ワンピースカード\n[新品ボックス] ワンピースカードゲーム エクストラブースター Heroines Edition【EB-03】(1 BOX =24パック) [10/25]\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから\n#ワンピカード #ONEPIECEカードゲーム",
+      "posted": {}
+    },
+    {
       "id": "clabo:422316:new",
       "detectedAt": "2026-11-14T09:54:33.105Z",
       "watchLabel": "ユニオンアリーナ",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤A＞ [CD+Blu-ray Disc]\n¥2,530／タワレコ\nhttps://tower.jp/item/8189996",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤A＞ [CD+Blu-ray Disc]\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8189998:new",
-      "detectedAt": "2026-10-16T01:04:27.832Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【視聴用シリアルコード付き】SALT BOY ＜初回限定盤B＞ [CD+Blu-ray Disc]",
-      "url": "https://tower.jp/item/8189998",
-      "image": "",
-      "price": 2530,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤B＞ [CD+Blu-ray Disc]\n¥2,530／タワレコ\nhttps://tower.jp/item/8189998",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【視聴用シリアルコード付き】SALT BOY ＜初回限定盤B＞ [CD+Blu-ray Disc]\n¥2,530／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
