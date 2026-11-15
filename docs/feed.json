@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-14T20:54:26.643Z",
+  "updatedAt": "2026-11-15T00:51:47.723Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356759",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031",
+        "url": "https://www.c-labo-online.jp/product/356759",
+        "rawUrl": "https://www.c-labo-online.jp/product/356759",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2780,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-15T00:51:44.255Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\nhttps://www.c-labo-online.jp/product/356759",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】金雲獣-馬龍【プリズマティックシークレット/☆6】25DB-JP031\n¥2,780／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 136,
+        "lenNoLink": 146,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031322e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8987,36 +9017,6 @@
         "lenWithLink": 197,
         "lenNoLink": 207,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:350756",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
-        "url": "https://www.c-labo-online.jp/product/350756",
-        "rawUrl": "https://www.c-labo-online.jp/product/350756",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
-        "price": 5808,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "gundam-cg",
-      "watchLabel": "ガンダムカードゲーム",
-      "detectedAt": "2026-09-23T23:54:45.865Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/350756",
-        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 176,
-        "lenNoLink": 186,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
       }
     }
   ]
