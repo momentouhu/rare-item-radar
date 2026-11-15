@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-11-15T15:28:31.737Z",
+  "updatedAt": "2026-11-15T20:32:19.453Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-15T20:31:53.552Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:295033",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/295033",
+        "rawUrl": "https://www.c-labo-online.jp/product/295033",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-15T20:32:13.737Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/295033",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 160,
+        "lenNoLink": 170,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294886",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
+        "url": "https://www.c-labo-online.jp/product/294886",
+        "rawUrl": "https://www.c-labo-online.jp/product/294886",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2280,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-15T20:32:13.737Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,280／カードラボ\nhttps://www.c-labo-online.jp/product/294886",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,280／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 144,
+        "lenNoLink": 154,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8925,98 +9015,6 @@
         "lenWithLink": 176,
         "lenNoLink": 186,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:11471588",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "ポケモンスケールワールド ミアレシティ セット (食玩)",
-        "url": "https://www.1999.co.jp/11471588",
-        "rawUrl": "https://www.1999.co.jp/11471588",
-        "image": "https://www.1999.co.jp/itbig147/11471588.jpg",
-        "price": 3590,
-        "inStock": true,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "1月 発売予定"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-24T09:06:12.653Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンスケールワールド ミアレシティ セット (食玩)\n¥3,590／ホビーサーチ\nhttps://www.1999.co.jp/11471588",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンスケールワールド ミアレシティ セット (食玩)\n¥3,590／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 136,
-        "lenNoLink": 146,
-        "image": "https://www.1999.co.jp/itbig147/11471588.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:11471587",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "ポケモンスケールワールド ミアレシティ (10個セット) (食玩)",
-        "url": "https://www.1999.co.jp/11471587",
-        "rawUrl": "https://www.1999.co.jp/11471587",
-        "image": "https://www.1999.co.jp/itbig147/11471587.jpg",
-        "price": 5984,
-        "inStock": true,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "1月 発売予定"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-24T09:06:13.032Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンスケールワールド ミアレシティ (10個セット) (食玩)\n¥5,984／ホビーサーチ\nhttps://www.1999.co.jp/11471587",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンスケールワールド ミアレシティ (10個セット) (食玩)\n¥5,984／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 142,
-        "lenNoLink": 152,
-        "image": "https://www.1999.co.jp/itbig147/11471587.jpg"
-      }
-    },
-    {
-      "type": "restock",
-      "item": {
-        "id": "clabo:410830",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック) [2607/31]",
-        "url": "https://www.c-labo-online.jp/product/410830",
-        "rawUrl": "https://www.c-labo-online.jp/product/410830",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg",
-        "price": 6160,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "在庫復活",
-      "emoji": "🔥",
-      "score": 120,
-      "watchId": "unionarena",
-      "watchLabel": "ユニオンアリーナ",
-      "detectedAt": "2026-09-23T23:54:35.891Z",
-      "post": {
-        "textWithLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\nhttps://www.c-labo-online.jp/product/410830",
-        "textNoLink": "🔥【在庫復活】ユニオンアリーナ\n[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック アイドルマスターシンデレラガールズ【UA55BT】(1 BOX =16パック…\n¥6,160／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 197,
-        "lenNoLink": 207,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236303830365f6638666430342e706e6700333230000074006669745f686569676874.jpg"
       }
     }
   ]
