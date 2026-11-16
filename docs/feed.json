@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-11-16T00:21:00.597Z",
+  "updatedAt": "2026-11-16T07:08:20.508Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "hareruya2:15467981570368",
+        "source": "hareruya2",
+        "sourceLabel": "晴れる屋2",
+        "title": "【抽選販売】【MEGA】拡張パック「ハドウシーカー」(1BOX)",
+        "url": "https://www.hareruya2.com/products/15467981570368",
+        "rawUrl": "https://www.hareruya2.com/products/15467981570368",
+        "image": "https://cdn.shopify.com/s/files/1/0763/0536/7360/files/tEmCm8hYReyJBcl0O7I9MpsEej9BpHxPlwwfQ1KC.webp?v=1793795903",
+        "price": 6000,
+        "inStock": true,
+        "shop": "晴れる屋2",
+        "reviewCount": null,
+        "reviewAverage": null,
+        "releaseDate": "2026-11-16T12:02:07+09:00"
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "pokemon",
+      "watchLabel": "ポケモンカード（広め）",
+      "detectedAt": "2026-11-16T07:06:28.167Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ポケモンカード（広め）\n【抽選販売】【MEGA】拡張パック「ハドウシーカー」(1BOX)\n¥6,000／晴れる屋2\nhttps://www.hareruya2.com/products/15467981570368\n#ポケカ #ポケモンカード",
+        "textNoLink": "🆕【新着・予約開始】ポケモンカード（広め）\n【抽選販売】【MEGA】拡張パック「ハドウシーカー」(1BOX)\n¥6,000／晴れる屋2\n🔗 詳細はプロフィールのリンクから\n#ポケカ #ポケモンカード",
+        "lenWithLink": 164,
+        "lenNoLink": 174,
+        "image": "https://cdn.shopify.com/s/files/1/0763/0536/7360/files/tEmCm8hYReyJBcl0O7I9MpsEej9BpHxPlwwfQ1KC.webp?v=1793795903"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8985,36 +9016,6 @@
         "lenWithLink": 144,
         "lenNoLink": 154,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8155356",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "旅＜通常盤＞",
-        "url": "https://tower.jp/item/8155356",
-        "rawUrl": "https://tower.jp/item/8155356",
-        "image": "https://cdn.tower.jp/za/m/06/4580831099306.jpg",
-        "price": 2750,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-24T18:37:46.550Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜通常盤＞\n¥2,750／タワレコ\nhttps://tower.jp/item/8155356",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n旅＜通常盤＞\n¥2,750／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 89,
-        "lenNoLink": 99,
-        "image": "https://cdn.tower.jp/za/m/06/4580831099306.jpg"
       }
     }
   ]
