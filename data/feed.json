@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-11-17T09:02:27.533Z",
+  "updatedAt": "2026-11-17T18:29:39.933Z",
   "events": [
+    {
+      "type": "pricedrop",
+      "item": {
+        "id": "clabo:294885",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043",
+        "url": "https://www.c-labo-online.jp/product/294885",
+        "rawUrl": "https://www.c-labo-online.jp/product/294885",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "42%値下げ",
+      "emoji": "📉",
+      "score": 122.32804232804233,
+      "prevPrice": 3780,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-17T18:29:25.108Z",
+      "post": {
+        "textWithLink": "📉【42%値下げ】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥3,780 → ¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294885",
+        "textNoLink": "📉【42%値下げ】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥3,780 → ¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 139,
+        "lenNoLink": 149,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:378688",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/378688",
+        "rawUrl": "https://www.c-labo-online.jp/product/378688",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-17T18:29:04.885Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/378688",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "new",
       "item": {
@@ -8956,66 +9017,6 @@
         "lenWithLink": 128,
         "lenNoLink": 138,
         "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3949217W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8176028",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+DVD］",
-        "url": "https://tower.jp/item/8176028",
-        "rawUrl": "https://tower.jp/item/8176028",
-        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G3949215W.JPG",
-        "price": 4500,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-25T00:44:11.188Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+DVD］\n¥4,500／タワレコ\nhttps://tower.jp/item/8176028",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+DVD］\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 128,
-        "lenNoLink": 138,
-        "image": "https://cdn.tower.jp/za/m/5W/zaP5_G3949215W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8176021",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+Blu-ray Disc］",
-        "url": "https://tower.jp/item/8176021",
-        "rawUrl": "https://tower.jp/item/8176021",
-        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3949216W.JPG",
-        "price": 4500,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-25T00:44:11.188Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+Blu-ray Disc］\n¥4,500／タワレコ\nhttps://tower.jp/item/8176021",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤1＞ ［CD+Blu-ray Disc］\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 137,
-        "lenNoLink": 147,
-        "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3949216W.JPG"
       }
     }
   ]
