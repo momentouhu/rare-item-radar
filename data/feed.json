@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-17T01:00:28.547Z",
+  "updatedAt": "2026-11-17T09:02:27.533Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:422373",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【予約】[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 〈物語〉シリーズ Vol.2【EX18BT】(1 BOX =16パック) [2611/27]",
+        "url": "https://www.c-labo-online.jp/product/422373",
+        "rawUrl": "https://www.c-labo-online.jp/product/422373",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313131345f3165613532392e706e670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 0,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "unionarena",
+      "watchLabel": "ユニオンアリーナ",
+      "detectedAt": "2026-11-17T09:01:51.579Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】ユニオンアリーナ\n【予約】[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 〈物語〉シリーズ Vol.2【EX18BT】(1 BOX =16パック) [2…\n価格未定／カードラボ\nhttps://www.c-labo-online.jp/product/422373",
+        "textNoLink": "🆕【新着・予約開始】ユニオンアリーナ\n【予約】[新品ボックス]UNION ARENA ユニオンアリーナ ブースターパック 〈物語〉シリーズ Vol.2【EX18BT】(1 BOX =16パック) [2…\n価格未定／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 204,
+        "lenNoLink": 214,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313131345f3165613532392e706e670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8986,36 +9016,6 @@
         "lenWithLink": 137,
         "lenNoLink": 147,
         "image": "https://cdn.tower.jp/za/m/6W/zaP5_G3949216W.JPG"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8176024",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+Blu-ray Disc］",
-        "url": "https://tower.jp/item/8176024",
-        "rawUrl": "https://tower.jp/item/8176024",
-        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G3949214W.JPG",
-        "price": 4500,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-25T00:44:11.188Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+Blu-ray Disc］\n¥4,500／タワレコ\nhttps://tower.jp/item/8176024",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n【早期予約特典付】Juliet ＜初回限定盤2＞ ［CD+Blu-ray Disc］\n¥4,500／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 137,
-        "lenNoLink": 147,
-        "image": "https://cdn.tower.jp/za/m/4W/zaP5_G3949214W.JPG"
       }
     }
   ]
