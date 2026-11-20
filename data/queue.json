@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:418062:restock",
+      "detectedAt": "2026-11-20T21:28:47.014Z",
+      "watchLabel": "マジック：ザ・ギャザリング",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2611/13]",
+      "url": "https://www.c-labo-online.jp/product/418062",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313032365f3137396231662e706e6700333230000074006669745f686569676874.jpg",
+      "price": 21000,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🔥【在庫復活】マジック：ザ・ギャザリング\n[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2611…\n¥21,000／カードラボ\nhttps://www.c-labo-online.jp/product/418062\n#MTG",
+      "textNoLink": "🔥【在庫復活】マジック：ザ・ギャザリング\n[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2611…\n¥21,000／カードラボ\n🔗 詳細はプロフィールのリンクから\n#MTG",
+      "posted": {}
+    },
+    {
       "id": "clabo:356638:new",
       "detectedAt": "2026-11-19T23:28:17.170Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "ホビーサーチ",
       "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nTENITOL TALL フェルン クラシカルワンピースver. (フィギュア)\n¥10,450／ホビーサーチ\nhttps://www.1999.co.jp/11488446",
       "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nTENITOL TALL フェルン クラシカルワンピースver. (フィギュア)\n¥10,450／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "clabo:356721:new",
-      "detectedAt": "2026-10-18T23:59:57.131Z",
-      "watchLabel": "遊戯王",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007",
-      "url": "https://www.c-labo-online.jp/product/356721",
-      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030372e6a706700333230000074006669745f686569676874.jpg",
-      "price": 2580,
-      "sourceLabel": "カードラボ",
-      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/356721",
-      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・ティルル【クォーターセンチュリー/効果】QCTB-JP007\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
