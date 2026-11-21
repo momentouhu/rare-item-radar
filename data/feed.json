@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-11-20T21:30:05.462Z",
+  "updatedAt": "2026-11-21T02:46:35.362Z",
   "events": [
+    {
+      "type": "pricedrop",
+      "item": {
+        "id": "clabo:369668",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2611/13]",
+        "url": "https://www.c-labo-online.jp/product/369668",
+        "rawUrl": "https://www.c-labo-online.jp/product/369668",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313032365f3137396231662e706e6700333230000074006669745f686569676874.jpg",
+        "price": 21000,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "62%値下げ",
+      "emoji": "📉",
+      "score": 142.12121212121212,
+      "prevPrice": 55440,
+      "watchId": "mtg",
+      "watchLabel": "マジック：ザ・ギャザリング",
+      "detectedAt": "2026-11-21T02:45:26.543Z",
+      "post": {
+        "textWithLink": "📉【62%値下げ】マジック：ザ・ギャザリング\n[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2611…\n¥55,440 → ¥21,000／カードラボ\nhttps://www.c-labo-online.jp/product/369668\n#MTG",
+        "textNoLink": "📉【62%値下げ】マジック：ザ・ギャザリング\n[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2611…\n¥55,440 → ¥21,000／カードラボ\n🔗 詳細はプロフィールのリンクから\n#MTG",
+        "lenWithLink": 226,
+        "lenNoLink": 236,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313032365f3137396231662e706e6700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8987,36 +9018,6 @@
         "lenWithLink": 176,
         "lenNoLink": 186,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "clabo:294996",
-        "source": "clabo",
-        "sourceLabel": "カードラボ",
-        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
-        "url": "https://www.c-labo-online.jp/product/294996",
-        "rawUrl": "https://www.c-labo-online.jp/product/294996",
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
-        "price": 2180,
-        "inStock": true,
-        "shop": "カードラボ",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "yugioh",
-      "watchLabel": "遊戯王",
-      "detectedAt": "2026-09-26T22:29:33.391Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294996",
-        "textNoLink": "🆕【新着・予約開始】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 160,
-        "lenNoLink": 170,
-        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
       }
     }
   ]

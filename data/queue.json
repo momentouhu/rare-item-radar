@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:369668:pricedrop",
+      "detectedAt": "2026-11-21T02:45:26.543Z",
+      "watchLabel": "マジック：ザ・ギャザリング",
+      "label": "62%値下げ",
+      "emoji": "📉",
+      "title": "[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2611/13]",
+      "url": "https://www.c-labo-online.jp/product/369668",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303236313032365f3137396231662e706e6700333230000074006669745f686569676874.jpg",
+      "price": 21000,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "📉【62%値下げ】マジック：ザ・ギャザリング\n[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2611…\n¥55,440 → ¥21,000／カードラボ\nhttps://www.c-labo-online.jp/product/369668\n#MTG",
+      "textNoLink": "📉【62%値下げ】マジック：ザ・ギャザリング\n[新品ボックス] マジック ： ザ ・ギャ ザ リング 『スター・トレック』 - プレイ・ブースター 日本語版(1 BOX =30パック) [2611…\n¥55,440 → ¥21,000／カードラボ\n🔗 詳細はプロフィールのリンクから\n#MTG",
+      "posted": {}
+    },
+    {
       "id": "clabo:418062:restock",
       "detectedAt": "2026-11-20T21:28:47.014Z",
       "watchLabel": "マジック：ザ・ギャザリング",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "ホビーサーチ",
       "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nTENITOL TALL フリーレン クラシカルワンピースver. (フィギュア)\n¥10,450／ホビーサーチ\nhttps://www.1999.co.jp/11488445",
       "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nTENITOL TALL フリーレン クラシカルワンピースver. (フィギュア)\n¥10,450／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "hobbysearch:11488446:new",
-      "detectedAt": "2026-10-19T10:10:53.140Z",
-      "watchLabel": "フィギュア・ホビー",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "TENITOL TALL フェルン クラシカルワンピースver. (フィギュア)",
-      "url": "https://www.1999.co.jp/11488446",
-      "image": "https://www.1999.co.jp/itbig148/11488446.jpg",
-      "price": 10450,
-      "sourceLabel": "ホビーサーチ",
-      "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nTENITOL TALL フェルン クラシカルワンピースver. (フィギュア)\n¥10,450／ホビーサーチ\nhttps://www.1999.co.jp/11488446",
-      "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nTENITOL TALL フェルン クラシカルワンピースver. (フィギュア)\n¥10,450／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
