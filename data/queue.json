@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:294882:pricedrop",
+      "detectedAt": "2026-11-24T04:15:20.589Z",
+      "watchLabel": "遊戯王",
+      "label": "22%値下げ",
+      "emoji": "📉",
+      "title": "【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043",
+      "url": "https://www.c-labo-online.jp/product/294882",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 2180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "📉【22%値下げ】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,780 → ¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294882",
+      "textNoLink": "📉【22%値下げ】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,780 → ¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294934:new",
       "detectedAt": "2026-11-21T22:54:27.875Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nSPIN [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\nhttps://tower.jp/item/8152432",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nSPIN [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8060681:new",
-      "detectedAt": "2026-10-20T15:48:20.115Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "EVOLVE＜初回生産限定盤B＞",
-      "url": "https://tower.jp/item/8060681",
-      "image": "https://cdn.tower.jp/za/m/44/4570221691944.jpg",
-      "price": 4620,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nEVOLVE＜初回生産限定盤B＞\n¥4,620／タワレコ\nhttps://tower.jp/item/8060681",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nEVOLVE＜初回生産限定盤B＞\n¥4,620／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
