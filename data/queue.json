@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "clabo:295006:new",
+      "detectedAt": "2026-11-25T09:01:12.463Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043",
+      "url": "https://www.c-labo-online.jp/product/295006",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031372e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 2180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/295006",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】星杯の神子イヴ【クォーターセンチュリー/☆5】QCTB-JP043\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294884:restock",
       "detectedAt": "2026-11-25T00:03:39.013Z",
       "watchLabel": "遊戯王",
@@ -1483,21 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nNarrative [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥15,180／タワレコ\nhttps://tower.jp/item/8162861",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nNarrative [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥15,180／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8152484:new",
-      "detectedAt": "2026-10-20T15:48:20.139Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "映画『SUPER BEAVER LIVE & DOCUMENTARY -現在地-』 [2DVD+フォトブック]＜初回生産限定盤＞",
-      "url": "https://tower.jp/item/8152484",
-      "image": "https://cdn.tower.jp/za/m/5W/zaP5_G3948325W.JPG",
-      "price": 12100,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n映画『SUPER BEAVER LIVE & DOCUMENTARY -現在地-』 [2DVD+フォトブック]＜初回生産限定盤＞\n¥12,100／タワレコ\nhttps://tower.jp/item/8152484",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n映画『SUPER BEAVER LIVE & DOCUMENTARY -現在地-』 [2DVD+フォトブック]＜初回生産限定盤＞\n¥12,100／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
