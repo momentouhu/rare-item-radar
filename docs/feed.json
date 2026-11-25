@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-24T15:10:59.128Z",
+  "updatedAt": "2026-11-25T00:03:42.660Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:339521",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/339521",
+        "rawUrl": "https://www.c-labo-online.jp/product/339521",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-25T00:03:19.334Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/339521",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:294884",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/294884",
+        "rawUrl": "https://www.c-labo-online.jp/product/294884",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2180,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-25T00:03:39.013Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294884",
+        "textNoLink": "🔥【在庫復活】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 154,
+        "lenNoLink": 164,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294943",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/294943",
+        "rawUrl": "https://www.c-labo-online.jp/product/294943",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2980,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-25T00:03:39.013Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,980／カードラボ\nhttps://www.c-labo-online.jp/product/294943",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,980／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294988",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024",
+        "url": "https://www.c-labo-online.jp/product/294988",
+        "rawUrl": "https://www.c-labo-online.jp/product/294988",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+        "price": 2580,
+        "inStock": false,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-25T00:03:39.013Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294988",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 139,
+        "lenNoLink": 149,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8896,129 +9016,6 @@
         "lenWithLink": 149,
         "lenNoLink": 159,
         "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030352e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:10079252",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "ドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空Ver.. (フィギュア)",
-        "url": "https://www.1999.co.jp/10079252",
-        "rawUrl": "https://www.1999.co.jp/10079252",
-        "image": "https://www.1999.co.jp/itbig07/10079252.jpg",
-        "price": 6358,
-        "inStock": false,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "2009年3月下旬 発売"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-29T15:28:11.915Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空Ver.. (フィギュア)\n¥6,358／ホビーサーチ\nhttps://www.1999.co.jp/10079252",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 孫悟空Ver.. (フィギュア)\n¥6,358／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 157,
-        "lenNoLink": 167,
-        "image": "https://www.1999.co.jp/itbig07/10079252.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:8056609",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "《3種同時購入特典トレカ付セット》KO1KEYZ ＜初回限定盤A＞+＜初回限定盤B＞+＜通常盤＞",
-        "url": "https://tower.jp/item/8056609",
-        "rawUrl": "https://tower.jp/item/8056609",
-        "image": "https://cdn.tower.jp/za/m/27/2050269079727.jpg",
-        "price": 5200,
-        "inStock": true,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-09-29T15:29:11.811Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n《3種同時購入特典トレカ付セット》KO1KEYZ ＜初回限定盤A＞+＜初回限定盤B＞+＜通常盤＞\n¥5,200／タワレコ\nhttps://tower.jp/item/8056609",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n《3種同時購入特典トレカ付セット》KO1KEYZ ＜初回限定盤A＞+＜初回限定盤B＞+＜通常盤＞\n¥5,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 160,
-        "lenNoLink": 170,
-        "image": "https://cdn.tower.jp/za/m/27/2050269079727.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:11357570",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "ポケモンキッズ 30周年スペシャル vol.3編 (21個セット) (食玩)",
-        "url": "https://www.1999.co.jp/11357570",
-        "rawUrl": "https://www.1999.co.jp/11357570",
-        "image": "https://www.1999.co.jp/itbig135/11357570.jpg",
-        "price": 4620,
-        "inStock": true,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "2026年8月下旬 発売"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-29T02:14:42.614Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンキッズ 30周年スペシャル vol.3編 (21個セット) (食玩)\n¥4,620／ホビーサーチ\nhttps://www.1999.co.jp/11357570",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nポケモンキッズ 30周年スペシャル vol.3編 (21個セット) (食玩)\n¥4,620／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 144,
-        "lenNoLink": 154,
-        "image": "https://www.1999.co.jp/itbig135/11357570.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "hobbysearch:10079253",
-        "source": "hobbysearch",
-        "sourceLabel": "ホビーサーチ",
-        "title": "ドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)",
-        "url": "https://www.1999.co.jp/10079253",
-        "rawUrl": "https://www.1999.co.jp/10079253",
-        "image": "https://www.1999.co.jp/itbig07/10079253.jpg",
-        "price": 6358,
-        "inStock": false,
-        "shop": "ホビーサーチ",
-        "reviewCount": null,
-        "reviewAverage": null,
-        "releaseDate": "2009年3月下旬 発売"
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "figure",
-      "watchLabel": "フィギュア・ホビー",
-      "detectedAt": "2026-09-28T22:28:19.848Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)\n¥6,358／ホビーサーチ\nhttps://www.1999.co.jp/10079253",
-        "textNoLink": "🆕【新着・予約開始】フィギュア・ホビー\nドラゴンボール×チョッパーマン DXソフビフギュア 魔人ブウVer.. (フィギュア)\n¥6,358／ホビーサーチ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 159,
-        "lenNoLink": 169,
-        "image": "https://www.1999.co.jp/itbig07/10079253.jpg"
       }
     }
   ]

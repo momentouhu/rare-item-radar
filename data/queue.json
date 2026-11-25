@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "clabo:294884:restock",
+      "detectedAt": "2026-11-25T00:03:39.013Z",
+      "watchLabel": "遊戯王",
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "title": "※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/294884",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2180,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🔥【在庫復活】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\nhttps://www.c-labo-online.jp/product/294884",
+      "textNoLink": "🔥【在庫復活】遊戯王\n※プレイ用特価品※【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,180／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:294943:new",
+      "detectedAt": "2026-11-25T00:03:39.013Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+      "url": "https://www.c-labo-online.jp/product/294943",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+      "price": 2980,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,980／カードラボ\nhttps://www.c-labo-online.jp/product/294943",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,980／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
+      "id": "clabo:294988:new",
+      "detectedAt": "2026-11-25T00:03:39.013Z",
+      "watchLabel": "遊戯王",
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "title": "【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024",
+      "url": "https://www.c-labo-online.jp/product/294988",
+      "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303031312e6a70670033323000534f4c44204f55540074006669745f686569676874.jpg",
+      "price": 2580,
+      "sourceLabel": "カードラボ",
+      "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\nhttps://www.c-labo-online.jp/product/294988",
+      "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】No-P.U.N.K.セアミン【クォーターセンチュリー/効果】QCTB-JP024\n¥2,580／カードラボ\n🔗 詳細はプロフィールのリンクから",
+      "posted": {}
+    },
+    {
       "id": "clabo:294882:pricedrop",
       "detectedAt": "2026-11-24T04:15:20.589Z",
       "watchLabel": "遊戯王",
@@ -1453,51 +1498,6 @@
       "sourceLabel": "タワレコ",
       "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n映画『SUPER BEAVER LIVE & DOCUMENTARY -現在地-』 [2DVD+フォトブック]＜初回生産限定盤＞\n¥12,100／タワレコ\nhttps://tower.jp/item/8152484",
       "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n映画『SUPER BEAVER LIVE & DOCUMENTARY -現在地-』 [2DVD+フォトブック]＜初回生産限定盤＞\n¥12,100／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8152482:new",
-      "detectedAt": "2026-10-20T15:48:20.139Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "映画『SUPER BEAVER LIVE & DOCUMENTARY -現在地-』 [Blu-ray Disc+フォトブック]＜初回生産限定盤＞",
-      "url": "https://tower.jp/item/8152482",
-      "image": "https://cdn.tower.jp/za/m/7W/zaP5_G3948327W.JPG",
-      "price": 13200,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\n映画『SUPER BEAVER LIVE & DOCUMENTARY -現在地-』 [Blu-ray Disc+フォトブック]＜初回生産限定盤＞\n¥13,200／タワレコ\nhttps://tower.jp/item/8152482",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\n映画『SUPER BEAVER LIVE & DOCUMENTARY -現在地-』 [Blu-ray Disc+フォトブック]＜初回生産限定盤＞\n¥13,200／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8139787:new",
-      "detectedAt": "2026-10-20T15:48:20.139Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "UNISON SQUARE GARDEN Revival Tour \"Catcher In The Spy\" at NHK Hall 2024.04.25 [2Blu-ray Disc+2CD]＜初回生産限定盤＞",
-      "url": "https://tower.jp/item/8139787",
-      "image": "https://cdn.tower.jp/za/m/31/4988061783031.jpg",
-      "price": 11000,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nUNISON SQUARE GARDEN Revival Tour \"Catcher In The Spy\" at NHK Hall 2024.04.25 [2Blu-ray Disc+2CD]＜初回生産限定盤＞\n¥11,000／タワレコ\nhttps://tower.jp/item/8139787",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nUNISON SQUARE GARDEN Revival Tour \"Catcher In The Spy\" at NHK Hall 2024.04.25 [2Blu-ray Disc+2CD]＜初回生産限定盤＞\n¥11,000／タワレコ\n🔗 詳細はプロフィールのリンクから",
-      "posted": {}
-    },
-    {
-      "id": "tower:8152432:new",
-      "detectedAt": "2026-10-20T15:48:20.139Z",
-      "watchLabel": "限定盤・グッズ",
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "title": "SPIN [CD+Blu-ray Disc]＜初回生産限定盤＞",
-      "url": "https://tower.jp/item/8152432",
-      "image": "https://cdn.tower.jp/za/m/6W/zaP5_G4888586W.JPG",
-      "price": 7700,
-      "sourceLabel": "タワレコ",
-      "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nSPIN [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\nhttps://tower.jp/item/8152432",
-      "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nSPIN [CD+Blu-ray Disc]＜初回生産限定盤＞\n¥7,700／タワレコ\n🔗 詳細はプロフィールのリンクから",
       "posted": {}
     }
   ]
