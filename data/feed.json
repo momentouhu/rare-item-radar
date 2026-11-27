@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-26T20:27:44.148Z",
+  "updatedAt": "2026-11-27T03:09:13.639Z",
   "events": [
+    {
+      "type": "restock",
+      "item": {
+        "id": "clabo:339521",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]",
+        "url": "https://www.c-labo-online.jp/product/339521",
+        "rawUrl": "https://www.c-labo-online.jp/product/339521",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg",
+        "price": 5808,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "在庫復活",
+      "emoji": "🔥",
+      "score": 120,
+      "watchId": "gundam-cg",
+      "watchLabel": "ガンダムカードゲーム",
+      "detectedAt": "2026-11-27T03:08:48.029Z",
+      "post": {
+        "textWithLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\nhttps://www.c-labo-online.jp/product/339521",
+        "textNoLink": "🔥【在庫復活】ガンダムカードゲーム\n[新品ボックス] ガンダムカードゲーム ブースターパック Dual Impact【GD02】(1 BOX =24パック) [10/25]\n¥5,808／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 176,
+        "lenNoLink": 186,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f32303235303830365f6363623162632e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:294920",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009",
+        "url": "https://www.c-labo-online.jp/product/294920",
+        "rawUrl": "https://www.c-labo-online.jp/product/294920",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2980,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-27T03:09:10.115Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,980／カードラボ\nhttps://www.c-labo-online.jp/product/294920",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】ドラゴンメイド・パルラ【クォーターセンチュリー/効果】QCTB-JP009\n¥2,980／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f716374625f303030382e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8956,66 +9016,6 @@
         "lenWithLink": 127,
         "lenNoLink": 137,
         "image": "https://cdn.tower.jp/za/m/70/9784092536470.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:6216179",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "ポケモンずかんドリル 小学1年生 ひらがな・カタカナ",
-        "url": "https://tower.jp/item/6216179",
-        "rawUrl": "https://tower.jp/item/6216179",
-        "image": "https://cdn.tower.jp/62/m/79/6216179.jpg",
-        "price": 0,
-        "inStock": false,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-10-01T00:45:46.981Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 ひらがな・カタカナ\n価格未定／タワレコ\nhttps://tower.jp/item/6216179",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 ひらがな・カタカナ\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 127,
-        "lenNoLink": 137,
-        "image": "https://cdn.tower.jp/62/m/79/6216179.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:5761807",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "ポケモンずかんドリル 小学1年生 すう・ずけい・たんい",
-        "url": "https://tower.jp/item/5761807",
-        "rawUrl": "https://tower.jp/item/5761807",
-        "image": "https://cdn.tower.jp/57/m/07/5761807.jpg",
-        "price": 0,
-        "inStock": false,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-10-01T00:45:46.981Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 すう・ずけい・たんい\n価格未定／タワレコ\nhttps://tower.jp/item/5761807",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学1年生 すう・ずけい・たんい\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 129,
-        "lenNoLink": 139,
-        "image": "https://cdn.tower.jp/57/m/07/5761807.jpg"
       }
     }
   ]
