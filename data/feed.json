@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-27T21:55:48.462Z",
+  "updatedAt": "2026-11-28T03:48:02.337Z",
   "events": [
+    {
+      "type": "new",
+      "item": {
+        "id": "clabo:356648",
+        "source": "clabo",
+        "sourceLabel": "カードラボ",
+        "title": "【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029",
+        "url": "https://www.c-labo-online.jp/product/356648",
+        "rawUrl": "https://www.c-labo-online.jp/product/356648",
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg",
+        "price": 2480,
+        "inStock": true,
+        "shop": "カードラボ",
+        "reviewCount": null,
+        "reviewAverage": null
+      },
+      "label": "新着・予約開始",
+      "emoji": "🆕",
+      "score": 100,
+      "watchId": "yugioh",
+      "watchLabel": "遊戯王",
+      "detectedAt": "2026-11-28T03:47:58.804Z",
+      "post": {
+        "textWithLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\nhttps://www.c-labo-online.jp/product/356648",
+        "textNoLink": "🆕【新着・予約開始】遊戯王\n【遊戯】共命の翼ガルーラ【プリズマティックシークレット/融合】25DB-JP029\n¥2,480／カードラボ\n🔗 詳細はプロフィールのリンクから",
+        "lenWithLink": 142,
+        "lenNoLink": 152,
+        "image": "https://www.c-labo-online.jp/data/c-labo/_/70726f647563742f79676f5f323564625f303031302e6a706700333230000074006669745f686569676874.jpg"
+      }
+    },
     {
       "type": "restock",
       "item": {
@@ -8986,36 +9016,6 @@
         "lenWithLink": 115,
         "lenNoLink": 125,
         "image": "https://cdn.tower.jp/za/m/44/9784092536944.jpg"
-      }
-    },
-    {
-      "type": "new",
-      "item": {
-        "id": "tower:5643254",
-        "source": "tower",
-        "sourceLabel": "タワレコ",
-        "title": "ポケモンずかんドリル 小学2年生 かん字",
-        "url": "https://tower.jp/item/5643254",
-        "rawUrl": "https://tower.jp/item/5643254",
-        "image": "https://cdn.tower.jp/za/m/17/9784092536517.jpg",
-        "price": 0,
-        "inStock": false,
-        "shop": "タワーレコード",
-        "reviewCount": null,
-        "reviewAverage": null
-      },
-      "label": "新着・予約開始",
-      "emoji": "🆕",
-      "score": 100,
-      "watchId": "tower-goods",
-      "watchLabel": "限定盤・グッズ",
-      "detectedAt": "2026-10-01T00:45:46.981Z",
-      "post": {
-        "textWithLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学2年生 かん字\n価格未定／タワレコ\nhttps://tower.jp/item/5643254",
-        "textNoLink": "🆕【新着・予約開始】限定盤・グッズ\nポケモンずかんドリル 小学2年生 かん字\n価格未定／タワレコ\n🔗 詳細はプロフィールのリンクから",
-        "lenWithLink": 115,
-        "lenNoLink": 125,
-        "image": "https://cdn.tower.jp/za/m/17/9784092536517.jpg"
       }
     }
   ]
